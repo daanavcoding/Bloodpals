@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <image href="../background/bloodpals-plum-botanical.webp" width="1280" height="640" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1280" height="640" fill="#140b1b" opacity=".14"/>
+  <image href="bloodpals.svg" x="150" y="185" width="980" height="269"/>
+</svg>

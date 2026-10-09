@@ -137,11 +137,13 @@ async function writeScriptPage(script, template, demo) {
     : '';
   const setupTable = renderPlayerCounts(script.playerCounts);
   const nightSequence = renderNightSequence(script.nightSequence);
+  const scriptUrl = 'https://daanavcoding.github.io/Bloodpals/scripts/' + encodeURIComponent(script.slug) + '/';
   const demoBanner = demo
     ? '<div class="demo-banner">DATOS FICTICIOS DE DESARROLLO · NO PUBLICAR</div>'
     : '';
   const html = template
     .replaceAll('{{SCRIPT_TITLE}}', escapeHtml(script.title))
+    .replaceAll('{{SCRIPT_URL}}', escapeHtml(scriptUrl))
     .replace('{{SCRIPT_VERSION}}', version)
     .replace('{{SCRIPT_NOTES}}', notes)
     .replace('{{CHARACTER_COUNT}}', String(script.characters.length).padStart(2, '0'))
