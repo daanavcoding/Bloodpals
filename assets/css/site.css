@@ -15,7 +15,8 @@
 }
 
 :root {
-  color-scheme: light;
+  color-scheme: only light;
+  forced-color-adjust: none;
   --plum: #211329;
   --plum-deep: #140b1b;
   --ink: #29221d;
@@ -798,8 +799,8 @@ dialog.character-dialog[open] .reader-sheet { animation: reader-arrive 180ms cub
   .reading-surface {
     min-height: calc(100vh - 76px);
     padding: 2rem 1rem max(1rem, env(safe-area-inset-bottom));
-    background-color: transparent;
-    background-image: none;
+    background-color: var(--paper);
+    background-image: url("../images/background/bloodpals-canvas-paper.webp");
     background-attachment: scroll;
   }
   .reading-surface.home-main { min-height: 0; }
