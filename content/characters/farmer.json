@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "farmer",
+  "nameOriginal": "Farmer",
+  "nameEs": "Granjero",
+  "abilityEs": "Cuando mueres de noche, un jugador bueno que esté vivo se convierte en Granjero.",
+  "icon": "assets/images/characters/farmer.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Farmer",
+    "revision": "oldid=3085",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/f/fe/Icon_farmer.png"
+}

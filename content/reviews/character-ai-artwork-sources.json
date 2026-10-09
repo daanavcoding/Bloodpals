@@ -1,0 +1,1840 @@
+{
+  "kind": "ai-generated",
+  "tool": "built-in imagegen",
+  "generatedAt": "2026-10-09",
+  "reviewStatus": "reviewed",
+  "note": "Reference-based fan art; no copyright clearance or publication permission implied.",
+  "characters": [
+    {
+      "id": "acrobat",
+      "name": "Acrobat",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/acrobat.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Acrobat",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/b/b5/Icon_acrobat.png",
+      "referenceRevision": 2810,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "alchemist",
+      "name": "Alchemist",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/alchemist.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Alchemist",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/5/54/Icon_alchemist.png",
+      "referenceRevision": 2955,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "alsaahir",
+      "name": "Alsaahir",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/alsaahir.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Alsaahir",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_alsaahir.png",
+      "referenceRevision": 2957,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "amnesiac",
+      "name": "Amnesiac",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/amnesiac.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Amnesiac",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/26/Icon_amnesiac.png",
+      "referenceRevision": 2714,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "artist",
+      "name": "Artist",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/artist.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Artist",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_artist.png",
+      "referenceRevision": 1752,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "atheist",
+      "name": "Atheist",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/atheist.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Atheist",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/4/43/Icon_atheist.png",
+      "referenceRevision": 2958,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "balloonist",
+      "name": "Balloonist",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/balloonist.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Balloonist",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/cb/Icon_balloonist.png",
+      "referenceRevision": 2959,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/banshee.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Banshee",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/63/Icon_banshee.png",
+      "referenceRevision": 2960,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bounty-hunter",
+      "name": "Bounty Hunter",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/bounty-hunter.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Bounty_Hunter",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/5/5b/Icon_bountyhunter.png",
+      "referenceRevision": 2964,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cannibal",
+      "name": "Cannibal",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/cannibal.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Cannibal",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_cannibal.png",
+      "referenceRevision": 2965,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "chambermaid",
+      "name": "Chambermaid",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/chambermaid.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Chambermaid",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/87/Icon_chambermaid.png",
+      "referenceRevision": 2966,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "chef",
+      "name": "Chef",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/chef.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Chef",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_chef.png",
+      "referenceRevision": 2510,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "choirboy",
+      "name": "Choirboy",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/choirboy.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Choirboy",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d9/Icon_choirboy.png",
+      "referenceRevision": 3030,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "clockmaker",
+      "name": "Clockmaker",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/clockmaker.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Clockmaker",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/3/3d/Icon_clockmaker.png",
+      "referenceRevision": 2967,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "courtier",
+      "name": "Courtier",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/courtier.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Courtier",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_courtier.png",
+      "referenceRevision": 2968,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cult-leader",
+      "name": "Cult Leader",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/cult-leader.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Cult_Leader",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/6c/Icon_cultleader.png",
+      "referenceRevision": 3049,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "dreamer",
+      "name": "Dreamer",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/dreamer.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Dreamer",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/f/f2/Icon_dreamer.png",
+      "referenceRevision": 2904,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "empath",
+      "name": "Empath",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/empath.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Empath",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/13/Icon_empath.png",
+      "referenceRevision": 1724,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "engineer",
+      "name": "Engineer",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/engineer.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Engineer",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/b/b9/Icon_engineer.png",
+      "referenceRevision": 2971,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "exorcist",
+      "name": "Exorcist",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/exorcist.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Exorcist",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/c2/Icon_exorcist.png",
+      "referenceRevision": 2973,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/farmer.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Farmer",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/f/fe/Icon_farmer.png",
+      "referenceRevision": 3085,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fisherman",
+      "name": "Fisherman",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/fisherman.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Fisherman",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/19/Icon_fisherman.png",
+      "referenceRevision": 2776,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "flowergirl",
+      "name": "Flowergirl",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/flowergirl.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Flowergirl",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/ac/Icon_flowergirl.png",
+      "referenceRevision": 2907,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fool",
+      "name": "Fool",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/fool.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Fool",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d9/Icon_fool.png",
+      "referenceRevision": 2636,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fortune-teller",
+      "name": "Fortune Teller",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/fortune-teller.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Fortune_Teller",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/9/97/Icon_fortuneteller.png",
+      "referenceRevision": 1887,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gambler",
+      "name": "Gambler",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/gambler.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Gambler",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/f/fd/Icon_gambler.png",
+      "referenceRevision": 3073,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "general",
+      "name": "General",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/general.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/General",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/9/99/Icon_general.png",
+      "referenceRevision": 1910,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gossip",
+      "name": "Gossip",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/gossip.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Gossip",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/c7/Icon_gossip.png",
+      "referenceRevision": 1773,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "grandmother",
+      "name": "Grandmother",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/grandmother.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Grandmother",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/26/Icon_grandmother.png",
+      "referenceRevision": 2978,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "high-priestess",
+      "name": "High Priestess",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/high-priestess.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/High_Priestess",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/63/Icon_highpriestess.png",
+      "referenceRevision": 1994,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "huntsman",
+      "name": "Huntsman",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/huntsman.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Huntsman",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/a1/Icon_huntsman.png",
+      "referenceRevision": 2981,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "innkeeper",
+      "name": "Innkeeper",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/innkeeper.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Innkeeper",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/0c/Icon_innkeeper.png",
+      "referenceRevision": 2982,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "investigator",
+      "name": "Investigator",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/investigator.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Investigator",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/ad/Icon_investigator.png",
+      "referenceRevision": 2983,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "juggler",
+      "name": "Juggler",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/juggler.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Juggler",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/4/42/Icon_juggler.png",
+      "referenceRevision": 2401,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/king.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/King",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/dc/Icon_king.png",
+      "referenceRevision": 2733,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "knight",
+      "name": "Knight",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/knight.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Knight",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_knight.png",
+      "referenceRevision": 2190,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "librarian",
+      "name": "Librarian",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/librarian.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Librarian",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_librarian.png",
+      "referenceRevision": 1721,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lycanthrope",
+      "name": "Lycanthrope",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/lycanthrope.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Lycanthrope",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/9/92/Icon_lycanthrope.png",
+      "referenceRevision": 2735,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "magician",
+      "name": "Magician",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/magician.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Magician",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/9/93/Icon_magician.png",
+      "referenceRevision": 3108,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "mathematician",
+      "name": "Mathematician",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/mathematician.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Mathematician",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/f/f1/Icon_mathematician.png",
+      "referenceRevision": 3109,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "mayor",
+      "name": "Mayor",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/mayor.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Mayor",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/a1/Icon_mayor.png",
+      "referenceRevision": 2995,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "minstrel",
+      "name": "Minstrel",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/minstrel.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Minstrel",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/24/Icon_minstrel.png",
+      "referenceRevision": 2600,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "monk",
+      "name": "Monk",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/monk.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Monk",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/7/7c/Icon_monk.png",
+      "referenceRevision": 3072,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "nightwatchman",
+      "name": "Nightwatchman",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/nightwatchman.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Nightwatchman",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/f/f0/Icon_nightwatchman.png",
+      "referenceRevision": 2827,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "noble",
+      "name": "Noble",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/noble.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Noble",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/cc/Icon_noble.png",
+      "referenceRevision": 1953,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/oracle.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Oracle",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/b/bb/Icon_oracle.png",
+      "referenceRevision": 2909,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pacifist",
+      "name": "Pacifist",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/pacifist.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Pacifist",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/5/5d/Icon_pacifist.png",
+      "referenceRevision": 2601,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "philosopher",
+      "name": "Philosopher",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/philosopher.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Philosopher",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/5/5d/Icon_philosopher.png",
+      "referenceRevision": 2421,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pixie",
+      "name": "Pixie",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/pixie.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Pixie",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_pixie.png",
+      "referenceRevision": 1955,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "poppy-grower",
+      "name": "Poppy Grower",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/poppy-grower.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Poppy_Grower",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/9/91/Icon_poppygrower.png",
+      "referenceRevision": 3087,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "preacher",
+      "name": "Preacher",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/preacher.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Preacher",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/82/Icon_preacher.png",
+      "referenceRevision": 3002,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "princess",
+      "name": "Princess",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/princess.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Princess",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/3/36/Icon_princess.png",
+      "referenceRevision": 3003,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "professor",
+      "name": "Professor",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/professor.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Professor",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/65/Icon_professor.png",
+      "referenceRevision": 1775,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ravenkeeper",
+      "name": "Ravenkeeper",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/ravenkeeper.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Ravenkeeper",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/ef/Icon_ravenkeeper.png",
+      "referenceRevision": 3006,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/sage.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Sage",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/a0/Icon_sage.png",
+      "referenceRevision": 3009,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sailor",
+      "name": "Sailor",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/sailor.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Sailor",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_sailor.png",
+      "referenceRevision": 1768,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "savant",
+      "name": "Savant",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/savant.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Savant",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_savant.png",
+      "referenceRevision": 2910,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "seamstress",
+      "name": "Seamstress",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/seamstress.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Seamstress",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/5/53/Icon_seamstress.png",
+      "referenceRevision": 1999,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "shugenja",
+      "name": "Shugenja",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/shugenja.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Shugenja",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/11/Icon_shugenja.png",
+      "referenceRevision": 1942,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "slayer",
+      "name": "Slayer",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/slayer.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Slayer",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d3/Icon_slayer.png",
+      "referenceRevision": 3011,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "snake-charmer",
+      "name": "Snake Charmer",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/snake-charmer.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Snake_Charmer",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_snakecharmer.png",
+      "referenceRevision": 2905,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "soldier",
+      "name": "Soldier",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/soldier.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Soldier",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/c3/Icon_soldier.png",
+      "referenceRevision": 3012,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "steward",
+      "name": "Steward",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/steward.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Steward",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/f/fe/Icon_steward.png",
+      "referenceRevision": 2867,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tea-lady",
+      "name": "Tea Lady",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/tea-lady.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Tea_Lady",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_tealady.png",
+      "referenceRevision": 1777,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "town-crier",
+      "name": "Town Crier",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/town-crier.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Town_Crier",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/ef/Icon_towncrier.png",
+      "referenceRevision": 2908,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "undertaker",
+      "name": "Undertaker",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/undertaker.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Undertaker",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/05/Icon_undertaker.png",
+      "referenceRevision": 2607,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "village-idiot",
+      "name": "Village Idiot",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/village-idiot.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Village_Idiot",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/da/Icon_villageidiot.png",
+      "referenceRevision": 2685,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "virgin",
+      "name": "Virgin",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/virgin.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Virgin",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d3/Icon_virgin.png",
+      "referenceRevision": 1729,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "washerwoman",
+      "name": "Washerwoman",
+      "category": "Townsfolk",
+      "icon": "assets/images/characters/washerwoman.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Washerwoman",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/85/Icon_washerwoman.png",
+      "referenceRevision": 2630,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "barber",
+      "name": "Barber",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/barber.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Barber",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_barber.png",
+      "referenceRevision": 1757,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "butler",
+      "name": "Butler",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/butler.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Butler",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/19/Icon_butler.png",
+      "referenceRevision": 3098,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "damsel",
+      "name": "Damsel",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/damsel.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Damsel",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/dc/Icon_damsel.png",
+      "referenceRevision": 2969,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "drunk",
+      "name": "Drunk",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/drunk.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Drunk",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/4/4a/Icon_drunk.png",
+      "referenceRevision": 3110,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "golem",
+      "name": "Golem",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/golem.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Golem",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/2b/Icon_golem.png",
+      "referenceRevision": 2912,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "goon",
+      "name": "Goon",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/goon.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Goon",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/6f/Icon_goon.png",
+      "referenceRevision": 2977,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hatter",
+      "name": "Hatter",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/hatter.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Hatter",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/4/44/Icon_hatter.png",
+      "referenceRevision": 3092,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "heretic",
+      "name": "Heretic",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/heretic.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Heretic",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/4/4a/Icon_heretic.png",
+      "referenceRevision": 2980,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hermit",
+      "name": "Hermit",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/hermit.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Hermit",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/b/b4/Icon_hermit.png",
+      "referenceRevision": 2805,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "klutz",
+      "name": "Klutz",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/klutz.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Klutz",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/b/bc/Icon_klutz.png",
+      "referenceRevision": 1758,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lunatic",
+      "name": "Lunatic",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/lunatic.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Lunatic",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/64/Icon_lunatic.png",
+      "referenceRevision": 3112,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "moonchild",
+      "name": "Moonchild",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/moonchild.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Moonchild",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/dc/Icon_moonchild.png",
+      "referenceRevision": 1783,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "mutant",
+      "name": "Mutant",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/mutant.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Mutant",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/2e/Icon_mutant.png",
+      "referenceRevision": 1755,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ogre",
+      "name": "Ogre",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/ogre.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Ogre",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/25/Icon_ogre.png",
+      "referenceRevision": 2617,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "plague-doctor",
+      "name": "Plague Doctor",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/plague-doctor.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Plague_Doctor",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/e2/Icon_plaguedoctor.png",
+      "referenceRevision": 3084,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "politician",
+      "name": "Politician",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/politician.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Politician",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/a3/Icon_politician.png",
+      "referenceRevision": 3000,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "puzzlemaster",
+      "name": "Puzzlemaster",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/puzzlemaster.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Puzzlemaster",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/7/7a/Icon_puzzlemaster.png",
+      "referenceRevision": 2119,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "qutler",
+      "name": "Qutler",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/qutler.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Qutler",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/b/b0/Icon_qutler.png",
+      "referenceRevision": 3093,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "recluse",
+      "name": "Recluse",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/recluse.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Recluse",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/60/Icon_recluse.png",
+      "referenceRevision": 3007,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "saint",
+      "name": "Saint",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/saint.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Saint",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/c9/Icon_saint.png",
+      "referenceRevision": 2603,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "snitch",
+      "name": "Snitch",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/snitch.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Snitch",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/c1/Icon_snitch.png",
+      "referenceRevision": 3029,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sweetheart",
+      "name": "Sweetheart",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/sweetheart.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Sweetheart",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/6a/Icon_sweetheart.png",
+      "referenceRevision": 2704,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tinker",
+      "name": "Tinker",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/tinker.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Tinker",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/9/98/Icon_tinker.png",
+      "referenceRevision": 1782,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "zealot",
+      "name": "Zealot",
+      "category": "Outsiders",
+      "icon": "assets/images/characters/zealot.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Zealot",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_zealot.png",
+      "referenceRevision": 3021,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "assassin",
+      "name": "Assassin",
+      "category": "Minions",
+      "icon": "assets/images/characters/assassin.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Assassin",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/4/49/Icon_assassin.png",
+      "referenceRevision": 1786,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "baron",
+      "name": "Baron",
+      "category": "Minions",
+      "icon": "assets/images/characters/baron.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Baron",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/6d/Icon_baron.png",
+      "referenceRevision": 2961,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "boffin",
+      "name": "Boffin",
+      "category": "Minions",
+      "icon": "assets/images/characters/boffin.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Boffin",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_boffin.png",
+      "referenceRevision": 2962,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "boomdandy",
+      "name": "Boomdandy",
+      "category": "Minions",
+      "icon": "assets/images/characters/boomdandy.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Boomdandy",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/20/Icon_boomdandy.png",
+      "referenceRevision": 2963,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cerenovus",
+      "name": "Cerenovus",
+      "category": "Minions",
+      "icon": "assets/images/characters/cerenovus.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Cerenovus",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/4/45/Icon_cerenovus.png",
+      "referenceRevision": 3048,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "devils-advocate",
+      "name": "Devil's Advocate",
+      "category": "Minions",
+      "icon": "assets/images/characters/devils-advocate.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Devil's_Advocate",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/09/Icon_devilsadvocate.png",
+      "referenceRevision": 2594,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "evil-twin",
+      "name": "Evil Twin",
+      "category": "Minions",
+      "icon": "assets/images/characters/evil-twin.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Evil_Twin",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/f/f4/Icon_eviltwin.png",
+      "referenceRevision": 3101,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fearmonger",
+      "name": "Fearmonger",
+      "category": "Minions",
+      "icon": "assets/images/characters/fearmonger.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Fearmonger",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/11/Icon_fearmonger.png",
+      "referenceRevision": 2975,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "goblin",
+      "name": "Goblin",
+      "category": "Minions",
+      "icon": "assets/images/characters/goblin.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Goblin",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/e2/Icon_goblin.png",
+      "referenceRevision": 2976,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "godfather",
+      "name": "Godfather",
+      "category": "Minions",
+      "icon": "assets/images/characters/godfather.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Godfather",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d0/Icon_godfather.png",
+      "referenceRevision": 2394,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "harpy",
+      "name": "Harpy",
+      "category": "Minions",
+      "icon": "assets/images/characters/harpy.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Harpy",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d3/Icon_harpy.png",
+      "referenceRevision": 3103,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "marionette",
+      "name": "Marionette",
+      "category": "Minions",
+      "icon": "assets/images/characters/marionette.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Marionette",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/cf/Icon_marionette.png",
+      "referenceRevision": 3111,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "mastermind",
+      "name": "Mastermind",
+      "category": "Minions",
+      "icon": "assets/images/characters/mastermind.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Mastermind",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_mastermind.png",
+      "referenceRevision": 2993,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "mezepheles",
+      "name": "Mezepheles",
+      "category": "Minions",
+      "icon": "assets/images/characters/mezepheles.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Mezepheles",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/f/f2/Icon_mezepheles.png",
+      "referenceRevision": 3083,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "organ-grinder",
+      "name": "Organ Grinder",
+      "category": "Minions",
+      "icon": "assets/images/characters/organ-grinder.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Organ_Grinder",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/61/Icon_organgrinder.png",
+      "referenceRevision": 2997,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pit-hag",
+      "name": "Pit-Hag",
+      "category": "Minions",
+      "icon": "assets/images/characters/pit-hag.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Pit-Hag",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/6b/Icon_pithag.png",
+      "referenceRevision": 2998,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "poisoner",
+      "name": "Poisoner",
+      "category": "Minions",
+      "icon": "assets/images/characters/poisoner.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Poisoner",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/b/b1/Icon_poisoner.png",
+      "referenceRevision": 1737,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "psychopath",
+      "name": "Psychopath",
+      "category": "Minions",
+      "icon": "assets/images/characters/psychopath.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Psychopath",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/a3/Icon_psychopath.png",
+      "referenceRevision": 3004,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "scarlet-woman",
+      "name": "Scarlet Woman",
+      "category": "Minions",
+      "icon": "assets/images/characters/scarlet-woman.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Scarlet_Woman",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/13/Icon_scarletwoman.png",
+      "referenceRevision": 3010,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "spy",
+      "name": "Spy",
+      "category": "Minions",
+      "icon": "assets/images/characters/spy.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Spy",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/5/54/Icon_spy.png",
+      "referenceRevision": 3013,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "summoner",
+      "name": "Summoner",
+      "category": "Minions",
+      "icon": "assets/images/characters/summoner.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Summoner",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_summoner.png",
+      "referenceRevision": 3014,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vizier",
+      "name": "Vizier",
+      "category": "Minions",
+      "icon": "assets/images/characters/vizier.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Vizier",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/a4/Icon_vizier.png",
+      "referenceRevision": 3016,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "widow",
+      "name": "Widow",
+      "category": "Minions",
+      "icon": "assets/images/characters/widow.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Widow",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/9/99/Icon_widow.png",
+      "referenceRevision": 3018,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "witch",
+      "name": "Witch",
+      "category": "Minions",
+      "icon": "assets/images/characters/witch.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Witch",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/7/7b/Icon_witch.png",
+      "referenceRevision": 2682,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "wizard",
+      "name": "Wizard",
+      "category": "Minions",
+      "icon": "assets/images/characters/wizard.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Wizard",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/b/b5/Icon_wizard.png",
+      "referenceRevision": 2689,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "wraith",
+      "name": "Wraith",
+      "category": "Minions",
+      "icon": "assets/images/characters/wraith.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Wraith",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/8f/Icon_wraith.png",
+      "referenceRevision": 3019,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "xaan",
+      "name": "Xaan",
+      "category": "Minions",
+      "icon": "assets/images/characters/xaan.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Xaan",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/0c/Icon_xaan.png",
+      "referenceRevision": 3082,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "al-hadikhia",
+      "name": "Al-Hadikhia",
+      "category": "Demons",
+      "icon": "assets/images/characters/al-hadikhia.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Al-Hadikhia",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/18/Icon_alhadikhia.png",
+      "referenceRevision": 2956,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fang-gu",
+      "name": "Fang Gu",
+      "category": "Demons",
+      "icon": "assets/images/characters/fang-gu.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Fang_Gu",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/0e/Icon_fanggu.png",
+      "referenceRevision": 2974,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "imp",
+      "name": "Imp",
+      "category": "Demons",
+      "icon": "assets/images/characters/imp.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Imp",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/5/5c/Icon_imp.png",
+      "referenceRevision": 1741,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "kazali",
+      "name": "Kazali",
+      "category": "Demons",
+      "icon": "assets/images/characters/kazali.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Kazali",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/3/3c/Icon_kazali.png",
+      "referenceRevision": 3077,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "legion",
+      "name": "Legion",
+      "category": "Demons",
+      "icon": "assets/images/characters/legion.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Legion",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/cb/Icon_legion.png",
+      "referenceRevision": 3107,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "leviathan",
+      "name": "Leviathan",
+      "category": "Demons",
+      "icon": "assets/images/characters/leviathan.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Leviathan",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/a7/Icon_leviathan.png",
+      "referenceRevision": 2986,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lil-monsta",
+      "name": "Lil' Monsta",
+      "category": "Demons",
+      "icon": "assets/images/characters/lil-monsta.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Lil'_Monsta",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/c3/Icon_lilmonsta.png",
+      "referenceRevision": 3080,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lleech",
+      "name": "Lleech",
+      "category": "Demons",
+      "icon": "assets/images/characters/lleech.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Lleech",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/7/70/Icon_lleech.png",
+      "referenceRevision": 2988,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "lord-of-typhon",
+      "name": "Lord of Typhon",
+      "category": "Demons",
+      "icon": "assets/images/characters/lord-of-typhon.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Lord_of_Typhon",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/cf/Icon_lordoftyphon.png",
+      "referenceRevision": 3079,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "no-dashii",
+      "name": "No Dashii",
+      "category": "Demons",
+      "icon": "assets/images/characters/no-dashii.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/No_Dashii",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/eb/Icon_nodashii.png",
+      "referenceRevision": 2950,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ojo",
+      "name": "Ojo",
+      "category": "Demons",
+      "icon": "assets/images/characters/ojo.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Ojo",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/6f/Icon_ojo.png",
+      "referenceRevision": 2692,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "po",
+      "name": "Po",
+      "category": "Demons",
+      "icon": "assets/images/characters/po.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Po",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/b/b2/Icon_po.png",
+      "referenceRevision": 3104,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pukka",
+      "name": "Pukka",
+      "category": "Demons",
+      "icon": "assets/images/characters/pukka.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Pukka",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/f/f4/Icon_pukka.png",
+      "referenceRevision": 3074,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "riot",
+      "name": "Riot",
+      "category": "Demons",
+      "icon": "assets/images/characters/riot.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Riot",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/2d/Icon_riot.png",
+      "referenceRevision": 3008,
+      "reviewStatus": "reviewed",
+      "generationNote": "Original recreation blocked by image generator output safety filter (request 7a31895c-a38b-4f63-875e-b6988fc0e496). Alternative circular arrangement of eight curved arrows; lower visual resemblance."
+    },
+    {
+      "id": "shabaloth",
+      "name": "Shabaloth",
+      "category": "Demons",
+      "icon": "assets/images/characters/shabaloth.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Shabaloth",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/1f/Icon_shabaloth.png",
+      "referenceRevision": 1790,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vigormortis",
+      "name": "Vigormortis",
+      "category": "Demons",
+      "icon": "assets/images/characters/vigormortis.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Vigormortis",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_vigormortis.png",
+      "referenceRevision": 3015,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "vortox",
+      "name": "Vortox",
+      "category": "Demons",
+      "icon": "assets/images/characters/vortox.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Vortox",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/89/Icon_vortox.png",
+      "referenceRevision": 3017,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "yaggababble",
+      "name": "Yaggababble",
+      "category": "Demons",
+      "icon": "assets/images/characters/yaggababble.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Yaggababble",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_yaggababble.png",
+      "referenceRevision": 3078,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "zombuul",
+      "name": "Zombuul",
+      "category": "Demons",
+      "icon": "assets/images/characters/zombuul.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Zombuul",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/15/Icon_zombuul.png",
+      "referenceRevision": 3022,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "apprentice",
+      "name": "Apprentice",
+      "category": "Travellers",
+      "icon": "assets/images/characters/apprentice.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Apprentice",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/03/Icon_apprentice.png",
+      "referenceRevision": 1792,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "barista",
+      "name": "Barista",
+      "category": "Travellers",
+      "icon": "assets/images/characters/barista.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Barista",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/24/Icon_barista.png",
+      "referenceRevision": 2694,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "beggar",
+      "name": "Beggar",
+      "category": "Travellers",
+      "icon": "assets/images/characters/beggar.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Beggar",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/e3/Icon_beggar.png",
+      "referenceRevision": 2100,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bishop",
+      "name": "Bishop",
+      "category": "Travellers",
+      "icon": "assets/images/characters/bishop.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Bishop",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/7/71/Icon_bishop.png",
+      "referenceRevision": 1796,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bone-collector",
+      "name": "Bone Collector",
+      "category": "Travellers",
+      "icon": "assets/images/characters/bone-collector.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Bone_Collector",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/9/9e/Icon_bonecollector.png",
+      "referenceRevision": 2485,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bureaucrat",
+      "name": "Bureaucrat",
+      "category": "Travellers",
+      "icon": "assets/images/characters/bureaucrat.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Bureaucrat",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/b/b1/Icon_bureaucrat.png",
+      "referenceRevision": 1805,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "butcher",
+      "name": "Butcher",
+      "category": "Travellers",
+      "icon": "assets/images/characters/butcher.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Butcher",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/e3/Icon_butcher.png",
+      "referenceRevision": 2101,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "cacklejack",
+      "name": "Cacklejack",
+      "category": "Travellers",
+      "icon": "assets/images/characters/cacklejack.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Cacklejack",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d7/Icon_cacklejack.png",
+      "referenceRevision": 2901,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "deviant",
+      "name": "Deviant",
+      "category": "Travellers",
+      "icon": "assets/images/characters/deviant.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Deviant",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/a5/Icon_deviant.png",
+      "referenceRevision": 2661,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gangster",
+      "name": "Gangster",
+      "category": "Travellers",
+      "icon": "assets/images/characters/gangster.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Gangster",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/a/a5/Icon_gangster.png",
+      "referenceRevision": 2774,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gnome",
+      "name": "Gnome",
+      "category": "Travellers",
+      "icon": "assets/images/characters/gnome.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Gnome",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_gnome.png",
+      "referenceRevision": 2633,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gunslinger",
+      "name": "Gunslinger",
+      "category": "Travellers",
+      "icon": "assets/images/characters/gunslinger.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Gunslinger",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/1c/Icon_gunslinger.png",
+      "referenceRevision": 2098,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "harlot",
+      "name": "Harlot",
+      "category": "Travellers",
+      "icon": "assets/images/characters/harlot.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Harlot",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/60/Icon_harlot.png",
+      "referenceRevision": 2105,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "judge",
+      "name": "Judge",
+      "category": "Travellers",
+      "icon": "assets/images/characters/judge.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Judge",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/5/59/Icon_judge.png",
+      "referenceRevision": 2108,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "matron",
+      "name": "Matron",
+      "category": "Travellers",
+      "icon": "assets/images/characters/matron.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Matron",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/21/Icon_matron.png",
+      "referenceRevision": 3047,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "scapegoat",
+      "name": "Scapegoat",
+      "category": "Travellers",
+      "icon": "assets/images/characters/scapegoat.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Scapegoat",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/3/3a/Icon_scapegoat.png",
+      "referenceRevision": 2646,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "thief",
+      "name": "Thief",
+      "category": "Travellers",
+      "icon": "assets/images/characters/thief.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Thief",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/7/77/Icon_thief.png",
+      "referenceRevision": 2112,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "voudon",
+      "name": "Voudon",
+      "category": "Travellers",
+      "icon": "assets/images/characters/voudon.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Voudon",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/6d/Icon_voudon.png",
+      "referenceRevision": 1794,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "angel",
+      "name": "Angel",
+      "category": "Fabled",
+      "icon": "assets/images/characters/angel.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Angel",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/c/ca/Icon_angel.png",
+      "referenceRevision": 1446,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "buddhist",
+      "name": "Buddhist",
+      "category": "Fabled",
+      "icon": "assets/images/characters/buddhist.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Buddhist",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/25/Icon_buddhist.png",
+      "referenceRevision": 1483,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "deus-ex-fiasco",
+      "name": "Deus ex Fiasco",
+      "category": "Fabled",
+      "icon": "assets/images/characters/deus-ex-fiasco.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Deus_ex_Fiasco",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/7/71/Icon_deusexfiasco.png",
+      "referenceRevision": 2893,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "djinn",
+      "name": "Djinn",
+      "category": "Fabled",
+      "icon": "assets/images/characters/djinn.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Djinn",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/86/Icon_djinn.png",
+      "referenceRevision": 3106,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "doomsayer",
+      "name": "Doomsayer",
+      "category": "Fabled",
+      "icon": "assets/images/characters/doomsayer.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Doomsayer",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/8f/Icon_doomsayer.png",
+      "referenceRevision": 1476,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "duchess",
+      "name": "Duchess",
+      "category": "Fabled",
+      "icon": "assets/images/characters/duchess.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Duchess",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/87/Icon_duchess.png",
+      "referenceRevision": 1485,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ferryman",
+      "name": "Ferryman",
+      "category": "Fabled",
+      "icon": "assets/images/characters/ferryman.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Ferryman",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/8f/Icon_ferryman.png",
+      "referenceRevision": 2063,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fibbin",
+      "name": "Fibbin",
+      "category": "Fabled",
+      "icon": "assets/images/characters/fibbin.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Fibbin",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/2e/Icon_fibbin.png",
+      "referenceRevision": 1477,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "fiddler",
+      "name": "Fiddler",
+      "category": "Fabled",
+      "icon": "assets/images/characters/fiddler.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Fiddler",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/e/e5/Icon_fiddler.png",
+      "referenceRevision": 1540,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hells-librarian",
+      "name": "Hell's Librarian",
+      "category": "Fabled",
+      "icon": "assets/images/characters/hells-librarian.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Hell's_Librarian",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/65/Icon_hellslibrarian.png",
+      "referenceRevision": 1479,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "revolutionary",
+      "name": "Revolutionary",
+      "category": "Fabled",
+      "icon": "assets/images/characters/revolutionary.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Revolutionary",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/9/94/Icon_revolutionary.png",
+      "referenceRevision": 1480,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "sentinel",
+      "name": "Sentinel",
+      "category": "Fabled",
+      "icon": "assets/images/characters/sentinel.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Sentinel",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/d/d4/Icon_sentinel.png",
+      "referenceRevision": 1486,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "spirit-of-ivory",
+      "name": "Spirit of Ivory",
+      "category": "Fabled",
+      "icon": "assets/images/characters/spirit-of-ivory.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Spirit_of_Ivory",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/9/96/Icon_spiritofivory.png",
+      "referenceRevision": 2215,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "toymaker",
+      "name": "Toymaker",
+      "category": "Fabled",
+      "icon": "assets/images/characters/toymaker.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Toymaker",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/27/Icon_toymaker.png",
+      "referenceRevision": 2844,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "big-wig",
+      "name": "Big Wig",
+      "category": "Loric",
+      "icon": "assets/images/characters/big-wig.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Big_Wig",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/8/8f/Icon_big_wig.png",
+      "referenceRevision": 2920,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "bootlegger",
+      "name": "Bootlegger",
+      "category": "Loric",
+      "icon": "assets/images/characters/bootlegger.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Bootlegger",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_bootlegger.png",
+      "referenceRevision": 2951,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "gardener",
+      "name": "Gardener",
+      "category": "Loric",
+      "icon": "assets/images/characters/gardener.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Gardener",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/5/5c/Icon_gardener.png",
+      "referenceRevision": 3090,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "god-of-ug",
+      "name": "God of Ug",
+      "category": "Loric",
+      "icon": "assets/images/characters/god-of-ug.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/God_of_Ug",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/4/4c/Icon_godofug.png",
+      "referenceRevision": 3065,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "god-of-ug-ug-mode",
+      "name": "God of Ug (Ug Mode)",
+      "category": "Loric",
+      "icon": "assets/images/characters/god-of-ug-ug-mode.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/God_of_Ug_(Ug_Mode)",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/4/4c/Icon_godofug.png",
+      "referenceRevision": 3086,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "category": "Loric",
+      "icon": "assets/images/characters/hindu.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Hindu",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/69/Icon_hindu.png",
+      "referenceRevision": 3042,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "knaves",
+      "name": "Knaves",
+      "category": "Loric",
+      "icon": "assets/images/characters/knaves.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Knaves",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/2/2a/Icon_knaves.png",
+      "referenceRevision": 3068,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "pope",
+      "name": "Pope",
+      "category": "Loric",
+      "icon": "assets/images/characters/pope.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Pope",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/1/14/Icon_pope.png",
+      "referenceRevision": 3043,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "storm-catcher",
+      "name": "Storm Catcher",
+      "category": "Loric",
+      "icon": "assets/images/characters/storm-catcher.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Storm_Catcher",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_stormcatcher.png",
+      "referenceRevision": 2952,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tor",
+      "name": "Tor",
+      "category": "Loric",
+      "icon": "assets/images/characters/tor.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Tor",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/6/61/Icon_tor.png",
+      "referenceRevision": 2919,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "ventriloquist",
+      "name": "Ventriloquist",
+      "category": "Loric",
+      "icon": "assets/images/characters/ventriloquist.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Ventriloquist",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/0/09/Icon_ventriloquist.png",
+      "referenceRevision": 3055,
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "zenomancer",
+      "name": "Zenomancer",
+      "category": "Loric",
+      "icon": "assets/images/characters/zenomancer.webp",
+      "referencePage": "https://wiki.bloodontheclocktower.com/Zenomancer",
+      "referenceImage": "https://wiki.bloodontheclocktower.com/images/4/44/Icon_zenomancer.png",
+      "referenceRevision": 3024,
+      "reviewStatus": "reviewed"
+    }
+  ]
+}

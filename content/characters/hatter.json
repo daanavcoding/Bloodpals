@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "hatter",
+  "nameOriginal": "Hatter",
+  "nameEs": "Sombrerero",
+  "abilityEs": "Si mueres hoy o esta noche, los Esbirros y el Demonio pueden elegir nuevos personajes de su mismo tipo.",
+  "icon": "assets/images/characters/hatter.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Hatter",
+    "revision": "oldid=3092",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/4/44/Icon_hatter.png"
+}

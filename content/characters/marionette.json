@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "marionette",
+  "nameOriginal": "Marionette",
+  "nameEs": "Marioneta",
+  "abilityEs": "Crees que eres un personaje bueno, pero no lo eres. El Demonio sabe quién eres. [Estás sentado al lado del demonio]",
+  "icon": "assets/images/characters/marionette.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Marionette",
+    "revision": "oldid=3111",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/c/cf/Icon_marionette.png"
+}

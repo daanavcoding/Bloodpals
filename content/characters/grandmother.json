@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "grandmother",
+  "nameOriginal": "Grandmother",
+  "nameEs": "Abuela",
+  "abilityEs": "Empiezas conociendo a un jugador bueno y a su personaje. Si el Demonio lo mata, tú también mueres.",
+  "icon": "assets/images/characters/grandmother.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Grandmother",
+    "revision": "oldid=2978",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/2/26/Icon_grandmother.png"
+}

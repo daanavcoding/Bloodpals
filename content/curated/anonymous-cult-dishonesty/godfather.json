@@ -1,0 +1,318 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "godfather",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Godfather",
+    "revision": "oldid=2394",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Padrino se venga cuando el pueblo mata a un Forastero."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Condición de activación y muerte nocturna adicional.",
+      "textEs": "Cuando ejecutan y muere un Forastero, el Padrino elige a un jugador esa noche para que muera."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Solo cuentan muertes diurnas de Forasteros.",
+      "textEs": "El Padrino solo mata si un Forastero muere durante el día. Los Forasteros que mueren de noche no cuentan."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Modificación de la cantidad de Forasteros durante la preparación.",
+      "textEs": "Si el Padrino está en juego, se añade o se quita un Forastero de la partida."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Información inicial del Padrino.",
+      "textEs": "Al principio de la partida, el Padrino aprende qué Forasteros están en juego."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Solo puede matar a un jugador por noche aunque mueran varios Forasteros.",
+      "textEs": "Si dos Forasteros murieron hoy, el Padrino sigue eligiendo a un solo jugador para matar esa noche."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre la modificación del recuento y la muerte extra.",
+      "textEs": "El Narrador añade o quita un Forastero de la preparación. Puedes matar de noche a jugadores buenos inocentes, pero solo si convences al pueblo de que haga el trabajo por ti. Tu habilidad es sutil y poderosa si la aprovechas bien."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "lunatic",
+        "goon",
+        "mezepheles"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de Lunático, Goon y Mezepheles, ausentes; se conserva la utilidad general de conocer la lista de Forasteros.",
+      "textEs": "Saber qué Forasteros están en juego ayuda a tu equipo a anticipar la partida. Usa esa información para ajustar los faroles y coordinar a tu equipo malvado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general cuando aparece un Forastero menos de lo esperado.",
+      "textEs": "Si hay un Forastero menos de lo esperado, puedes cubrir esa diferencia con un farol. El grupo suele fijarse cuando hay más o menos Forasteros, pero puede pasar por alto que el número coincide exactamente con lo previsto."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [
+        "mastermind"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Cerebro, ausente; se conserva la estrategia general para ocultar si hay Padrino y aprovechar el recuento adicional.",
+      "textEs": "Si hay un Forastero más de lo esperado, intenta convencer al pueblo de que no hay Padrino y que uno de los Forasteros miente y es malvado. Si te creen, podrían ejecutarlo y darte una muerte adicional esa noche."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "moonchild"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó la interacción con el Niño de la Luna, ausente; se conserva la estrategia de conseguir que ejecuten Forasteros para activar la habilidad.",
+      "textEs": "Consigue que ejecuten a los Forasteros por cualquier medio. Así matas a un jugador bueno y obtienes una muerte adicional esa noche; si lo coordinas bien, tu equipo puede lanzar un contraataque devastador."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para coordinar la muerte adicional con el Demonio.",
+      "textEs": "Coordina con el Demonio cuando puedas matar para maximizar las muertes. Sería una pena elegir a un jugador que el Demonio iba a matar de todos modos. Si mueren varias personas en una noche, el equipo bueno puede entrar en pánico."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se aclara la estrategia oficial de ocultar la habilidad: no se almacena ni se acumula un uso de la muerte adicional.",
+      "textEs": "Cuando puedas matar, puedes elegir deliberadamente a un jugador muerto para ocultar la muerte adicional y que hay un Padrino. Si el grupo sospecha que estás en juego, suele dejar de matar Forasteros; ocultarte mantiene las sospechas sobre ellos. Renunciar ahora a una muerte puede facilitar una oportunidad más dañina al final de la partida."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "lunatic",
+        "moonchild",
+        "tinker",
+        "minstrel",
+        "pacifist",
+        "devils-advocate"
+      ],
+      "requiredCharacterIds": [
+        "lunatic",
+        "moonchild",
+        "tinker",
+        "minstrel",
+        "pacifist",
+        "devils-advocate"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Lunático, Niño de la Luna, Artesano, Trovador, Pacificador y Abogado del Diablo, ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "tinker",
+        "devils-advocate"
+      ],
+      "requiredCharacterIds": [
+        "tinker",
+        "devils-advocate"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Artesano y el Abogado del Diablo, ausentes del guion."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ajuste de la cantidad de personajes en la preparación.",
+      "textEs": "Durante la preparación, antes de poner las fichas en la bolsa, quita un Aldeano y añade un Forastero, o quita un Forastero y añade un Aldeano."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Información inicial sobre Forasteros.",
+      "textEs": "Durante la primera noche, despierta al Padrino y muéstrale las fichas de personaje de todos los Forasteros en juego. Vuelve a dormirlo."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conserva el disparador de How to Run: cualquier muerte diurna de Forastero, sin exigir ejecución.",
+      "textEs": "Si un Forastero muere durante el día, márcalo con MURIÓ HOY. Esa noche, despierta al Padrino; el Padrino señala a cualquier jugador. Vuelve a dormirlo. El jugador elegido muere: márcalo con MUERTO."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "El Padrino se venga cuando el pueblo mata a un Forastero. Si un Forastero es ejecutado y muere, elige a un jugador para que muera esa noche. Solo cuentan las muertes de Forasteros durante el día, no las nocturnas.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Si el Padrino está en juego, se añade o se quita un Forastero de la partida.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Al principio de la partida, el Padrino aprende qué Forasteros están en juego.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "Si dos Forasteros murieron hoy, el Padrino sigue eligiendo a un solo jugador para matar esa noche.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "El Narrador añade o quita un Forastero de preparación; saber cuáles hay permite prever la partida, ajustar faroles y coordinar al equipo. Convencer al pueblo de matar Forasteros permite muertes nocturnas extra: la habilidad puede ser sutil y poderosa si la aprovechas.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2"
+        ]
+      },
+      {
+        "textEs": "Si falta un Forastero respecto a lo esperado, cubre el hueco con un farol: un recuento normal suele pasar inadvertido. Si sobra uno, intenta que nieguen al Padrino y crean malvado a un Forastero; su ejecución puede darte una muerte extra.",
+        "sourceUnits": [
+          "tips-3",
+          "tips-4"
+        ]
+      },
+      {
+        "textEs": "Busca ejecuciones de Forasteros: eliminas a un bueno y activas otra muerte; un momento bien coordinado permite un contraataque. Habla con el Demonio para maximizar muertes sin elegir al mismo objetivo; varias en una noche pueden causar pánico.",
+        "sourceUnits": [
+          "tips-5",
+          "tips-6"
+        ]
+      },
+      {
+        "textEs": "Cuando puedas matar, puedes elegir deliberadamente a un jugador muerto para ocultar la muerte adicional y que hay un Padrino. Si el grupo sospecha que estás en juego, suele dejar de matar Forasteros; ocultarte mantiene las sospechas sobre ellos. Renunciar ahora a una muerte puede facilitar una oportunidad más dañina al final de la partida.",
+        "sourceUnits": [
+          "tips-7"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [],
+    "howToRun": [
+      {
+        "textEs": "Durante la preparación, antes de poner las fichas en la bolsa, quita un Aldeano y añade un Forastero, o quita un Forastero y añade un Aldeano.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Durante la primera noche, despierta al Padrino y muéstrale las fichas de personaje de todos los Forasteros en juego. Vuelve a dormirlo.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "Si un Forastero muere durante el día, márcalo con MURIÓ HOY. Esa noche, despierta al Padrino; el Padrino señala a cualquier jugador. Vuelve a dormirlo. El jugador elegido muere: márcalo con MUERTO.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

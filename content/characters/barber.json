@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "barber",
+  "nameOriginal": "Barber",
+  "nameEs": "Barbero",
+  "abilityEs": "Si mueres hoy o esta noche, el Demonio puede elegir a dos jugadores para intercambiar sus personajes; no puede elegir a otro Demonio.",
+  "icon": "assets/images/characters/barber.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Barber",
+    "revision": "oldid=1757",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_barber.png"
+}

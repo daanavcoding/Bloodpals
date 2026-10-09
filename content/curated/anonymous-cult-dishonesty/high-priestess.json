@@ -1,0 +1,415 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "high-priestess",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/High_Priestess",
+    "revision": "oldid=1994",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "La Suma Sacerdotisa actúa por intuición."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre si se repite el jugador mostrado.",
+      "textEs": "La Suma Sacerdotisa puede recibir el mismo jugador varias noches seguidas o uno distinto cada noche."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración de que el jugador mostrado puede estar vivo o muerto.",
+      "textEs": "El jugador mostrado puede estar vivo o muerto."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración de que el jugador mostrado puede ser bueno o malvado.",
+      "textEs": "El jugador mostrado puede ser bueno o malvado."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de la libertad de criterio del Narrador.",
+      "textEs": "No hay criterios oficiales que determinen a quién debe señalar el Narrador. Según su criterio, elige al jugador con quien crea que más puede ayudar a la Suma Sacerdotisa y al equipo bueno: quizá tenga información importante aún no revelada, sea malvado y su farol no encaje, sea de confianza y convenga confiar más en él, o sea bueno pero vaya por mal camino y necesite corregir su perspectiva. También puede haber otro motivo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para hablar pronto con el jugador mostrado.",
+      "textEs": "Habla cuanto antes cada día con la persona que te indique el Narrador. Cree que es la persona más importante con quien debes hablar; intenta ganar su confianza y usa lo que te cuente para decidir cómo abordar el resto del día."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "washerwoman",
+        "fortune-teller"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de la Lavandera y la Adivina, ausentes del guion; se conserva la observación de con quién habla el jugador y cómo se comporta, incluido el posible Esbirro que recibió faroles.",
+      "textEs": "También puedes esperar antes de hablar con el jugador que te mostraron. Observa con quién habla y busca pistas en su comportamiento y sus interacciones que expliquen por qué debías acercarte. Quizá parezca perdido hasta hablar con una persona concreta; podría ser un Esbirro que acaba de recibir sus faroles."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para preguntar al jugador mostrado por qué pudo ser señalado.",
+      "textEs": "Cuéntale que eres la Suma Sacerdotisa y que lo aprendiste; pregúntale si sabe por qué pudieron señalarlo. Su información puede parecer imprecisa, pero quizá tenga teorías útiles basadas en lo que sabe y en cómo puede ayudar al equipo bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para no revelar siempre la identidad.",
+      "textEs": "No le digas necesariamente que eres la Suma Sacerdotisa. Quizá el Narrador no pretenda que compartas toda tu información con esa persona, sino que descubras qué puede aportarte."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Expectativas generales para la primera noche.",
+      "textEs": "La primera noche, probablemente te muestren a un jugador bueno que ya tenga información para compartir o a un Esbirro con quien puedas obtener una lectura social o sorprenderlo antes de que tenga un farol."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Expectativas generales para los días posteriores.",
+      "textEs": "A medida que avance la partida, el Narrador probablemente te señalará jugadores con información que aún no han compartido - aunque solo sea su personaje - , jugadores muertos que necesiten conocer otra información que hayas reunido, o jugadores malvados a quienes convenga apartar de sus compañeros y de las personas a las que intentan manipular."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Expectativas generales para el tramo final.",
+      "textEs": "Al final de la partida, probablemente te dirijan hacia jugadores buenos que van por buen camino para que adoptes su perspectiva y la refuerces ante el grupo, o hacia el Demonio para que encuentres fallos en sus argumentos y cuestiones sus afirmaciones."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo para interpretar la información según el estado de la partida.",
+      "textEs": "Si el equipo bueno va ganando, quizá el Narrador te señale jugadores que refuercen esa estrategia. Si no, puede mostrarte información contradictoria para que consideres otras perspectivas y abandones ideas muy arraigadas. Ten en cuenta cómo crees que va la partida para el equipo bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general si se repite el mismo jugador.",
+      "textEs": "¿El Narrador te mostró al mismo jugador dos noches seguidas? Quizá no ocurrió lo que quería que aprendieras de esa conversación; inténtalo de nuevo con la mente abierta."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración general sobre el valor de hablar con el jugador señalado.",
+      "textEs": "La Suma Sacerdotisa aporta mucho incluso si no descubres por qué te señalaron a alguien. Aunque solo hables cada día con la persona indicada y nunca averigües el motivo, estarás conversando con quien el Narrador recomienda al equipo bueno."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "chef",
+        "goblin",
+        "drunk"
+      ],
+      "requiredCharacterIds": [
+        "chef",
+        "goblin"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Cocinero y el Goblin, ausentes del guion; que el Borracho esté presente no conserva la secuencia causal completa."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "saint",
+        "imp"
+      ],
+      "requiredCharacterIds": [
+        "saint",
+        "imp"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Santo y el Imp, ausentes del guion."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de apoyo a jugadores buenos.",
+      "textEs": "Afirma que te mostraron jugadores buenos y respáldalos a ellos y a su información desde el principio. Aunque esto pueda perjudicar a tu equipo, también te ganará su confianza y quizá te beneficie más adelante."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para sembrar dudas sobre un jugador.",
+      "textEs": "También puedes afirmar que te mostraron a un jugador bueno, pero que la conversación fue mal y sospechas que en realidad te mostraron a un Esbirro sin farol o con una historia débil."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de coordinación con el equipo malvado.",
+      "textEs": "Afirma que te mostraron a tus compañeros malvados. Así tendrás una buena excusa para hablar con ellos el primer día, compartir faroles e información y empezar a planear la partida. Asegúrate de que sus personajes posteriores tengan una buena razón para que el Narrador te los mostrara."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general sobre justificar a quién se afirma haber visto.",
+      "textEs": "Puedes elegir casi a quien quieras y después inventar un motivo, pero tu información de la primera noche es la más arriesgada. En ausencia de cómo haya evolucionado la partida o de lo que piensa el grupo, probablemente sea la opinión más sólida del Narrador; tendrás que justificarla bien."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [
+        "drunk"
+      ],
+      "requiredCharacterIds": [
+        "drunk"
+      ],
+      "decision": "keep",
+      "reason": "El Borracho aparece en el guion.",
+      "textEs": "Ten un plan alternativo por si necesitas volverte contra alguien a quien dijiste que viste. Si su información es demasiado poderosa o está formando un círculo de confianza, quizá debas insinuar que lo señalaste para descubrir si estaba faroleando o que en realidad es el Borracho y el Narrador quería que lo averiguaras."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para escuchar las teorías de otros jugadores.",
+      "textEs": "Una buena forma de farolear como Suma Sacerdotisa es escuchar. Deja que los jugadores propongan por qué pudieron señalarte a alguien; si su motivo es incorrecto, anímalos a seguir esa idea para desviar su estrategia."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-7",
+      "mentionedCharacterIds": [
+        "ravenkeeper",
+        "butler"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Guardián de Cuervos y el Mayordomo, ausentes del guion; se conserva el consejo de esperar a conocer los personajes reclamados.",
+      "textEs": "Espera a que los jugadores hayan revelado sus personajes antes de acercarte a ellos; así podrás elegir objetivos razonables y evitar que después cuestionen por qué el Narrador te habría señalado a alguien."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para parecer confundido y conseguir ayuda.",
+      "textEs": "Como Suma Sacerdotisa puedes fingir que no entiendes qué ocurre durante buena parte de la partida. Parecer confundido encaja con cómo suelen sentirse los jugadores buenos y puede animarlos a ayudarte a encontrar el sentido de tu información."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se aclara back into another character: cambia la afirmación del personaje, no el personaje real.",
+      "textEs": "Este farol sirve a un malvado para empezar la partida y pasar después a otro farol. También puede usarlo un jugador bueno para iniciar una conversación sin revelar por qué necesita hablar con esa persona."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-10",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para debilitar el consenso del grupo.",
+      "textEs": "Afirma que viste a alguien que el grupo considera malvado, especialmente después de que lo hayan ejecutado y muerto. Así puedes desviar el consenso de una lectura correcta."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento completo de cada noche.",
+      "textEs": "Cada noche, despierta a la Suma Sacerdotisa, señala a un jugador y vuelve a dormirla."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "La Suma Sacerdotisa actúa por intuición. Pueden mostrarte al mismo jugador varias noches seguidas o a uno distinto cada noche; puede estar vivo o muerto y ser bueno o malvado.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3",
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "No hay criterios oficiales que determinen a quién debe señalar el Narrador. Según su criterio, elige al jugador con quien crea que más puede ayudar a la Suma Sacerdotisa y al equipo bueno: quizá tenga información importante aún no revelada, sea malvado y su farol no encaje, sea de confianza y convenga confiar más en él, o sea bueno pero vaya por mal camino y necesite corregir su perspectiva. También puede haber otro motivo.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Puedes hablar enseguida con la persona indicada, ganar su confianza y usar su información para orientar el día. O primero observa con quién habla y cómo cambia su comportamiento: alguien perdido hasta hablar con otra persona podría ser un Esbirro que acaba de recibir faroles.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2"
+        ]
+      },
+      {
+        "textEs": "Puedes revelar que eres la Suma Sacerdotisa y preguntar por qué cree que te la mostraron: sus teorías quizá ayuden a los buenos aunque tu información sea imprecisa. O conserva tu identidad; quizá el Narrador solo quiera que averigües qué puede aportar, sin compartir toda tu información.",
+        "sourceUnits": [
+          "tips-3",
+          "tips-4"
+        ]
+      },
+      {
+        "textEs": "Al principio pueden mostrarte a un bueno con información o un Esbirro al que leer o sorprender sin farol. Más tarde, a quien aún no compartió datos, incluso su personaje; a muertos que necesiten lo que sabes; o a malvados para apartarlos de compañeros y víctimas. Al final, a buenos bien orientados para adoptar y reforzar su perspectiva, o al Demonio para cuestionar sus argumentos. Si los buenos van ganando, la pista puede reforzar su estrategia; si no, presentar contradicciones para que reconsideres tus ideas.",
+        "sourceUnits": [
+          "tips-5",
+          "tips-6",
+          "tips-7",
+          "tips-8"
+        ]
+      },
+      {
+        "textEs": "Si repiten la persona dos noches, quizá no aprendiste lo que el Narrador esperaba: vuelve con la mente abierta. Aunque nunca entiendas el motivo, hablar cada día con la persona recomendada sigue aportando al equipo bueno.",
+        "sourceUnits": [
+          "tips-9",
+          "tips-10"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "Puedes apoyar a los buenos que digas haber visto: quizá perjudique a tu equipo ahora, pero gane confianza después. O di que la conversación fue mal y sospechas de un Esbirro sin farol o con historia débil.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2"
+        ]
+      },
+      {
+        "textEs": "Decir que viste a compañeros malvados permite hablar el primer día para compartir faroles, datos y planes; sus personajes deben justificar esa elección. Puedes inventar motivos para casi cualquier objetivo, pero la primera noche exige más justificación por ser la opinión del Narrador menos influida por la partida. Esperar a las revelaciones de personajes facilita elegir objetivos razonables.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-4",
+          "bluffing-7"
+        ]
+      },
+      {
+        "textEs": "Prepara cómo desacreditar a quien dijiste ver si aporta demasiada información o confianza: quizá lo señalaron para detectar su farol o descubrir que era el Borracho. También puedes decir que viste a alguien que el grupo cree malvado, especialmente tras su ejecución y muerte, para desviar una lectura correcta.",
+        "sourceUnits": [
+          "bluffing-5",
+          "bluffing-10"
+        ]
+      },
+      {
+        "textEs": "Escucha las teorías de otros y anima las erróneas. Fingir confusión parece natural para un bueno y puede hacer que te ayuden a interpretar tu pista. Un malvado puede empezar con este farol y cambiar después; un bueno puede usarlo para iniciar una conversación sin revelar su motivo.",
+        "sourceUnits": [
+          "bluffing-6",
+          "bluffing-8",
+          "bluffing-9"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Cada noche, despierta a la Suma Sacerdotisa, señala a un jugador y vuelve a dormirla.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

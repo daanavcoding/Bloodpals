@@ -1,0 +1,416 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "flowergirl",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Flowergirl",
+    "revision": "oldid=2907",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "La Florista aprende si el Demonio votó o no."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración de qué cuenta como voto del Demonio.",
+      "textEs": "El voto del Demonio cuenta aunque la persona nominada no sea ejecutada."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración de acciones que no se consideran votos para una ejecución.",
+      "textEs": "La Florista no detecta que el Demonio levante la mano por otros motivos, como elegir qué pedir para cenar o apoyar el exilio de un Viajero."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla para un cambio de Demonio después de votar.",
+      "textEs": "Si el Demonio cambia de jugador después de votar, pero antes de que la Florista despierte para recibir información, la Florista detecta al Demonio original."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla si hay varios Demonios, incluidos los muertos.",
+      "textEs": "Si hay dos o más Demonios, incluso muertos, la Florista comprueba si alguno votó. Si al menos uno votó, aprende «sí»."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para recordar los votos diarios.",
+      "textEs": "Presta atención. Debes seguir quién vota cada día; de lo contrario, tu información servirá de poco. Los jugadores malvados pueden mentir sobre si votaron, así que no basta con preguntar al grupo si lo olvidaste. Cada respuesta te ayuda a acotar quién podría ser el Demonio."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para observar quién no vota y quién se suma a una mayoría.",
+      "textEs": "Fíjate tanto en quién no vota como en quienes sí lo hacen. Los malvados quizá eviten votar para no llamar tu atención; si aprendes «no» después de que voten varias personas, sabrás que el Demonio está entre quienes no votaron. También observa a quien se suma a una mayoría grande para pasar desapercibido y limitar la utilidad de tu información."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para limitar el número de votos.",
+      "textEs": "Para ejecutar a alguien solo hace falta la mitad de los votos de los jugadores vivos. Si hay una ejecución, intenta convencer al grupo de que limite sus votos a los necesarios. Así separarás con claridad a quienes fueron invitados a votar de quienes no: si aprendes «sí», el Demonio está entre los primeros; si aprendes «no», entre los segundos. Esto facilita acotarlo, pero también puede hacer que te conviertas en objetivo y mueras antes."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [
+        "sage",
+        "witch",
+        "cerenovus",
+        "pit-hag"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Sabio, la Bruja, el Cerenovus y la Pit-Hag, ausentes del guion; se conserva la alianza general y la precaución de mantener el seguimiento.",
+      "textEs": "Tu información puede señalar al Demonio, así que el equipo malvado puede querer desacreditarte o matarte pronto. Intenta formar una alianza con otro jugador que creas bueno y deja que hable por ti mientras sigues reuniendo información."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "town-crier"
+      ],
+      "requiredCharacterIds": [
+        "town-crier"
+      ],
+      "decision": "omit",
+      "reason": "El consejo depende de la sinergia con el Pregonero, ausente del guion."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [
+        "vortox"
+      ],
+      "requiredCharacterIds": [
+        "vortox"
+      ],
+      "decision": "omit",
+      "reason": "La detección descrita depende del Vortox, ausente del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo general sobre contar votos del Demonio aunque no haya ejecución.",
+      "textEs": "Hubo una nominación. Muchas personas votaron y la persona fue ejecutada, pero el Demonio no votó. Esa noche, la Florista aprende que el Demonio no votó hoy."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo general sobre detectar un voto aunque nadie sea ejecutado.",
+      "textEs": "Hubo tres nominaciones. El Demonio votó durante la segunda y nadie fue ejecutado. Esa noche, la Florista aprende que el Demonio votó hoy."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se restaura Examples 3 exactamente en su significado: Viajero es una categoría, no un personaje concreto ausente.",
+      "textEs": "No hubo nominaciones hoy. Un Viajero fue exiliado y todos los jugadores levantaron la mano para apoyar el exilio. Esa noche, la Florista aprende que el Demonio no votó hoy. Los exilios nunca se ven afectados por habilidades."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de farol como Florista.",
+      "textEs": "La información que des cada día acotará quién podría ser el Demonio. Si el segundo día dices que es una de cinco personas, al siguiente quizá queden tres. Si puedes, no señales a tus compañeros malvados. Observa quién votó y quién no, e intenta que mueran jugadores buenos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general si se decide acusar a un compañero malvado.",
+      "textEs": "Si señalas a un compañero malvado, intenta parecer lo más malvado posible: sonríe al mentir, acusa a jugadores de confianza y equivócate al recordar tu personaje. Si pareces malvado, quienes el equipo bueno crea que intentas matar parecerán buenos; si uno es el Demonio, habrás tenido éxito."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para controlar los votos, con su riesgo correspondiente.",
+      "textEs": "Puedes dirigir la forma en que vota el equipo bueno. Si sugieres quién debe votar y quién no, al día siguiente podrás dar información más incriminatoria. Pero, como el Demonio normalmente mataría a una Florista real que actuara así, el grupo quizá se pregunte por qué sigues vivo después de varios días."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de un Esbirro para parecer más fiable al morir de noche.",
+      "textEs": "Si eres un Esbirro, consigue que el Demonio te mate de noche. Quienes mueren así suelen parecer más fiables que quienes mueren por ejecución."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [
+        "sage",
+        "sweetheart"
+      ],
+      "requiredCharacterIds": [
+        "sweetheart"
+      ],
+      "decision": "partial",
+      "reason": "Se conserva el Adorable, presente en el guion; se quitó el Sabio, ausente.",
+      "textEs": "Guarda silencio unos días antes de revelar que eres la Florista. Las Floristas reales suelen hacerlo, así que parecerás más auténtica. También puedes farolear primero como un personaje que no altere demasiado la partida, como el Adorable, y revelar más adelante que eres la Florista."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [
+        "juggler",
+        "seamstress"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de la Malabarista y la Costurera, ausentes del guion; se conserva el uso de un farol alternativo antes de cambiar a Florista.",
+      "textEs": "La Florista es un buen farol de respaldo si tu primer farol fracasa. Más adelante puedes afirmar que el personaje anterior era solo un engaño para que el Demonio no te matara."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre fingir confusión.",
+      "textEs": "Actúa confundido. La Florista puede ser complicada y hay muchos votos que recordar; incluso las Floristas reales se equivocan al acordarse de quién votó. Está bien decir que no recuerdas o no consigues averiguar quién es el Demonio, e incluso dar información deliberadamente contradictoria de un día a otro."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-8",
+      "mentionedCharacterIds": [
+        "vortox"
+      ],
+      "requiredCharacterIds": [
+        "vortox"
+      ],
+      "decision": "omit",
+      "reason": "La estrategia depende del Vortox, ausente del guion."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Recordatorios que se ajustan cada amanecer.",
+      "textEs": "Cada amanecer, marca a la Florista con el recordatorio DEMONIO NO VOTÓ y retira el recordatorio DEMONIO VOTÓ, si lo hubiera."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se distingue votar a favor de ejecutar de que se produzca efectivamente una ejecución; Summary exige contar el voto aunque no se ejecute al nominado.",
+      "textEs": "Cada día, si el Demonio vota a favor de alguna nominación para ejecución, sustituye el recordatorio DEMONIO NO VOTÓ por DEMONIO VOTÓ."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento nocturno de señal para responder sí o no.",
+      "textEs": "Cada noche excepto la primera, despierta a la Florista. Si tiene el recordatorio DEMONIO NO VOTÓ, mueve la cabeza para decir que no; si tiene DEMONIO VOTÓ, asiente para decir que sí. Vuelve a dormirla."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento alternativo para recordar si el Demonio votó.",
+      "textEs": "Si olvidas si el Demonio votó, despiértalo de noche y muéstrale la ficha de información ¿VOTASTE HOY? Debe responder con sinceridad y después vuelve a dormirlo."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "La Florista aprende si el Demonio votó. El voto cuenta aunque la persona nominada no sea ejecutada; no cuentan otros motivos para levantar la mano, como decidir qué cenar o apoyar el exilio de un Viajero.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Si el Demonio cambia de jugador después de votar, pero antes de que la Florista despierte para recibir información, la Florista detecta al Demonio original.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Si hay dos o más Demonios, incluso muertos, la Florista comprueba si alguno votó. Si al menos uno votó, aprende «sí».",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Lleva la cuenta de quién vota y quién no; si lo olvidas, los malvados pueden mentir al preguntárselo. Un «no» sitúa al Demonio entre quienes no votaron. Vigila tanto a quienes evitan tu atención absteniéndose como a quienes se esconden en una mayoría grande para limitar tu pista.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2"
+        ]
+      },
+      {
+        "textEs": "Puedes limitar los votos a la mitad de los vivos necesaria para una ejecución: un «sí» señala al grupo que votó y un «no» al que no. Acotas mejor al Demonio, pero puedes atraer su ataque antes que observando en silencio. Aliarte con un bueno y dejar que hable por ti permite seguir reuniendo datos mientras te protege de ataques o descrédito.",
+        "sourceUnits": [
+          "tips-3",
+          "tips-4"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "textEs": "Hubo una nominación. Muchas personas votaron y la persona fue ejecutada, pero el Demonio no votó. Esa noche, la Florista aprende que el Demonio no votó hoy.",
+        "sourceUnits": [
+          "examples-1"
+        ]
+      },
+      {
+        "textEs": "Hubo tres nominaciones. El Demonio votó durante la segunda y nadie fue ejecutado. Esa noche, la Florista aprende que el Demonio votó hoy.",
+        "sourceUnits": [
+          "examples-2"
+        ]
+      },
+      {
+        "textEs": "No hubo nominaciones hoy. Un Viajero fue exiliado y todos los jugadores levantaron la mano para apoyar el exilio. Esa noche, la Florista aprende que el Demonio no votó hoy. Los exilios nunca se ven afectados por habilidades.",
+        "sourceUnits": [
+          "examples-3"
+        ]
+      }
+    ],
+    "bluffing": [
+      {
+        "textEs": "Sigue los votos para reducir día a día los posibles Demonios y procurar muertes buenas sin señalar a compañeros. O señala a un malvado y hazte parecer malvado tú: sonreír al mentir, acusar a buenos fiables o equivocarte con tu personaje puede hacer parecer buenos a tus objetivos, incluido el Demonio.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2"
+        ]
+      },
+      {
+        "textEs": "Dirigir quién vota permite una pista más incriminatoria al día siguiente, pero seguir vivo puede resultar sospechoso porque una Florista real sería objetivo. Si eres Esbirro, morir de noche a manos del Demonio suele dar más confianza que una ejecución.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-4"
+        ]
+      },
+      {
+        "textEs": "Puedes callar unos días, como muchas Floristas, o farolear primero un personaje poco disruptivo, como Adorable. Si la primera historia falla, usa Florista como respaldo y di que mentías para evitar al Demonio. También puedes fingir confusión: no recordar votos, no deducir al Demonio o dar datos contradictorios encaja con la dificultad de llevar la cuenta.",
+        "sourceUnits": [
+          "bluffing-5",
+          "bluffing-6",
+          "bluffing-7"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Cada amanecer, marca a la Florista con el recordatorio DEMONIO NO VOTÓ y retira el recordatorio DEMONIO VOTÓ, si lo hubiera.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Cada día, si el Demonio vota a favor de alguna nominación para ejecución, sustituye el recordatorio DEMONIO NO VOTÓ por DEMONIO VOTÓ.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "Cada noche excepto la primera, despierta a la Florista. Si tiene el recordatorio DEMONIO NO VOTÓ, mueve la cabeza para decir que no; si tiene DEMONIO VOTÓ, asiente para decir que sí. Vuelve a dormirla.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      },
+      {
+        "textEs": "Si olvidas si el Demonio votó, despiértalo de noche y muéstrale la ficha de información ¿VOTASTE HOY? Debe responder con sinceridad y después vuelve a dormirlo.",
+        "sourceUnits": [
+          "howtorun-4"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "ojo",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Ojo",
+    "revision": "oldid=2692",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "A diferencia de otros Demonios, el Ojo elige un personaje, no un jugador. Quizá el Narrador tenga que recordárselo; se recomienda que todos tengan a mano su hoja de personaje durante la noche."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Ojo puede elegir personajes malvados.",
+      "textEs": "El Ojo puede matar personajes malvados si así lo desea."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Solo muere uno si hay varias copias del personaje.",
+      "textEs": "Si hay varias copias de un mismo personaje en juego y el Ojo elige ese personaje, solo muere una de ellas."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Criterio del Narrador si se elige un personaje que no está en juego.",
+      "textEs": "Si el Ojo elige un personaje que no está en juego, el Narrador casi siempre mata a un jugador bueno vivo. Es posible, aunque poco frecuente, que elija a un jugador muerto o malvado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para elegir objetivos poderosos al principio.",
+      "textEs": "Elige primero a los personajes más poderosos. Tu habilidad te permite eliminar cuanto antes a quienes más te preocupa enfrentar; empieza a matarlos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "shabaloth",
+        "lleech"
+      ],
+      "requiredCharacterIds": [
+        "lleech"
+      ],
+      "decision": "partial",
+      "reason": "Se quitó el Shabaloth, ausente; se conserva la estrategia de considerar el otro Demonio del guion, el Lleech, y su coste para el Ojo.",
+      "textEs": "Piensa en el otro Demonio del guion: ¿te conviene fingir que podría estar en juego? Si lo haces, quizá tengas que dejar vivos a los Aldeanos más preocupantes, que normalmente serían tus principales objetivos. Sopesa si vale la pena."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre cómo farolear si creen que eres el Ojo.",
+      "textEs": "Si crees que los jugadores van a descubrir que eres el Ojo, farolea como un Aldeano o Forastero menos poderoso. No quieres que se pregunten por qué sigues vivo antes de los tres últimos cuando ya han muerto los demás personajes más poderosos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para que el equipo malvado difunda información falsa.",
+      "textEs": "Farolea como un Aldeano poderoso y pide a tus Esbirros que hagan lo mismo. Si quedan vivos varios personajes poderosos, parecerá menos probable que haya un Ojo y todo tu equipo podrá difundir información falsa a la vez."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se aclara el límite del consejo con la regla oficial del Lleech, presente: puede no morir aunque Ojo haya elegido correctamente su personaje. No se convierte una estrategia en prueba absoluta.",
+      "textEs": "Si no sabes si alguien dice la verdad sobre su personaje, elige ese personaje. Si muere, ten en cuenta su información; si no, la estrategia sugiere que estaba faroleando. Esa deducción presupone que tu habilidad funciona y que ningún efecto impide la muerte."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Swapped claims significa intercambiar las afirmaciones de personaje, no un cambio real de personaje.",
+      "textEs": "Presta atención si muere alguien inesperado. Quizá había intercambiado con otro jugador el personaje que afirmaba ser y en realidad tenía el que intentaste matar. O quizá ese personaje no estaba en juego y el Narrador eligió a quién matar."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [
+        "shabaloth"
+      ],
+      "requiredCharacterIds": [
+        "shabaloth"
+      ],
+      "decision": "omit",
+      "reason": "La estrategia depende de un Demonio con múltiples muertes nocturnas, como el Shabaloth, ausente del guion."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para no olvidar a los Forasteros como posibles objetivos.",
+      "textEs": "No te olvides de los Forasteros. Si solo matas Aldeanos, podrías llegar a los tres últimos con dos Forasteros confirmados por el recuento. También pueden ser objetivos valiosos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para comprobar personajes que no están entre los faroles del Demonio.",
+      "textEs": "Si tú o uno de tus Esbirros queréis farolear como un personaje que no está entre tus faroles, puedes elegirlo de noche para averiguar si está en juego y ajustar la historia."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "plague-doctor",
+        "poppy-grower",
+        "empath",
+        "shugenja"
+      ],
+      "requiredCharacterIds": [
+        "plague-doctor",
+        "poppy-grower",
+        "empath"
+      ],
+      "decision": "omit",
+      "reason": "Aunque el Shugenja está en el guion, la secuencia causal depende del Doctor de la Plaga, Cultivador de Amapolas y Empático, ausentes."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se aclara el sujeto de la elección nocturna sin cambiar ningún paso.",
+      "textEs": "Cada noche excepto la primera, despierta al Ojo. El jugador del Ojo señala el icono de un personaje en su hoja. Si ese personaje está en juego, muere el jugador que lo tiene; márcalo con MUERTO. Si no está en juego, elige a cualquier jugador: ese jugador muere y lo marcas con MUERTO. Vuelve a dormir al Ojo."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [
+        "shabaloth"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conserva completa la excepción condicional y su ejemplo de How to Run, aunque no se aplique automáticamente a este inventario.",
+      "textEs": "Si el Ojo está en un guion con un Demonio que mata varias veces por noche, como el Shabaloth, y el Ojo elige un personaje que no está en juego, puedes elegir a más de un jugador para que muera esa noche. Esto ayuda al jugador del Ojo a fingir que hay otro Demonio en juego."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "A diferencia de otros Demonios, el Ojo elige un personaje, no un jugador; puede elegir personajes malvados. Quizá el Narrador deba recordárselo. Se recomienda que todos tengan a mano su hoja de personajes durante la noche.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2"
+        ]
+      },
+      {
+        "textEs": "Si hay varias copias de un mismo personaje en juego y el Ojo elige ese personaje, solo muere una de ellas.",
+        "sourceUnits": [
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Si el Ojo elige un personaje que no está en juego, el Narrador casi siempre mata a un jugador bueno vivo. Es posible, aunque poco frecuente, que elija a un jugador muerto o malvado.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Puedes matar pronto a los personajes más poderosos, o imitar al otro Demonio sacrificando esos objetivos: sopesa si vale la pena. Si descubrirán Ojo, un farol débil de Aldeano/Forastero explica tu supervivencia hasta los tres últimos. O reclama uno poderoso y pide lo mismo a Esbirros: varios poderosos vivos disimulan Ojo y difunden información falsa a la vez.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3",
+          "tips-4"
+        ]
+      },
+      {
+        "textEs": "Elegir un personaje ayuda a comprobar su afirmación: si el jugador muere, ten en cuenta sus datos; si no, sugiere un farol siempre que la habilidad funcione y ningún efecto impida morir. Una muerte inesperada puede indicar afirmaciones intercambiadas o un personaje ausente cuya víctima eligió el Narrador. También puedes elegir un personaje que tú o un Esbirro queráis farolear fuera de los recibidos, para comprobar si está en juego y ajustar la historia.",
+        "sourceUnits": [
+          "tips-5",
+          "tips-6",
+          "tips-9"
+        ]
+      },
+      {
+        "textEs": "No te olvides de los Forasteros. Si solo matas Aldeanos, podrías llegar a los tres últimos con dos Forasteros confirmados por el recuento. También pueden ser objetivos valiosos.",
+        "sourceUnits": [
+          "tips-8"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [],
+    "howToRun": [
+      {
+        "textEs": "Cada noche excepto la primera, despierta al Ojo. El jugador del Ojo señala el icono de un personaje en su hoja. Si ese personaje está en juego, muere el jugador que lo tiene; márcalo con MUERTO. Si no está en juego, elige a cualquier jugador: ese jugador muere y lo marcas con MUERTO. Vuelve a dormir al Ojo.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Si el Ojo está en un guion con un Demonio que mata varias veces por noche, como el Shabaloth, y el Ojo elige un personaje que no está en juego, puedes elegir a más de un jugador para que muera esa noche. Esto ayuda al jugador del Ojo a fingir que hay otro Demonio en juego.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

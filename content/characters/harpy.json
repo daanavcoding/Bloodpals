@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "harpy",
+  "nameOriginal": "Harpy",
+  "nameEs": "Harpía",
+  "abilityEs": "Cada noche, elige a 2 jugadores: mañana, el primero debe estar loco creyendo que el segundo es malvado, o uno o ambos podrían morir.",
+  "icon": "assets/images/characters/harpy.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Harpy",
+    "revision": "oldid=3103",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/d/d3/Icon_harpy.png"
+}

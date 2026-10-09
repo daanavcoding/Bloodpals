@@ -1,0 +1,342 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "hatter",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Hatter",
+    "revision": "oldid=3092",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Sombrerero permite a los Esbirros y al Demonio cambiar de personaje."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Los personajes nuevos deben ser del mismo tipo.",
+      "textEs": "Cada personaje malvado puede elegir cualquier personaje del mismo tipo que el suyo, o puede decidir no cambiar."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El nuevo personaje obtiene su habilidad aunque ya se hubiera usado.",
+      "textEs": "Si un jugador obtiene un personaje nuevo, recibe su habilidad aunque ya se hubiera usado su información inicial o su habilidad de una vez por partida."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "La habilidad del personaje anterior deja de afectar la partida.",
+      "textEs": "Cuando un jugador cambia de personaje, la habilidad del personaje anterior deja de tener efecto en la partida."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Si un jugador muere y se convierte en Sombrerero, no se eligen personajes esa noche.",
+      "textEs": "Si un jugador muere y se convierte en Sombrerero, el equipo malvado no cambia de personaje esa noche."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "No se puede elegir un personaje que ya haya seleccionado otro jugador.",
+      "textEs": "Una vez que alguien elige un personaje, los demás no pueden elegirlo también. Si ya está en juego, quien lo tiene debe escoger otro."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se restaura el final completo de Tips 1 antes de fijar la entrada de síntesis.",
+      "textEs": "No mueras. En cuanto mueras, el equipo malvado podrá elegir la combinación de personajes que crea más efectiva, sin importar el equilibrio anterior. Si puede hacerlo impunemente cuando quiera, podría quedar demasiado poderoso."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general a favor de morir pronto para reducir la planificación malvada y facilitar la lectura del recuento de Forasteros.",
+      "textEs": "Muere lo antes posible. Cuanto antes lo hagas, menos tiempo tendrá el equipo malvado para decidir qué personajes serían más eficaces contra el equipo bueno. Los cambios posteriores en las acciones de Esbirros y Demonio pueden confirmar tu papel y ayudar al pueblo a deducir el recuento de Forasteros."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Advertencia sobre el peor momento para morir.",
+      "textEs": "El peor momento para morir es a mitad de la partida. Justo cuando el equipo bueno empieza a entender su información y a localizar a los malvados, tu habilidad puede cambiarla toda y dificultar que acoten a los sospechosos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo para revelar la muerte del Sombrerero pronto.",
+      "textEs": "Al día siguiente de morir, di a todos que eras el Sombrerero. Deben ajustar sus deducciones y considerar que los personajes malvados pueden haber cambiado, tanto para interpretar acciones nocturnas como para buscar al Demonio mediante nominaciones y votos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo para buscar pistas sobre los nuevos personajes malvados.",
+      "textEs": "Después de morir, intenta descubrir qué personajes eligieron los Esbirros y el Demonio comparando los cambios en la partida con lo que ocurría al principio. Quizá la información de alguien ya no encaje, un sospechoso quiera morir de repente o haya una muerte extra. Las pistas sobre el nuevo equipo malvado son aún más importantes porque queda menos tiempo para identificarlo."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "ojo",
+        "no-dashii",
+        "devils-advocate",
+        "scarlet-woman"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo depende de No Dashii y Devil's Advocate, ausentes, además de Ojo y Scarlet Woman presentes; se omite completo sin inventar otros cambios."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "vigormortis",
+        "pit-hag"
+      ],
+      "requiredCharacterIds": [
+        "vigormortis",
+        "pit-hag"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Vigormortis y la Pit-Hag, ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "assassin",
+        "mastermind"
+      ],
+      "requiredCharacterIds": [
+        "assassin",
+        "mastermind"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Asesino y el Cerebro, ausentes del guion."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para evitar morir como Sombrerero fingido.",
+      "textEs": "No quieres morir. Aprovecha que el equipo bueno dudará antes de ejecutar a un Sombrerero para sobrevivir más tiempo de lo normal; si mantienes la amenaza del cambio, quizá llegues incluso a los tres últimos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para que otros malvados finjan cambios tras la muerte.",
+      "textEs": "Si mueres, pide a tus compañeros malvados que afirmen que cambiaron de personaje y que sus habilidades nuevas afectan la partida. Eso puede reforzar tu farol y desviar al equipo bueno hacia una teoría de Demonio que quizá nunca estuvo en juego."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general de usar el farol de Sombrerero como salida de emergencia.",
+      "textEs": "Los Sombrereros suelen ocultarse y afirmar ser otros personajes para sobrevivir y evitar que el equipo malvado cambie sus personajes demasiado pronto. Por eso puede servirte como farol de respaldo si tu primera historia falla o no te protege de una ejecución."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para fingir que se investiga el cambio.",
+      "textEs": "Después de morir, intenta de buena fe averiguar qué cambios hubo para reforzar tu credibilidad. También puedes distraer al equipo bueno con teorías sobre distintos tipos de Esbirros y Demonios, ampliando las posibles explicaciones de cada situación."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para amenazar con un cambio de personajes.",
+      "textEs": "Si eres el Demonio y faroleas como Sombrerero, haz que parezca que los personajes malvados en juego son poco poderosos. Así la amenaza de que mueras y el equipo malvado elija la combinación más fuerte será mayor. Prepara una buena explicación de por qué no te han matado de noche; quizá te convenga decir en público que eres otro personaje y confiar el farol de Sombrerero en privado a jugadores buenos muertos."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Recordatorio al morir el Sombrerero.",
+      "textEs": "Si muere el Sombrerero, márcalo con el recordatorio FIESTA DEL TÉ ESTA NOCHE."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento para que el equipo malvado elija nuevos personajes sin duplicados.",
+      "textEs": "Esa noche, despierta a los Esbirros y al Demonio. Muéstrales la ficha ESTE PERSONAJE TE HA ELEGIDO y después la del Sombrerero. Cada jugador puede negar con la cabeza o señalar otro personaje del mismo tipo que el actual. Si alguien elige un personaje que ya escogió otro, indícale que pruebe otra vez. Vuelve a dormirlos, retira el recordatorio FIESTA DEL TÉ y cambia sus fichas por las elegidas."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla opcional que permite intercambiar tipos entre Demonio y Esbirros.",
+      "textEs": "Regla opcional: cuando muere el Sombrerero, permite que el Demonio se convierta en Esbirro y que un Esbirro se convierta en Demonio. Esto puede crear confusión mientras el equipo malvado se comunica en silencio de noche para decidir quién será el Demonio."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "El Sombrerero permite a los Esbirros y al Demonio cambiar de personaje. Cada uno puede elegir un personaje de su mismo tipo o conservar el actual. Si cambia, recibe la nueva habilidad aunque el personaje original ya hubiera usado su información inicial o su habilidad de una vez por partida.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Cuando un jugador cambia de personaje, la habilidad del personaje anterior deja de tener efecto en la partida.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Si un jugador muere y se convierte en Sombrerero, el equipo malvado no cambia de personaje esa noche.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "Una vez que alguien elige un personaje, los demás no pueden elegirlo también. Si ya está en juego, quien lo tiene debe escoger otro.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Puedes evitar morir: tu muerte permite a los malvados elegir la combinación más efectiva sin importar el equilibrio anterior, y hacerlo impunemente cuando quieran podría volverlos demasiado fuertes. O puedes morir pronto para que tengan menos tiempo de planear contra los buenos; las acciones nuevas que contradigan las iniciales pueden confirmarte y ayudar a deducir el recuento de Forasteros. Morir a mitad de partida es lo peor: puede cambiar toda la información justo cuando los buenos empiezan a localizar malvados y necesitan acotar los sospechosos restantes.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "Al día siguiente de morir, revela Sombrerero para que reinterpreten datos, acciones nocturnas, nominaciones y votos ante cambios malvados. Compara con el inicio: información ahora extraña, un sospechoso dispuesto a morir o una muerte adicional pueden indicar los nuevos personajes. Queda menos tiempo, así que esas pistas importan aún más.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-5"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "Aprovecha el temor a ejecutar al Sombrerero para sobrevivir incluso entre los tres últimos; ocultarlo con otro personaje también sirve de respaldo si ese farol falla. Si mueres, pide que los compañeros finjan cambios de habilidades e intenta investigar de buena fe: teorías sobre Esbirros y Demonios pueden ampliar y enredar las explicaciones buenas. Como Demonio, hacer parecer débil al equipo aumenta el miedo a tu muerte; justifica por qué no te mataron de noche, quizá reclamando otro personaje en público y Sombrerero en privado a buenos muertos que te apoyen.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2",
+          "bluffing-3",
+          "bluffing-4",
+          "bluffing-5"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Si muere el Sombrerero, márcalo con el recordatorio FIESTA DEL TÉ ESTA NOCHE.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Esa noche, despierta a los Esbirros y al Demonio. Muéstrales la ficha ESTE PERSONAJE TE HA ELEGIDO y después la del Sombrerero. Cada jugador puede negar con la cabeza o señalar otro personaje del mismo tipo que el actual. Si alguien elige un personaje que ya escogió otro, indícale que pruebe otra vez. Vuelve a dormirlos, retira el recordatorio FIESTA DEL TÉ y cambia sus fichas por las elegidas.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "Regla opcional: cuando muere el Sombrerero, permite que el Demonio se convierta en Esbirro y que un Esbirro se convierta en Demonio. Esto puede crear confusión mientras el equipo malvado se comunica en silencio de noche para decidir quién será el Demonio.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

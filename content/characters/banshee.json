@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "banshee",
+  "nameOriginal": "Banshee",
+  "nameEs": "Banshee",
+  "abilityEs": "Si el Demonio te mata, todos los jugadores se enteran de que has muerto. Desde ese momento, puedes nominar dos veces al día y votar dos veces por nominación.",
+  "icon": "assets/images/characters/banshee.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Banshee",
+    "revision": "oldid=2960",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/6/63/Icon_banshee.png"
+}

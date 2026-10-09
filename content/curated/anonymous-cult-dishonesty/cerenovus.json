@@ -1,0 +1,384 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "cerenovus",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Cerenovus",
+    "revision": "oldid=3048",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Cerenovus anima a los jugadores a fingir ser personajes distintos de los que realmente tienen."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Qué personajes pueden elegirse y qué debe hacer el jugador afectado.",
+      "textEs": "El Cerenovus elige a un Aldeano o Forastero del que un jugador debe estar loco creyendo que es durante el día siguiente. Debe intentar convencer al grupo de que realmente es ese personaje o quizá lo ejecuten."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "No basta con insinuar el personaje, pero el Narrador decide si impone la ejecución.",
+      "textEs": "Insinuarlo no basta para evitar la muerte: el jugador debe esforzarse de verdad por convencer al grupo. Nunca se le obliga literalmente a decir algo que no quiera, pero si el Narrador no oye que lo intente, pagará las consecuencias."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Narrador puede evitar ejecutar a un jugador malvado por esta habilidad.",
+      "textEs": "El Narrador podría ejecutar a un jugador malvado afectado por la locura, pero no está obligado: puede decidir no hacerlo para impedir que el equipo malvado gane gracias a esa estrategia."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [
+        "mutant"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Summary conserva la comparación oficial con Mutant; no se filtran las secciones de reglas.",
+      "textEs": "Como ocurre con el Mutante, una ejecución impuesta por esta habilidad cuenta como la única ejecución permitida ese día."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre los posibles usos de la locura.",
+      "textEs": "La locura puede perjudicar mucho al equipo bueno y es un arte. Puedes impedir que alguien revele información, obligarlo a cambiar su historia o a duplicar la afirmación de otro jugador, e incluso conseguir que lo ejecuten si no sigue la actuación. Piensa bien qué resultado quieres antes de elegir a quién volver loco y de qué personaje."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para elegir jugadores influyentes.",
+      "textEs": "Elige a jugadores que tengan mucho que decir. En muchas partidas hay personas que dirigen al grupo, se han ganado confianza o están muy seguras de tener razón. Hacer que una de ellas esté loca puede dificultar que se coordine con sus aliados o sembrar dudas."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [
+        "flowergirl",
+        "seamstress",
+        "oracle",
+        "sweetheart"
+      ],
+      "requiredCharacterIds": [
+        "flowergirl",
+        "sweetheart"
+      ],
+      "decision": "partial",
+      "reason": "Se conservaron la Florista y el Adorable, presentes en el guion; se quitaron la Costurera y el Oráculo, ausentes.",
+      "textEs": "Si un jugador está revelando información importante, usa la locura para neutralizarlo. La Florista, por ejemplo, tendrá dificultades para compartir información decisiva si la obligas a actuar como el Adorable. Observa a quién escucha el grupo, en público o en privado, y céntrate en esa persona."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [
+        "savant"
+      ],
+      "requiredCharacterIds": [
+        "savant"
+      ],
+      "decision": "keep",
+      "reason": "La cifra 3+ se traduce desde Tips 4 antes de fijar la entrada; no se recupera directamente de la wiki durante la síntesis.",
+      "textEs": "Una jugada malvada puede ser hacer que alguien esté loco creyendo que es un personaje complejo como el Erudito cerca del final. Tendrá que inventar tres días o más de información, lo que distraerá al equipo bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "fang-gu",
+        "snake-charmer"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de Fang Gu y Encantadora de Serpientes, ausentes; se conserva la estrategia de mantener objetivos discretos o repetirlos para limitar lo que puedan contar.",
+      "textEs": "Al elegir a quién volver loco, procura ser discreto o constante. Cuando un jugador deje de estar loco, puede revelar de inmediato que lo afectaste; el equipo bueno estará atento a actuaciones ruidosas. Puedes elegir al mismo jugador cada día para que no tenga oportunidad de contar lo que haces, a cambio de limitarte a un solo objetivo, o escoger un personaje plausible para que la actuación pase inadvertida."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [
+        "sage",
+        "dreamer",
+        "fang-gu"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Sabio, la Soñadora y Fang Gu, ausentes; se conserva la idea general de construir una historia coherente entre varios días.",
+      "textEs": "Una forma avanzada de usar la locura es crear un relato coherente. Puedes hacer que un jugador revele un personaje después de que el día anterior fingiera otro que llevaría de forma natural a esa historia. Esa continuidad puede hacer que el grupo quiera creer la trama que has construido y debilitar al verdadero personaje afectado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [
+        "vortox",
+        "clockmaker",
+        "artist"
+      ],
+      "requiredCharacterIds": [
+        "vortox"
+      ],
+      "decision": "omit",
+      "reason": "La estrategia depende de la presión de ejecución causada por el Vortox, ausente del guion."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [
+        "barber",
+        "sweetheart",
+        "klutz"
+      ],
+      "requiredCharacterIds": [
+        "barber",
+        "sweetheart"
+      ],
+      "decision": "partial",
+      "reason": "Se conservaron el Barbero y el Adorable, presentes; se quitó el Torpe, ausente. Se mantiene la regla de que los muertos también pueden verse afectados y ejecutados.",
+      "textEs": "Tu habilidad también puede afectar a jugadores muertos. Si rompen la locura, todavía pueden ser ejecutados; así impiden que el equipo bueno ejecute a quien quería y el equipo malvado obtiene una noche más. Si sabes a quién matará el Demonio, puedes hacer que esté loco creyendo que es el Barbero o el Adorable y distraer al grupo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [
+        "mutant"
+      ],
+      "requiredCharacterIds": [
+        "mutant"
+      ],
+      "decision": "omit",
+      "reason": "El consejo depende de volver loco al Mutante, ausente del guion."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para convertir a malvados en objetivos de la locura.",
+      "textEs": "Elige deliberadamente a jugadores malvados para hacerlos parecer buenos. Hay riesgo de que los ejecuten si no siguen la locura, pero si el equipo bueno cree que fueron afectados por una habilidad malvada, confiará más en ellos. Avisa al Demonio antes de hacerlo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-11",
+      "mentionedCharacterIds": [
+        "pit-hag"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo de la Pit-Hag, ausente; se conserva la advertencia general de que la locura puede revelar al Cerenovus y contradecir otros faroles.",
+      "textEs": "El equipo bueno probablemente sabrá que estás en juego después de unos días porque la locura es muy visible. Tenlo en cuenta si tu equipo malvado farolea que hay otros Esbirros: una muerte causada por la locura puede revelar que esa historia no encaja."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-12",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre el criterio del Narrador al determinar si alguien está loco.",
+      "textEs": "El Narrador decide si la actuación de un jugador parece sincera. Puede ser indulgente con alguien que está aprendiendo y más exigente con jugadores experimentados que conocen la locura. Elegir a estos últimos aumenta las posibilidades de una actuación complicada y convincente."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "barber",
+        "savant"
+      ],
+      "requiredCharacterIds": [
+        "barber",
+        "savant"
+      ],
+      "decision": "keep",
+      "reason": "El Barbero y el Erudito aparecen en el guion y la secuencia es aplicable.",
+      "textEs": "El Cerenovus hace que el Barbero esté loco creyendo que es el Erudito. Al día siguiente, el Barbero afirma ser el Erudito, habla con el Narrador y cuenta dos datos inventados. Cuando le preguntan si está loco, lo niega con firmeza y evita la ejecución."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "artist",
+        "sage"
+      ],
+      "requiredCharacterIds": [
+        "artist",
+        "sage"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Artista y el Sabio, ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "flowergirl",
+        "clockmaker"
+      ],
+      "requiredCharacterIds": [
+        "clockmaker"
+      ],
+      "decision": "omit",
+      "reason": "Aunque la Florista está en el guion, el ejemplo depende de fingir como Relojero, ausente."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se aclara quién elige los objetivos, conservando todo el procedimiento.",
+      "textEs": "Cada noche, despierta al Cerenovus. El Cerenovus señala a cualquier jugador y a un icono de Aldeano o Forastero de su hoja de personaje. Vuelve a dormirlo. Marca al jugador elegido con LOCO y despiértalo. Muéstrale la ficha ESTE PERSONAJE TE HA ELEGIDO, después la ficha de Cerenovus y luego la ficha del personaje que debe fingir. Vuelve a dormirlo."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Criterio y procedimiento de ejecución por romper la locura.",
+      "textEs": "Durante el día o la noche siguiente, si crees que el jugador no ha hecho todo lo posible por convencer al grupo de que es ese personaje, puedes ejecutarlo. Anúncialo al grupo. Si lo ejecutas durante el día antes de la ejecución normal, pasa a la fase nocturna; solo puede haber una ejecución al día."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "El Cerenovus anima a los jugadores a fingir ser otros personajes. Elige un Aldeano o Forastero que su objetivo debe fingir ser al día siguiente: debe esforzarse por convencer al grupo o podría ser ejecutado.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2"
+        ]
+      },
+      {
+        "textEs": "Insinuarlo no basta para evitar la muerte: el jugador debe esforzarse de verdad por convencer al grupo. Nunca se le obliga literalmente a decir algo que no quiera, pero si el Narrador no oye que lo intente, pagará las consecuencias.",
+        "sourceUnits": [
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "El Narrador podría ejecutar a un jugador malvado afectado por la locura, pero no está obligado: puede decidir no hacerlo para impedir que el equipo malvado gane gracias a esa estrategia.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Como ocurre con el Mutante, una ejecución impuesta por esta habilidad cuenta como la única ejecución permitida ese día.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Decide qué buscas con la locura: bloquear datos, cambiar historias, provocar un doble reclamo o conseguir ejecución por romperla. Afecta a influyentes o a quien divulga información para romper su coordinación y sembrar dudas; la Florista fingiendo Adorable difícilmente comparte su pista. Observa a quién escuchan en público o privado.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "Un personaje complejo como Erudito cerca del final obliga a inventar tres días o más de datos y distrae. Puedes repetir al mismo jugador para que no revele que lo afectaste, a costa de un único objetivo, o elegir personajes plausibles y sutiles: al liberarse, los afectados revelan la habilidad y el pueblo vigila actuaciones obvias. Hacer encajar el personaje fingido con la historia del día anterior puede crear una trama convincente que debilite al personaje real.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-5",
+          "tips-6"
+        ]
+      },
+      {
+        "textEs": "También puedes afectar a muertos: ejecutar uno por romper locura impide la ejecución buena prevista y da una noche extra a malvados. Si sabes a quién matará el Demonio, hazlo fingir Barbero o Adorable para distraer. Elegir a un malvado puede hacerlo parecer bueno por sufrir una habilidad malvada, pero arriesga su ejecución; avisa al Demonio.",
+        "sourceUnits": [
+          "tips-8",
+          "tips-10"
+        ]
+      },
+      {
+        "textEs": "La locura revela pronto que estás en juego: cuida faroles sobre otros Esbirros que una ejecución por locura pudiera desmentir. El Narrador evalúa sinceridad, quizá con indulgencia para nuevos y más exigencia para experimentados; elegir a estos favorece actuaciones complicadas y convincentes.",
+        "sourceUnits": [
+          "tips-11",
+          "tips-12"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "textEs": "El Cerenovus hace que el Barbero esté loco creyendo que es el Erudito. Al día siguiente, el Barbero afirma ser el Erudito, habla con el Narrador y cuenta dos datos inventados. Cuando le preguntan si está loco, lo niega con firmeza y evita la ejecución.",
+        "sourceUnits": [
+          "examples-1"
+        ]
+      }
+    ],
+    "bluffing": [],
+    "howToRun": [
+      {
+        "textEs": "Cada noche, despierta al Cerenovus. El Cerenovus señala a cualquier jugador y a un icono de Aldeano o Forastero de su hoja de personaje. Vuelve a dormirlo. Marca al jugador elegido con LOCO y despiértalo. Muéstrale la ficha ESTE PERSONAJE TE HA ELEGIDO, después la ficha de Cerenovus y luego la ficha del personaje que debe fingir. Vuelve a dormirlo.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Durante el día o la noche siguiente, si crees que el jugador no ha hecho todo lo posible por convencer al grupo de que es ese personaje, puedes ejecutarlo. Anúncialo al grupo. Si lo ejecutas durante el día antes de la ejecución normal, pasa a la fase nocturna; solo puede haber una ejecución al día.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

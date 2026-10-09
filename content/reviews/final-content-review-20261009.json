@@ -1,0 +1,849 @@
+{
+  "reviewStatus": "reviewed",
+  "checkedAt": "2026-10-09",
+  "scriptSlug": "anonymous-cult-dishonesty",
+  "changes": [
+    {
+      "id": "high-priestess",
+      "sourceUnit": "bluffing-9",
+      "section": "bluffing",
+      "before": {
+        "section": "bluffing",
+        "sourceUnit": "bluffing-9",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Farol aplicable tanto a jugadores malvados como buenos.",
+        "textEs": "Este farol funciona bien para que un jugador malvado empiece la partida y después cambie a otro personaje; también puede servir a un jugador bueno que necesite iniciar una conversación con alguien sin revelar por qué quiere hablar con esa persona."
+      },
+      "after": {
+        "section": "bluffing",
+        "sourceUnit": "bluffing-9",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Se aclara back into another character: cambia la afirmación del personaje, no el personaje real.",
+        "textEs": "Este farol sirve a un malvado para empezar la partida y pasar después a otro farol. También puede usarlo un jugador bueno para iniciar una conversación sin revelar por qué necesita hablar con esa persona."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/High_Priestess",
+        "revision": "oldid=1994",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      }
+    },
+    {
+      "id": "pixie",
+      "sourceUnit": "bluffing-7",
+      "section": "bluffing",
+      "before": {
+        "section": "bluffing",
+        "sourceUnit": "bluffing-7",
+        "mentionedCharacterIds": [
+          "fortune-teller"
+        ],
+        "requiredCharacterIds": [],
+        "decision": "partial",
+        "reason": "Se quitó el ejemplo de la Adivina, ausente del guion; se conserva el consejo general de conocer la habilidad y el momento en que murió el personaje duplicado.",
+        "textEs": "Si muere el Aldeano que dices duplicar, obtendrás su habilidad - salvo que hayas roto la locura - . Asegúrate de saber cómo funciona cuando te pidan información y recuerda cuándo murió para poder explicar cuántas noches de información has recibido."
+      },
+      "after": {
+        "section": "bluffing",
+        "sourceUnit": "bluffing-7",
+        "mentionedCharacterIds": [
+          "fortune-teller"
+        ],
+        "requiredCharacterIds": [],
+        "decision": "partial",
+        "reason": "Las comillas de la fuente «Pixie» indican un farol; no se obtiene realmente la habilidad. Se conserva la excusa de romper la locura y el recuento de noches.",
+        "textEs": "Si muere el Aldeano que dices duplicar, tendrás que fingir que has obtenido su habilidad, salvo que hayas alegado romper la locura. Conoce cómo funciona y recuerda cuándo murió para explicar cuántas noches de información fingida llevas."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Pixie",
+        "revision": "oldid=1955",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      }
+    },
+    {
+      "id": "ogre",
+      "sourceUnit": "tips-10",
+      "section": "tips",
+      "before": {
+        "section": "tips",
+        "sourceUnit": "tips-10",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Consejo general sobre a quién suele elegir quien farolea como Ogro.",
+        "textEs": "Si alguien dice ser el Ogro, el jugador que afirma haber elegido casi siempre será bueno. O bien es un buen jugador que comparte alineamiento con el Ogro, o bien es malvado y farolea; en ese caso, probablemente eligió a un jugador bueno como amigo imaginario."
+      },
+      "after": {
+        "section": "tips",
+        "sourceUnit": "tips-10",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Se distinguen los sujetos de la viñeta: quien afirma ser Ogro y el amigo que señala.",
+        "textEs": "El amigo que señala quien afirma ser Ogro casi siempre será bueno: si quien lo afirma es un Ogro bueno, comparte su alineamiento; si es un malvado que farolea como Ogro, probablemente eligió a un jugador bueno como amigo imaginario."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Ogre",
+        "revision": "oldid=2617",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      }
+    },
+    {
+      "id": "marionette",
+      "sourceUnit": "tips-7",
+      "section": "tips",
+      "before": {
+        "section": "tips",
+        "sourceUnit": "tips-7",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Inferencia general sobre los jugadores malvados posibles.",
+        "textEs": "Si sabes con seguridad quiénes son los Esbirros, también puedes estar seguro de que no eres secretamente la Marioneta: el número de Esbirros es limitado y confirmar quién es uno descarta esa posibilidad para los demás jugadores buenos."
+      },
+      "after": {
+        "section": "tips",
+        "sourceUnit": "tips-7",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Se aclara Minions en plural junto con el límite de Esbirros de la fuente, sin deducirlo de identificar solo uno en una partida con varios.",
+        "textEs": "Si sabes con seguridad quiénes son todos los Esbirros, puedes descartar que seas secretamente la Marioneta. Hay un número limitado de Esbirros; no necesitas conocer sus tipos, pero sí identificar a todos los que corresponden a la partida."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Marionette",
+        "revision": "oldid=3111",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ]
+      }
+    },
+    {
+      "id": "banshee",
+      "sourceUnit": "tips-3",
+      "section": "tips",
+      "before": {
+        "section": "tips",
+        "sourceUnit": "tips-3",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Consejo general sobre usar la confirmación al morir.",
+        "textEs": "Cuando mueras, quedará confirmado que eres la Banshee. Aprovecha para reunir toda la información posible."
+      },
+      "after": {
+        "section": "tips",
+        "sourceUnit": "tips-3",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Se aclara el consejo con Summary y How to Run: la confirmación requiere que se active y anuncie la habilidad.",
+        "textEs": "Si el Demonio te mata y se anuncia que tu habilidad se activó, quedas confirmada como Banshee. Aprovecha para reunir toda la información posible."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Banshee",
+        "revision": "oldid=2960",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      }
+    },
+    {
+      "id": "banshee",
+      "sourceUnit": "tips-7",
+      "section": "tips",
+      "before": {
+        "section": "tips",
+        "sourceUnit": "tips-7",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Consejo sobre aprovechar nominaciones y votos diarios.",
+        "textEs": "Usa una nominación cada día y tu voto al menos una vez: puedes asegurarte de que haya un jugador bueno nominando y tu voto doble puede inclinar la mayoría a favor del equipo bueno."
+      },
+      "after": {
+        "section": "tips",
+        "sourceUnit": "tips-7",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Se conserva el plural nominations, sin reducirlo a una única nominación.",
+        "textEs": "Usa tus nominaciones cada día y vota al menos una vez: habrá un jugador bueno nominando y tus votos dobles pueden inclinar la mayoría a favor del equipo bueno."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Banshee",
+        "revision": "oldid=2960",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      }
+    },
+    {
+      "id": "investigator",
+      "sourceUnit": "tips-2",
+      "section": "tips",
+      "before": {
+        "section": "tips",
+        "sourceUnit": "tips-2",
+        "mentionedCharacterIds": [
+          "empath",
+          "chef"
+        ],
+        "requiredCharacterIds": [],
+        "decision": "partial",
+        "reason": "Se quitaron los ejemplos del Empático y el Cocinero, ausentes del guion; se conserva la idea independiente de coordinar información y ejecución.",
+        "textEs": "Tu información quizá no baste por sí sola para condenar a un jugador concreto, pero puede combinarse con la información de otra persona buena. Si confías en ella, podéis coordinaros para ejecutar pronto a un Esbirro, quitarle su poder de voto y obtener ventaja."
+      },
+      "after": {
+        "section": "tips",
+        "sourceUnit": "tips-2",
+        "mentionedCharacterIds": [
+          "empath",
+          "chef"
+        ],
+        "requiredCharacterIds": [],
+        "decision": "partial",
+        "reason": "Se aclara la expresión voting power con las reglas oficiales de votación de los muertos, sin afirmar que pierde todo voto.",
+        "textEs": "Tu información quizá no baste para condenar a un jugador, pero puede combinarse con la de otra persona buena. Si confías en ella, coordinaos para ejecutar pronto a un Esbirro y limitar su poder de voto: un muerto conserva solo un voto para el resto de la partida."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Investigator",
+        "revision": "oldid=2983",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "supplementaryUrl": "https://wiki.bloodontheclocktower.com/Rules_Explanation"
+    },
+    {
+      "id": "flowergirl",
+      "sourceUnit": "howtorun-2",
+      "section": "howToRun",
+      "before": {
+        "section": "howToRun",
+        "sourceUnit": "howtorun-2",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Registro de los votos del Demonio durante el día.",
+        "textEs": "Cada día, si el Demonio vota en alguna ejecución, sustituye el recordatorio DEMONIO NO VOTÓ por DEMONIO VOTÓ."
+      },
+      "after": {
+        "section": "howToRun",
+        "sourceUnit": "howtorun-2",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Se distingue votar a favor de ejecutar de que se produzca efectivamente una ejecución; Summary exige contar el voto aunque no se ejecute al nominado.",
+        "textEs": "Cada día, si el Demonio vota a favor de alguna nominación para ejecución, sustituye el recordatorio DEMONIO NO VOTÓ por DEMONIO VOTÓ."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Flowergirl",
+        "revision": "oldid=2907",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      }
+    },
+    {
+      "id": "pixie",
+      "sourceUnit": "tips-11",
+      "section": "tips",
+      "before": {
+        "section": "tips",
+        "sourceUnit": "tips-11",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Procedimiento general para comprobar si una afirmación de Duende es cierta.",
+        "textEs": "Se puede comprobar si alguien dice la verdad sobre ser el Duende. Si eres el personaje que afirma ser, aún no has revelado quién eres y quieres comprobarlo, guarda silencio y procura que te maten. Al morir, el Duende debería obtener una habilidad y hablar de ella; si no lo hace, probablemente no sabía que habías muerto."
+      },
+      "after": {
+        "section": "tips",
+        "sourceUnit": "tips-11",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Se restaura la conclusión completa de la viñeta oficial: no solo desconocer la muerte, sino sospechar que no es Duende.",
+        "textEs": "Puedes probar al supuesto Duende si eres el personaje que dice duplicar y no te has revelado: calla y procura que te maten. Cuando mueras, debería obtener una habilidad y hablar de ella. Si no dice haberla obtenido, probablemente no sea Duende, porque no sabía que habías muerto."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Pixie",
+        "revision": "oldid=1955",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      }
+    },
+    {
+      "id": "ojo",
+      "sourceUnit": "tips-5",
+      "section": "tips",
+      "before": {
+        "section": "tips",
+        "sourceUnit": "tips-5",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Se conserva la estrategia de Tips 5 eligiendo un personaje, no una persona.",
+        "textEs": "Si no sabes si alguien dice la verdad sobre su personaje, elige ese personaje para comprobarlo. Si ese jugador muere, ten en cuenta la información que compartió; si no, estaba faroleando y puedes seguir adelante."
+      },
+      "after": {
+        "section": "tips",
+        "sourceUnit": "tips-5",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Se aclara el límite del consejo con la regla oficial del Lleech, presente: puede no morir aunque Ojo haya elegido correctamente su personaje. No se convierte una estrategia en prueba absoluta.",
+        "textEs": "Si no sabes si alguien dice la verdad sobre su personaje, elige ese personaje. Si muere, ten en cuenta su información; si no, la estrategia sugiere que estaba faroleando. Esa deducción presupone que tu habilidad funciona y que ningún efecto impide la muerte."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Ojo",
+        "revision": "oldid=2692",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ]
+      },
+      "supplementaryUrl": "https://wiki.bloodontheclocktower.com/Lleech"
+    },
+    {
+      "id": "cult-leader",
+      "sourceUnit": "tips-10",
+      "section": "tips",
+      "before": {
+        "section": "tips",
+        "sourceUnit": "tips-10",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Consejo general sobre los tres últimos jugadores vivos.",
+        "textEs": "En el último día, si quedan tres jugadores vivos y tú eres uno de ellos, estás junto al Demonio. Si el tercer jugador es malvado, los tres sois malvados y nadie nominará al Demonio, lo que da una victoria fácil al equipo malvado. Si eres bueno, sabes que el Demonio es el único jugador malvado que queda."
+      },
+      "after": {
+        "section": "tips",
+        "sourceUnit": "tips-10",
+        "mentionedCharacterIds": [],
+        "requiredCharacterIds": [],
+        "decision": "keep",
+        "reason": "Se explicitan los presupuestos del consejo y la excepción de Banshee, presente: su How to Run permite seguir nominando aunque todos los vivos sean malvados. Es una aclaración de reglas oficiales, no una estrategia añadida.",
+        "textEs": "En el último día, si quedan tres jugadores vivos y tú eres uno, estás junto al Demonio. Si el tercer jugador es malvado y tu habilidad funciona, los tres sois malvados; normalmente nadie vivo nominará al Demonio, favoreciendo al equipo malvado. En este guion, una Banshee muerta con su habilidad activa todavía puede nominarlo. Si eres bueno y tu habilidad funciona, sabes que el Demonio es el único malvado vivo."
+      },
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Cult_Leader",
+        "revision": "oldid=3049",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "supplementaryUrl": "https://wiki.bloodontheclocktower.com/Banshee"
+    },
+    {
+      "section": "nightSequence",
+      "night": "firstNight",
+      "label": "Información de los Esbirros",
+      "before": "Si hay 7 o más jugadores, despierta a todos los Esbirros. Muestra la ficha «ESTE ES EL DEMONIO» y señala al Demonio. Muestra «ESTOS SON TUS ESBIRROS» y señala a los otros Esbirros.",
+      "after": "Si hay 7 o más jugadores, despierta a los Esbirros salvo la Marioneta. Muestra «ESTE ES EL DEMONIO» y señala al Demonio. Muestra «ESTOS SON TUS ESBIRROS» y señala a los demás Esbirros, sin revelar la Marioneta.",
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/Marionette"
+    },
+    {
+      "section": "nightSequence",
+      "night": "firstNight",
+      "label": "Cerenovus",
+      "before": "El Cerenovus elige a un jugador y un personaje. Duerme al Cerenovus. Despierta al objetivo. Muestra «ESTE PERSONAJE TE HA ELEGIDO», la ficha de Cerenovus y luego la ficha del personaje del que debe estar loco.",
+      "after": "El Cerenovus elige a un jugador y un personaje Aldeano o Forastero. Duerme al Cerenovus. Despierta al objetivo y muestra «ESTE PERSONAJE TE HA ELEGIDO», Cerenovus y el personaje que debe fingir.",
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/Cerenovus"
+    },
+    {
+      "section": "nightSequence",
+      "night": "otherNights",
+      "label": "Cerenovus",
+      "before": "El Cerenovus elige a un jugador y un personaje. Duerme al Cerenovus. Despierta al objetivo. Muestra «ESTE PERSONAJE TE HA ELEGIDO», la ficha de Cerenovus y luego la ficha del personaje del que debe estar loco.",
+      "after": "El Cerenovus elige a un jugador y un personaje Aldeano o Forastero. Duerme al Cerenovus. Despierta al objetivo y muestra «ESTE PERSONAJE TE HA ELEGIDO», Cerenovus y el personaje que debe fingir.",
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/Cerenovus"
+    },
+    {
+      "section": "nightSequence",
+      "night": "otherNights",
+      "label": "Enterrador",
+      "before": "Si un jugador fue ejecutado hoy, muestra su ficha de personaje.",
+      "after": "Si un jugador murió por ejecución hoy, despierta al Enterrador y muéstrale la ficha del personaje que tenía.",
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/Undertaker"
+    },
+    {
+      "section": "nightSequence",
+      "night": "otherNights",
+      "label": "Banshee",
+      "before": "Si la Banshee fue asesinada por el Demonio esta noche, anuncia que la Banshee ha muerto.",
+      "after": "Si el Demonio mató a la Banshee esta noche y su habilidad estaba activa, anuncia que se ha activado. Si no tenía su habilidad, no hagas el anuncio.",
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/Banshee"
+    },
+    {
+      "section": "nightSequence",
+      "night": "otherNights",
+      "label": "Sombrerero",
+      "before": "Si el Sombrerero muriera, despierta a los Esbirros y Demonios. Cada uno puede elegir un nuevo personaje. Si lo hacen, muestra TÚ ERES y su nueva ficha de personaje.",
+      "after": "Si el Sombrerero murió hoy o esta noche, despierta a los Esbirros y al Demonio. Cada uno puede conservar su personaje o elegir otro de su mismo tipo, sin duplicar personajes. Si cambian, muéstrales TÚ ERES y su nueva ficha. La Marioneta no despierta por esta habilidad.",
+      "sourceUrl": "https://wiki.bloodontheclocktower.com/Hatter"
+    }
+  ],
+  "characters": [
+    {
+      "characterId": "investigator",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Investigator",
+        "revision": "oldid=2983",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "7b8e15594bded4aed1690a53d227979ed156eed2e602fe42efc1040a37a60a33"
+    },
+    {
+      "characterId": "grandmother",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Grandmother",
+        "revision": "oldid=2978",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "22654724cc00525eeb07dba351c548eefbbf4971fb4a122a4829ab5b67eb213b"
+    },
+    {
+      "characterId": "shugenja",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Shugenja",
+        "revision": "oldid=1942",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "47af613b86313b12366862f2a88308226af46c614cf57097bf7a4d28247dde5a"
+    },
+    {
+      "characterId": "pixie",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Pixie",
+        "revision": "oldid=1955",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "907d8683b07e7b92c5d8b6ae2f425b0b0c5de7c62e75251e990131ce0c08ca07"
+    },
+    {
+      "characterId": "high-priestess",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/High_Priestess",
+        "revision": "oldid=1994",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "6e0deaafda06294fe9d067923e56c808f31a9ba435198e85bf03f70a5011a468"
+    },
+    {
+      "characterId": "flowergirl",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Flowergirl",
+        "revision": "oldid=2907",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "39624810b756ce6607bbf856dc6338f7800c48a5d8ceee5dac144290c9bc3dca"
+    },
+    {
+      "characterId": "undertaker",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Undertaker",
+        "revision": "oldid=2607",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "ba57735c3a38674d0bc2f92609448cdcd579a65679476d016931423cf6ee4ef2"
+    },
+    {
+      "characterId": "savant",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Savant",
+        "revision": "oldid=2910",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "96adad82e56211e51e3d8f3f53ee3eb5dd2af8afbdfbadf034dc1fe7a37fab28"
+    },
+    {
+      "characterId": "farmer",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Farmer",
+        "revision": "oldid=3085",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "372c177909cdb56eb99fe557e9b509434dea82789f4062376725ebf6ead4b959"
+    },
+    {
+      "characterId": "banshee",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Banshee",
+        "revision": "oldid=2960",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "6fa61ee90988ca65d6ffa4f8c7e327d5a3859927922a71464263a3cdb4f63dc6"
+    },
+    {
+      "characterId": "alsaahir",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Alsaahir",
+        "revision": "oldid=2957",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "1066192890f90c0ce83c711ced31ab29dd45e554024c22c69ba4ad68c4a6712d"
+    },
+    {
+      "characterId": "atheist",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Atheist",
+        "revision": "oldid=2958",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "9399640d5cc4c1f221c07d68a3fb5fbd48f6b6adefd7f0e21fed85b4c45a5dd5"
+    },
+    {
+      "characterId": "cult-leader",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Cult_Leader",
+        "revision": "oldid=3049",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "ff6fcf69d01fb07028efa904275caba8ac4b91a72e28fdfc11fea595efe41f46"
+    },
+    {
+      "characterId": "ogre",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Ogre",
+        "revision": "oldid=2617",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "7d3ad27ecaaa321fd56d4852a6109ba2a4ae631e6c8e5da19487f0368f29cc5d"
+    },
+    {
+      "characterId": "sweetheart",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Sweetheart",
+        "revision": "oldid=2704",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "edd46325ae5eb3e7fa73d75346abb7aa9129d30c4e8077eef4b61bdf90800dfa"
+    },
+    {
+      "characterId": "drunk",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Drunk",
+        "revision": "oldid=3110",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "514dacc753586ebc756cac5a01ea5342ec76eaa58e275d843eea920ba9352b2c"
+    },
+    {
+      "characterId": "barber",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Barber",
+        "revision": "oldid=1757",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "f9f030ebd321034cb13d0ad32a4681180c65f80359612c63b235fe0ccbcacaed"
+    },
+    {
+      "characterId": "hatter",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Hatter",
+        "revision": "oldid=3092",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ]
+      },
+      "inputHash": "78a7823675cd7195b1ea4c7fe6491ede0dc04a3d79b73c1986ea334b19e6771a"
+    },
+    {
+      "characterId": "harpy",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Harpy",
+        "revision": "oldid=3103",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ]
+      },
+      "inputHash": "0a8a61178dcc614957bd2a2267c6e940396eb2dbc56f7015dadd7ac7b45d645b"
+    },
+    {
+      "characterId": "marionette",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Marionette",
+        "revision": "oldid=3111",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ]
+      },
+      "inputHash": "3e8c0196abac6165d6d38a9d2deeca3fc6af4559ef32e3cadc983e599afb3f7e"
+    },
+    {
+      "characterId": "cerenovus",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Cerenovus",
+        "revision": "oldid=3048",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ]
+      },
+      "inputHash": "37b64c18a41f5ff3ddc50ad51049878fa859a7d3279e4df9866330b45f6dc36b"
+    },
+    {
+      "characterId": "scarlet-woman",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Scarlet_Woman",
+        "revision": "oldid=3010",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ]
+      },
+      "inputHash": "46b0aeebd878c72a2ef6b125084aaec89461bb665c27f27d28e637e5c8b84fab"
+    },
+    {
+      "characterId": "godfather",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Godfather",
+        "revision": "oldid=2394",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ]
+      },
+      "inputHash": "967cac7107566599ffb4a6c785402b07cfb480c0edf6ded7177f41aaf48e15dc"
+    },
+    {
+      "characterId": "ojo",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Ojo",
+        "revision": "oldid=2692",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ]
+      },
+      "inputHash": "0472bd69f65e3a8c3e5cdd2c02b61518bfb5384809f5249865495b14fcfd3789"
+    },
+    {
+      "characterId": "lleech",
+      "source": {
+        "url": "https://wiki.bloodontheclocktower.com/Lleech",
+        "revision": "oldid=2988",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ]
+      },
+      "inputHash": "d38d4f9578fd4fcb9483ba2bc20e1e5436450254d7f779056e9e0c929f98343d"
+    }
+  ],
+  "inputWords": 17018,
+  "outputWords": 10244,
+  "condensedSections": 68
+}

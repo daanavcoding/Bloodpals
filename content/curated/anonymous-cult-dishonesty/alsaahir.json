@@ -1,0 +1,555 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "alsaahir",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Alsaahir",
+    "revision": "oldid=2957",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Alsaahir debe adivinar a todo el equipo malvado."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre el momento y el carácter público de la habilidad.",
+      "textEs": "Sus conjeturas deben ser públicas y realizarse durante el día. No tiene que adivinar todos los días."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [
+        "juggler",
+        "gossip"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Summary conserva los ejemplos de la fuente; no se aplica el filtro de estrategias.",
+      "textEs": "Otros jugadores pueden fingir ser el Alsaahir y hacer una conjetura. Como ocurre con la Malabarista o el Cotilla, el Narrador fingirá brevemente que ese jugador es el Alsaahir."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Condiciones completas para que el equipo bueno gane con la habilidad.",
+      "textEs": "Si el Alsaahir adivina correctamente quién es el Demonio y quiénes son todos los Esbirros, la partida termina de inmediato y gana el equipo bueno. Debe adivinarlos a todos."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre el grado de detalle de las conjeturas.",
+      "textEs": "No hace falta adivinar qué personaje Esbirro o qué tipo de Demonio tiene cada jugador."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla si hay varios Demonios.",
+      "textEs": "Si hay más de un Demonio, debe adivinarlos a todos, incluidos los Demonios muertos."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-7",
+      "mentionedCharacterIds": [
+        "legion"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conserva el ejemplo y la excepción completos de Summary.",
+      "textEs": "Si un jugador es Esbirro y Demonio a la vez, como Legión, el Alsaahir debe adivinar que es un Demonio."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Límite de una conjetura por día.",
+      "textEs": "Después de hacer una conjetura, el Alsaahir no puede cambiarla ni volver a adivinar ese día."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-9",
+      "mentionedCharacterIds": [
+        "traveller"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conserva la regla de que debe adivinar personajes malvados aunque sean buenos y no necesita adivinar el alineamiento de los Viajeros.",
+      "textEs": "Debe adivinar qué jugadores son Esbirros y Demonios aunque sean buenos, pero no tiene que adivinar cuáles Viajeros son malvados."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-10",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla si el equipo malvado cambia durante la partida.",
+      "textEs": "Si el equipo malvado cambia durante la partida, el Alsaahir debe adivinar quién forma el equipo actual, no el inicial."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para hacer conjeturas con regularidad.",
+      "textEs": "Haz una conjetura cada día. Cada intento te ayuda a acotar quiénes podrían ser el Demonio y los Esbirros."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para protegerse al principio de la partida.",
+      "textEs": "Espera unos días antes de hacer tu primera conjetura para ocultar que eres el Alsaahir. Si el equipo malvado sabe quién eres, quizá quiera envenenarte o matarte; esconder tu identidad puede ayudarte a mantenerte sano y vivo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [
+        "librarian",
+        "saint"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de la Bibliotecaria y el Santo, ausentes; se conserva la idea general de usar conjeturas para descartar grupos que generan preocupación.",
+      "textEs": "Usa tus conjeturas para descartar intencionadamente parejas o grupos de jugadores que te preocupen."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [
+        "juggler",
+        "gossip"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó la comparación con la Malabarista y el Cotilla, ausentes; se conserva el uso de un farol de Alsaahir para cubrir al verdadero y se advierte que demasiados faroles ocultan información.",
+      "textEs": "Si el guion incluye al Alsaahir, puedes farolear como él y hacer una conjetura para cubrir al Alsaahir verdadero. Si varios jugadores buenos dicen serlo, al equipo malvado le costará identificar al real; pero demasiados faroles pueden ocultar información útil al equipo bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para interpretar la muerte nocturna después de una conjetura.",
+      "textEs": "Si mueres de noche, presta atención a tus últimas conjeturas. Quizá asustaste al equipo malvado al acercarte demasiado a la verdad."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para protegerse y recopilar más información.",
+      "textEs": "Anima a los jugadores buenos a revelar su información para que el Demonio tenga otros objetivos además de ti. Te conviene seguir vivo: el poder del Alsaahir aumenta a medida que avanza la partida."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para atender a las conjeturas de otras personas.",
+      "textEs": "Presta atención a las conjeturas de otros Alsaahir. Otros jugadores buenos pueden tener información o pistas sociales que orienten sus intentos, y quizá acierten."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [
+        "investigator",
+        "empath",
+        "fortune-teller",
+        "bounty-hunter"
+      ],
+      "requiredCharacterIds": [
+        "investigator"
+      ],
+      "decision": "partial",
+      "reason": "Se conservó el Investigador, presente en el guion; se quitaron los ejemplos del Empático, la Adivina y el Cazarrecompensas, ausentes.",
+      "textEs": "Busca personajes que detecten jugadores malvados, como el Investigador, y usa su información para aumentar tus posibilidades de acertar."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para mantener fijo a un sospechoso en las combinaciones.",
+      "textEs": "Elige a un jugador que estés seguro de que es malvado y prueba distintas combinaciones que siempre lo incluyan."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [
+        "imp",
+        "fang-gu"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se conserva el consejo independiente y se omite únicamente el ejemplo causal de Imp/Fang Gu, ausentes. No se reemplaza por un Demonio genérico.",
+      "textEs": "Recuerda incluir a los jugadores muertos en tus conjeturas."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-11",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general si se sospecha que la información es defectuosa.",
+      "textEs": "Si crees que te han envenenado, repite la misma conjetura al día siguiente."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-12",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se aclara que se permutan los tipos con el mismo conjunto de jugadores, sin modificar la estrategia.",
+      "textEs": "Encuentra primero al equipo malvado. Cuando estés bastante seguro de quiénes son, prueba distintas combinaciones de quién es Esbirro y quién Demonio con esos mismos jugadores, para ganar con tu habilidad o evitar ejecutar por accidente a un Esbirro."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-13",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo pertinente a la distribución de jugadores del guion.",
+      "textEs": "Ten en cuenta la distribución de personajes según el número de jugadores. Si normalmente juegas partidas de doce, quizá olvides adivinar a un tercer Esbirro en partidas de trece jugadores o más."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-14",
+      "mentionedCharacterIds": [
+        "lil-monsta",
+        "legion",
+        "riot"
+      ],
+      "requiredCharacterIds": [
+        "lil-monsta",
+        "legion",
+        "riot"
+      ],
+      "decision": "omit",
+      "reason": "El consejo depende de tipos inusuales de equipo malvado que no aparecen en este guion."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-15",
+      "mentionedCharacterIds": [
+        "imp",
+        "fang-gu",
+        "scarlet-woman"
+      ],
+      "requiredCharacterIds": [
+        "scarlet-woman"
+      ],
+      "decision": "partial",
+      "reason": "Se quitaron el Imp y el Fang Gu, ausentes; se conserva la Mujer Escarlata, presente, como ejemplo de cambio de Demonio durante la partida.",
+      "textEs": "Presta atención a personajes que pueden cambiar quién es el Demonio a mitad de partida. Si la Mujer Escarlata se convierte en Demonio, quizá tengas que ajustar tus conjeturas según la nueva información."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo genérico de una conjetura incorrecta.",
+      "textEs": "El Alsaahir adivina que cuatro jugadores buenos son malvados. No ocurre nada."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo genérico de conjetura correcta y victoria inmediata.",
+      "textEs": "El Alsaahir adivina que Doug es el Demonio y Ben y Sarah son Esbirros. Doug es el Demonio y Ben y Sarah son Esbirros. El equipo bueno gana de inmediato."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo genérico de información defectuosa seguida de una conjetura posterior.",
+      "textEs": "El Alsaahir está borracho y adivina que Doug es el Demonio y Ben y Sarah son Esbirros. Aunque acierta, no ocurre nada y la partida continúa. Al día siguiente, ya sobrio, adivina que Ben es el Demonio y Doug y Sarah son Esbirros; tampoco ocurre nada."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para farolear como Alsaahir al principio.",
+      "textEs": "Es fácil farolear como Alsaahir al principio porque otros jugadores buenos suelen hacerlo también. Aunque haya un Alsaahir real, puedes farolear como él con seguridad si tienes otro farol preparado para más adelante."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para evitar inconsistencias en las conjeturas.",
+      "textEs": "Piensa bien tus conjeturas: recuerda a quién señalaste ayer y a quién señalarás mañana. Si descartas demasiados equipos malvados posibles, podrías contradecirte al llegar al último día; esto es aún más importante si eres el Demonio y sigues vivo."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para pedir consejo a jugadores buenos y malvados.",
+      "textEs": "Pide consejo a otros jugadores sobre a quién señalar. Pregunta a los buenos para parecer bueno y a los malvados para que ellos también parezcan buenos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para no acusar a jugadores de confianza.",
+      "textEs": "Evita acusar a jugadores buenos en quienes todos confían. Si el equipo bueno te ve intentando hacer parecer malvado a alguien bueno, probablemente sospechará de ti y confiará aún más en esa persona."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para apoyarse en información que detecta malvados.",
+      "textEs": "Busca jugadores buenos que tengan información para detectar a los malvados y gánate su confianza para usar esa información en tus conjeturas. Ten cuidado: también podrían descubrirte."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para dirigir la atención hacia las conjeturas.",
+      "textEs": "Llama la atención sobre tus conjeturas. Convierte la partida en algo centrado en ti: dramatiza tus intentos. Cuanto más se fijen los jugadores buenos en ti y en tus conjeturas, más creerán que eres el Alsaahir."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento diario, condición de victoria y resultado si falla.",
+      "textEs": "Una vez al día, si el Alsaahir declara que quiere usar su habilidad, pídele que adivine qué jugador es el Demonio y qué jugadores son Esbirros. Si se equivoca, no ocurre nada y la partida continúa. Si acierta, anuncia que gana el equipo bueno."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [
+        "juggler",
+        "gossip"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se restaura completa la comparación oficial de How to Run; no se filtra esta sección.",
+      "textEs": "Regla opcional: como con la Malabarista y el Cotilla, el Narrador puede limitar a tres por día el número de jugadores que hacen una conjetura como Alsaahir. Úsala solo si tantos jugadores están faroleando como Alsaahir que la partida se ralentiza y deja de ser divertida."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "Debes adivinar quiénes son todos los Demonios y quiénes son todos los Esbirros. Si aciertas, la partida termina inmediatamente y gana el equipo bueno. No necesitas adivinar qué personaje Esbirro o qué tipo de Demonio tiene cada jugador.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-4",
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "Sus conjeturas deben ser públicas y realizarse durante el día. No tiene que adivinar todos los días.",
+        "sourceUnits": [
+          "summary-2"
+        ]
+      },
+      {
+        "textEs": "Otros jugadores pueden fingir ser el Alsaahir y hacer una conjetura. Como ocurre con la Malabarista o el Cotilla, el Narrador fingirá brevemente que ese jugador es el Alsaahir.",
+        "sourceUnits": [
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Si hay más de un Demonio, debe adivinarlos a todos, incluidos los Demonios muertos.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      },
+      {
+        "textEs": "Si un jugador es Esbirro y Demonio a la vez, como Legión, el Alsaahir debe adivinar que es un Demonio.",
+        "sourceUnits": [
+          "summary-7"
+        ]
+      },
+      {
+        "textEs": "Después de hacer una conjetura, el Alsaahir no puede cambiarla ni volver a adivinar ese día.",
+        "sourceUnits": [
+          "summary-8"
+        ]
+      },
+      {
+        "textEs": "Debe adivinar qué jugadores son Esbirros y Demonios aunque sean buenos, pero no tiene que adivinar cuáles Viajeros son malvados.",
+        "sourceUnits": [
+          "summary-9"
+        ]
+      },
+      {
+        "textEs": "Si el equipo malvado cambia durante la partida, el Alsaahir debe adivinar quién forma el equipo actual, no el inicial.",
+        "sourceUnits": [
+          "summary-10"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Puedes adivinar cada día para acotar malvados, o esperar unos días para ocultarte y evitar que te envenenen o maten. Anima a los buenos a compartir datos para dar al Demonio otros objetivos: tu poder crece al avanzar la partida. Si mueres de noche, revisa las últimas conjeturas; quizá te acercaste demasiado a la verdad.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-5",
+          "tips-6"
+        ]
+      },
+      {
+        "textEs": "Usa conjeturas para descartar parejas o grupos que te preocupen; si tienes un malvado seguro, inclúyelo siempre mientras cambias los demás. Una vez localizado el equipo, permuta quién es Esbirro y quién Demonio con ese mismo conjunto, para acertar o evitar ejecutar a un Esbirro por error.",
+        "sourceUnits": [
+          "tips-3",
+          "tips-9",
+          "tips-12"
+        ]
+      },
+      {
+        "textEs": "Varios buenos pueden fingir Alsaahir para proteger al real, pero demasiados faroles ocultan información útil. Escucha sus conjeturas por sus datos y lecturas sociales, y busca información de personajes que detecten malvados, como Investigador, para mejorar tus intentos.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-7",
+          "tips-8"
+        ]
+      },
+      {
+        "textEs": "Incluye muertos y repite una conjetura al día siguiente si sospechas veneno. Ten presente la distribución: en partidas de trece o más puedes olvidar un tercer Esbirro. Ajusta también las conjeturas ante cambios de Demonio, como el relevo de Mujer Escarlata.",
+        "sourceUnits": [
+          "tips-10",
+          "tips-11",
+          "tips-13",
+          "tips-15"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "textEs": "El Alsaahir adivina que cuatro jugadores buenos son malvados. No ocurre nada.",
+        "sourceUnits": [
+          "examples-1"
+        ]
+      },
+      {
+        "textEs": "El Alsaahir adivina que Doug es el Demonio y Ben y Sarah son Esbirros. Doug es el Demonio y Ben y Sarah son Esbirros. El equipo bueno gana de inmediato.",
+        "sourceUnits": [
+          "examples-2"
+        ]
+      },
+      {
+        "textEs": "El Alsaahir está borracho y adivina que Doug es el Demonio y Ben y Sarah son Esbirros. Aunque acierta, no ocurre nada y la partida continúa. Al día siguiente, ya sobrio, adivina que Ben es el Demonio y Doug y Sarah son Esbirros; tampoco ocurre nada.",
+        "sourceUnits": [
+          "examples-3"
+        ]
+      }
+    ],
+    "bluffing": [
+      {
+        "textEs": "Alsaahir pasa bien al inicio porque los buenos también lo farolean; prepara otro farol incluso si hay uno real. Recuerda qué equipos descartaste y cuáles señalarás: demasiados descartes pueden contradecirte el último día, especialmente si eres Demonio y sigues vivo.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2"
+        ]
+      },
+      {
+        "textEs": "Pide consejo a buenos para parecer bueno y a malvados para hacerlos parecer buenos. Gánate a quienes detectan malvados para usar sus datos, cuidando que no te descubran. Evita acusar a buenos de confianza: podrían sospechar de ti y confiar más en ellos. Dramatizar tus conjeturas centra la atención en ti y hace más creíble el personaje.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-4",
+          "bluffing-5",
+          "bluffing-6"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Una vez al día, si el Alsaahir declara que quiere usar su habilidad, pídele que adivine qué jugador es el Demonio y qué jugadores son Esbirros. Si se equivoca, no ocurre nada y la partida continúa. Si acierta, anuncia que gana el equipo bueno.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Regla opcional: como con la Malabarista y el Cotilla, el Narrador puede limitar a tres por día el número de jugadores que hacen una conjetura como Alsaahir. Úsala solo si tantos jugadores están faroleando como Alsaahir que la partida se ralentiza y deja de ser divertida.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

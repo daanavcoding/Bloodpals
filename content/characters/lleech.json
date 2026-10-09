@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "lleech",
+  "nameOriginal": "Lleech",
+  "nameEs": "Lleech",
+  "abilityEs": "Cada noche*, elige a un jugador: muere. Empiezas eligiendo a un jugador: queda envenenado. Mueres si y solo si ese jugador está muerto.",
+  "icon": "assets/images/characters/lleech.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Lleech",
+    "revision": "oldid=2988",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/7/70/Icon_lleech.png"
+}

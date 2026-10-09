@@ -1,0 +1,491 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "undertaker",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Undertaker",
+    "revision": "oldid=2607",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Enterrador aprende qué personaje fue ejecutado hoy."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [
+        "gunslinger"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración de qué muertes cuentan como ejecución.",
+      "textEs": "El jugador debe haber muerto por ejecución para que el Enterrador aprenda quién es. Las muertes diurnas por otros motivos, como que alguien elija matar a un jugador o exiliar a un Viajero, no cuentan."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de por qué no actúa la primera noche.",
+      "textEs": "El Enterrador despierta cada noche excepto la primera, porque todavía no ha habido ejecuciones."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla si nadie murió durante el día.",
+      "textEs": "Si nadie murió hoy, el Enterrador no aprende nada. El Narrador puede no despertarlo o despertarlo sin mostrarle una ficha."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [
+        "drunk"
+      ],
+      "requiredCharacterIds": [
+        "drunk"
+      ],
+      "decision": "keep",
+      "reason": "El Borracho está en el guion y la regla precisa qué ficha se muestra.",
+      "textEs": "Si ejecutan al Borracho, el Enterrador ve la ficha del Borracho, no la del Aldeano que ese jugador creía ser."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para facilitar ejecuciones y obtener información.",
+      "textEs": "Cuantas más personas ejecuten, más información obtendrás. Te conviene facilitar ejecuciones: el equipo bueno suele matar a los malvados mediante ejecuciones, ya que es menos probable que mueran de noche. Cada ejecución puede alcanzar al Demonio; si no, al menos llegarás al último día sabiendo más sobre los personajes de los demás."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "traveller",
+        "scapegoat"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se conserva la regla general sobre los Viajeros; se quitó la excepción del Chivo Expiatorio, ausente del guion.",
+      "textEs": "No aprendes la identidad de los Viajeros, porque son exiliados, no ejecutados."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para generar confianza mediante ejecuciones.",
+      "textEs": "Ejecutar a alguien cuya identidad aún no conoces puede dar credibilidad a tu afirmación de ser el Enterrador. También puedes ejecutar a alguien que ya haya revelado un personaje y confirmar su historia al aprender qué personaje tiene. Ambas opciones ayudan a generar confianza con el equipo bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [
+        "washerwoman",
+        "librarian",
+        "investigator",
+        "chef",
+        "poisoner"
+      ],
+      "requiredCharacterIds": [
+        "investigator"
+      ],
+      "decision": "partial",
+      "reason": "Se conservaron la idea general y el Investigador, presente en el guion; se quitaron los ejemplos de la Lavandera, Bibliotecaria, Cocinero y Envenenador, ausentes.",
+      "textEs": "Ejecutar al Investigador no confirma a otros jugadores, pero sí te permite confiar en su información poderosa; conocer qué personaje fue ejecutado puede orientar al pueblo hacia siguientes ejecuciones."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "fortune-teller"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó la Adivina, ausente; se conserva la idea aplicable a personajes que obtienen información y pueden quedar confirmados por lo que ya compartieron.",
+      "textEs": "Ejecutar a un personaje que obtiene información puede impedir que reciba más, pero permite confirmarlo y respaldar lo que ya había contado. Si muere de noche, ya no podrás confirmarlo mediante una ejecución."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre el momento de revelar la información.",
+      "textEs": "Revelarte pronto te expone a morir o a que envenenen tu información. Esperar a un momento crítico puede permitirte recibir más información; asegúrate de revelarla antes de que termine la partida."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [
+        "imp",
+        "scarlet-woman"
+      ],
+      "requiredCharacterIds": [
+        "scarlet-woman"
+      ],
+      "decision": "partial",
+      "reason": "Se quitó el Imp, ausente del guion; se conserva la posibilidad de que la Mujer Escarlata tome el relevo si muere el Demonio.",
+      "textEs": "Si descubres algo crítico, como que el ejecutado era el Demonio, puede convenirte revelarlo enseguida. Una Mujer Escarlata quizá haya tomado el relevo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [
+        "drunk"
+      ],
+      "requiredCharacterIds": [
+        "drunk"
+      ],
+      "decision": "keep",
+      "reason": "El Borracho aparece en el guion.",
+      "textEs": "Si ejecutan al Borracho, verás la ficha del Borracho, no la del Aldeano que creía ser."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre confiar en una persona buena ejecutada.",
+      "textEs": "Si ves que el personaje de un jugador ejecutado es bueno, puedes confiar en él y contarle que eres el Enterrador. Cuando te reveles más adelante, las personas ejecutadas podrán respaldarte."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [
+        "imp",
+        "poisoner"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los nombres del Imp y el Envenenador, ausentes del guion; se conserva la táctica general de ocultar información sin revelar la ficha malvada.",
+      "textEs": "Si ves una ficha de personaje malvado, normalmente no conviene contar la verdad a quien acaba de ser ejecutado. Aun así, puedes afirmar que eres el Enterrador y fingir que respaldas su historia para que los malvados quizá te eviten más adelante."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-11",
+      "mentionedCharacterIds": [
+        "virgin"
+      ],
+      "requiredCharacterIds": [
+        "virgin"
+      ],
+      "decision": "omit",
+      "reason": "La interacción depende de la Virgen, ausente del guion."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-12",
+      "mentionedCharacterIds": [
+        "spy",
+        "recluse"
+      ],
+      "requiredCharacterIds": [
+        "spy",
+        "recluse"
+      ],
+      "decision": "omit",
+      "reason": "La advertencia depende del Espía y el Recluso, ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "mayor"
+      ],
+      "requiredCharacterIds": [
+        "mayor"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Alcalde, ausente del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "drunk",
+        "virgin"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo concreto contiene al Borracho que cree ser Virgin, ausente; no se reemplaza por un Aldeano inventado."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "spy",
+        "butler"
+      ],
+      "requiredCharacterIds": [
+        "spy",
+        "butler"
+      ],
+      "decision": "omit",
+      "reason": "El registro del Espía como Mayordomo es esencial para el ejemplo y ambos personajes están ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo general si no hubo ejecuciones.",
+      "textEs": "Hoy no ejecutaron a nadie. Esa noche, el Enterrador no despierta."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla general sobre la información que recibiría un Enterrador.",
+      "textEs": "Cada noche excepto la primera, el Narrador te habría despertado y mostrado la ficha del personaje ejecutado el día anterior."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de esperar antes de revelar el farol.",
+      "textEs": "Un Enterrador real puede esperar unos días antes de revelarse. Guarda silencio o afirma al principio ser otro personaje para parecer un Enterrador que estaba faroleando."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [
+        "spy"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó la estrategia basada en el conocimiento total del Espía, ausente; se conserva la recomendación de averiguar previamente la identidad de los jugadores buenos.",
+      "textEs": "Puedes parecer bueno confirmando que los jugadores buenos son quienes dicen ser. Para que funcione, averigua primero quiénes son."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [
+        "drunk"
+      ],
+      "requiredCharacterIds": [
+        "drunk"
+      ],
+      "decision": "keep",
+      "reason": "El Borracho aparece en el guion y la idea general no depende de personajes ausentes.",
+      "textEs": "Puedes hacer que jugadores importantes parezcan malvados al afirmar que eran Esbirros o incluso el Demonio cuando los ejecutaron. Es arriesgado porque lo sabrán, pero puede hacerte ganar si los demás te creen. Como normalmente ejecutan más jugadores buenos que malvados, usa esta táctica con moderación. Si no te creen, siempre puedes alegar que estás borracho o envenenado."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general si muere ejecutado otro jugador malvado.",
+      "textEs": "Si ejecutan a otro jugador malvado, puedes afirmar que era bueno o malvado. Si dices que era bueno, vuestras historias se respaldan mutuamente; si dices que era malvado, debería comportarse de forma sospechosa para que parezcas el Enterrador verdadero."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [
+        "drunk"
+      ],
+      "requiredCharacterIds": [
+        "drunk"
+      ],
+      "decision": "keep",
+      "reason": "El Borracho aparece en el guion.",
+      "textEs": "Una buena forma de desacreditar a un Aldeano ejecutado es afirmar que viste la ficha del Borracho. Si el grupo te cree - y especialmente si también te cree el jugador ejecutado - pensará que la información que recibió no era fiable. Si no sabes qué personaje tenía, decir que era el Borracho también puede ocultarlo."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Registro de la ejecución durante el día.",
+      "textEs": "Si un jugador muere por ejecución, coloca el recordatorio MURIÓ HOY del Enterrador junto a la ficha de personaje del jugador muerto."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento nocturno y retirada de recordatorio.",
+      "textEs": "Cada noche excepto la primera, si alguien murió por ejecución hoy, despierta al Enterrador y muéstrale la ficha de personaje marcada MURIÓ HOY. Vuelve a dormirlo y retira el recordatorio cuando te resulte conveniente."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Variación del procedimiento en otras ediciones del juego.",
+      "textEs": "En Trouble Brewing solo puede haber una ejecución al día y cada ejecución mata a un jugador. En otras ediciones puede haber varias ejecuciones; en ese caso, el Narrador elige qué personaje mostrar. También puede ocurrir que una ejecución no mate a nadie; entonces el Enterrador no aprende nada."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "El Enterrador aprende qué personaje murió por ejecución hoy. Despierta cada noche excepto la primera, porque todavía no ha habido ejecuciones. Las muertes diurnas por otros motivos y el exilio de un Viajero no cuentan.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Si nadie murió hoy, el Enterrador no aprende nada. El Narrador puede no despertarlo o despertarlo sin mostrarle una ficha.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Si ejecutan al Borracho, el Enterrador ve la ficha del Borracho, no la del Aldeano que ese jugador creía ser.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Facilita ejecuciones: son la principal vía buena para matar malvados, pueden alcanzar al Demonio y te dejan más información para el último día. Ejecutar a alguien de personaje desconocido da credibilidad a tu pista; ejecutar a quien lo reveló permite corroborarlo y ganar confianza. Los Viajeros son exiliados, no ejecutados.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "Ejecutar a un personaje de información permite confirmarlo y respaldar sus datos, aunque pierda información futura; una muerte nocturna impide confirmarlo así. El Investigador no confirma a otros, pero permite confiar en su pista y orientar nuevas ejecuciones.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-5"
+        ]
+      },
+      {
+        "textEs": "Puedes esperar a un momento crítico para reunir más datos sin exponerte pronto a muerte o veneno; revela lo que sabes antes de terminar la partida. O habla enseguida si aprendiste algo decisivo, como la ejecución del Demonio: quizá haya tomado el relevo la Mujer Escarlata.",
+        "sourceUnits": [
+          "tips-6",
+          "tips-7"
+        ]
+      },
+      {
+        "textEs": "Si ejecutan al Borracho, verás la ficha del Borracho, no la del Aldeano que creía ser.",
+        "sourceUnits": [
+          "tips-8"
+        ]
+      },
+      {
+        "textEs": "Puedes confiar en un ejecutado de personaje bueno y revelarte a él para que te respalde después. Si viste una ficha malvada, suele convenir ocultarle la verdad, aunque fingir que corroboras su farol puede hacer que los malvados te eviten.",
+        "sourceUnits": [
+          "tips-9",
+          "tips-10"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "textEs": "Hoy no ejecutaron a nadie. Esa noche, el Enterrador no despierta.",
+        "sourceUnits": [
+          "examples-4"
+        ]
+      }
+    ],
+    "bluffing": [
+      {
+        "textEs": "Tu supuesta información llega cada noche salvo la primera. Como un Enterrador real, puedes guardar silencio unos días o reclamar primero otro personaje para parecer que te protegías con un farol.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2"
+        ]
+      },
+      {
+        "textEs": "Averigua los personajes buenos para confirmarlos y ganar confianza, o atribuye Esbirro/Demonio a un ejecutado importante para desacreditarlo: sabrá que mientes, así que úsalo con moderación y alega borrachera o veneno si no te creen. Ante un compañero ejecutado, decir que era bueno corrobora vuestras historias; decir que era malvado mientras actúa sospechosamente puede confirmarte como Enterrador.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-4",
+          "bluffing-5"
+        ]
+      },
+      {
+        "textEs": "Una buena forma de desacreditar a un Aldeano ejecutado es afirmar que viste la ficha del Borracho. Si el grupo te cree - y especialmente si también te cree el jugador ejecutado - pensará que la información que recibió no era fiable. Si no sabes qué personaje tenía, decir que era el Borracho también puede ocultarlo.",
+        "sourceUnits": [
+          "bluffing-6"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Si un jugador muere por ejecución, coloca el recordatorio MURIÓ HOY del Enterrador junto a la ficha de personaje del jugador muerto.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Cada noche excepto la primera, si alguien murió por ejecución hoy, despierta al Enterrador y muéstrale la ficha de personaje marcada MURIÓ HOY. Vuelve a dormirlo y retira el recordatorio cuando te resulte conveniente.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "En Trouble Brewing solo puede haber una ejecución al día y cada ejecución mata a un jugador. En otras ediciones puede haber varias ejecuciones; en ese caso, el Narrador elige qué personaje mostrar. También puede ocurrir que una ejecución no mate a nadie; entonces el Enterrador no aprende nada.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "drunk",
+  "nameOriginal": "Drunk",
+  "nameEs": "Borracho",
+  "abilityEs": "No sabes que eres el Borracho. Piensas que eres un Aldeano, pero no lo eres.",
+  "icon": "assets/images/characters/drunk.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Drunk",
+    "revision": "oldid=3110",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/4/4a/Icon_drunk.png"
+}

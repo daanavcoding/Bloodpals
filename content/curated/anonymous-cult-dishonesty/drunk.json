@@ -1,0 +1,460 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "drunk",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Drunk",
+    "revision": "oldid=3110",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Borracho cree que es un Aldeano, pero en realidad no lo es y no sabe que es el Borracho."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Cómo se asigna el Borracho durante la preparación.",
+      "textEs": "La ficha del Borracho no va en la bolsa. En su lugar, se introduce la ficha de un Aldeano, y quien la roba es secretamente el Borracho durante toda la partida. El Narrador lo sabe; el jugador no."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "La habilidad no tiene efecto, aunque el Narrador simula el personaje que cree ser.",
+      "textEs": "El Borracho no tiene habilidad. Cuando su habilidad de Aldeano debería afectar la partida, no lo hace. Sin embargo, el Narrador finge que el jugador es el Aldeano que cree ser: si ese personaje despertaría de noche, el Borracho despierta para actuar como él; si recibiría información, el Narrador puede darle información falsa y se le anima a hacerlo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [
+        "soldier"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Soldado, ausente del guion; se conserva cómo detectar que podrías ser el Borracho.",
+      "textEs": "El Borracho nunca sabe que lo es. Empieza con una ficha de Aldeano y actúa como ese personaje, pero puede recibir información incorrecta. Solo puedes descubrirlo jugando: busca pistas como información que se demuestre falsa o una habilidad que no funcione cuando debería."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "baron"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se conserva la pista general y se elimina el ejemplo del Baron, ausente. No se lo sustituye por Godfather ni se añade estrategia sobre otro personaje.",
+      "textEs": "Averiguar si hay un Borracho permite saber si los Aldeanos deben examinar su información con más cautela. Una pista es que haya más o menos Forasteros de los previstos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para descubrir quién podría ser el Borracho.",
+      "textEs": "Si sospechas que hay un Borracho, intenta averiguar pronto cuál de los Aldeanos es. Solo puede haber un Borracho, así que identificarlo te ayudará a tratar su información con cautela y permitirá que los demás Aldeanos probablemente confíen en la suya."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [
+        "poisoner",
+        "butler",
+        "imp"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se conservan las cláusulas independientes. Se omite la comparación y ejemplos dependientes de Poisoner, Butler e Imp, ausentes; no se sustituye Poisoner por Lleech.",
+      "textEs": "Si solo una persona parece recibir información falsa, podría ser el Borracho. Considera las distintas hipótesis y qué deducciones permitiría cada una."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "undertaker",
+        "ravenkeeper",
+        "virgin"
+      ],
+      "requiredCharacterIds": [
+        "undertaker"
+      ],
+      "decision": "partial",
+      "reason": "Se conserva el Enterrador, presente en el guion; se quitaron el Guardián de Cuervos y la Virgen, ausentes.",
+      "textEs": "El Enterrador verá la ficha del Borracho cuando compruebe a ese jugador. No te registras como Aldeano: solo crees serlo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [
+        "empath",
+        "investigator"
+      ],
+      "requiredCharacterIds": [
+        "investigator"
+      ],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Empático, ausente; se conserva el ejemplo del Investigador, presente, y el consejo de revisar información previa.",
+      "textEs": "Si descubres que eres el Borracho, intenta reinterpretar lo que aprendiste. Por ejemplo, si creías ser el Investigador y viste a dos jugadores, quizá ninguno sea Esbirro."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración de que la información es poco fiable, pero no siempre falsa.",
+      "textEs": "Recuerda que la información del Borracho no es necesariamente falsa, sino poco fiable. La mayoría de las veces estará equivocada, pero a veces el Narrador podría decirte algo verdadero para evitar revelar que eres el Borracho."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [
+        "slayer",
+        "monk",
+        "mayor"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Cazavampiros, Monje y Alcalde, ausentes; se conserva la regla general de que la habilidad del personaje que crees ser no puede afectar la partida.",
+      "textEs": "Si eres el Borracho, las habilidades activas del personaje que crees ser no pueden afectar la partida. Aunque actúes como ese personaje, su efecto no se produce."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "soldier",
+        "imp"
+      ],
+      "requiredCharacterIds": [
+        "soldier"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Soldado, ausente del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "empath"
+      ],
+      "requiredCharacterIds": [
+        "empath"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Empático, ausente del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "ravenkeeper",
+        "saint",
+        "poisoner"
+      ],
+      "requiredCharacterIds": [
+        "ravenkeeper",
+        "saint",
+        "poisoner"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Guardián de Cuervos, el Santo y el Envenenador, ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-4",
+      "mentionedCharacterIds": [
+        "fortune-teller",
+        "undertaker"
+      ],
+      "requiredCharacterIds": [
+        "fortune-teller"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende de la Adivina, ausente del guion, y no se puede conservar el resultado de información sin cambiar la secuencia original."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre cómo un Borracho real recibe personaje e información.",
+      "textEs": "Al principio no sabrías que eres el Borracho. Recibirías una ficha de Aldeano y el Narrador te trataría como si fueras ese personaje. Repasa cómo actúa de noche el personaje que dices tener, incluso si no despierta."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Borracho aparece en el guion y evita un doble reclamo de un jugador bueno.",
+      "textEs": "El Borracho es el único personaje bueno que puedes afirmar ser sin que otro jugador bueno te contradiga diciendo que tiene el mismo personaje."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [
+        "fortune-teller",
+        "investigator",
+        "empath",
+        "washerwoman",
+        "undertaker",
+        "librarian"
+      ],
+      "requiredCharacterIds": [
+        "investigator",
+        "undertaker"
+      ],
+      "decision": "partial",
+      "reason": "Se conservaron el Investigador y el Enterrador, presentes; se quitaron la Adivina, Empático, Lavandera y Bibliotecaria, ausentes.",
+      "textEs": "Farolea como un personaje que recibe información de forma pasiva, como el Investigador o el Enterrador, y da información deliberadamente falsa o poco convincente. Una afirmación disparatada puede hacer que el grupo crea que eres el Borracho."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [
+        "monk",
+        "soldier",
+        "slayer",
+        "virgin"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Monje, Soldado, Cazavampiros y Virgen, ausentes; se conserva la estrategia general de elegir una habilidad que pueda fallar.",
+      "textEs": "Farolea como un personaje cuya habilidad puede fallar. Si no produce efecto, sorpréndete y plantea que quizá seas el Borracho."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para distraer al equipo bueno buscando al Borracho.",
+      "textEs": "Insinúa que hay un Borracho en juego y guía al grupo en una búsqueda para encontrarlo. Así lo distraerás de su objetivo principal: encontrar al Demonio."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [
+        "undertaker",
+        "poisoner"
+      ],
+      "requiredCharacterIds": [
+        "undertaker"
+      ],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Envenenador, ausente; se conserva el consejo general y el Enterrador, presente.",
+      "textEs": "Insinúa que un jugador concreto está borracho, especialmente si su información perjudica a tu equipo. Por ejemplo, puedes cuestionar la información del Enterrador sobre el personaje de alguien muerto."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-7",
+      "mentionedCharacterIds": [
+        "virgin",
+        "saint",
+        "baron"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se conserva la pauta general. Se omiten los ejemplos dependientes de Virgin, Saint y Baron, ausentes, sin añadir una adaptación al Godfather.",
+      "textEs": "Será mucho más fácil convencer al grupo de que hay un Borracho, o de que una persona concreta lo es, si el número de jugadores que afirman ser Forasteros respalda tu historia."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-8",
+      "mentionedCharacterIds": [
+        "librarian",
+        "ravenkeeper",
+        "undertaker"
+      ],
+      "requiredCharacterIds": [
+        "undertaker"
+      ],
+      "decision": "partial",
+      "reason": "Se conservaron el Enterrador y la estrategia general; se quitaron la Bibliotecaria y el Guardián de Cuervos, ausentes.",
+      "textEs": "Si quieres que un compañero malvado respalde tu farol de Borracho, pídele que afirme ser el Enterrador. Uno de los dos tendrá que morir para que funcione."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-9",
+      "mentionedCharacterIds": [
+        "empath"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Empático, ausente; se conserva la táctica general de dar información contraria a la conclusión que se quiere inducir más adelante.",
+      "textEs": "Si piensas reclamar más adelante que eres el Borracho y crees que el farol puede funcionar, empieza dando información opuesta a la conclusión que quieres que el equipo bueno saque. Cuando reveles que eres el Borracho, quizá inviertan la interpretación."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Preparación de la bolsa y recordatorio de identidad real.",
+      "textEs": "Al preparar la partida, antes de meter fichas en la bolsa, retira la ficha del Borracho y añade una ficha de Aldeano. Coloca el recordatorio ES EL BORRACHO en el grimorio. Introduce en la bolsa la ficha del Aldeano intercambiada, no la del Borracho."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Asignación del jugador que será el Borracho.",
+      "textEs": "Al preparar la primera noche, coloca el recordatorio ES EL BORRACHO junto a una ficha de Aldeano. Ese jugador pasa a ser el Borracho, un Forastero sin la habilidad del Aldeano, aunque crea que sí la tiene."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento durante la partida, incluido el posible dato falso.",
+      "textEs": "Durante la partida, actúa como si el Borracho fuera el Aldeano que cree ser: si ese personaje despertaría de noche, despierta al Borracho; si su habilidad daría información, puedes darle información falsa. Consulta la sección del reglamento sobre borrachera y envenenamiento."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "Crees ser un Aldeano y no sabes que eres el Borracho. Su ficha no entra en la bolsa: entra una de Aldeano, y quien la roba es secretamente el Borracho durante toda la partida. El Narrador lo sabe; el jugador no.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2"
+        ]
+      },
+      {
+        "textEs": "El Borracho no tiene habilidad. Cuando su habilidad de Aldeano debería afectar la partida, no lo hace. Sin embargo, el Narrador finge que el jugador es el Aldeano que cree ser: si ese personaje despertaría de noche, el Borracho despierta para actuar como él; si recibiría información, el Narrador puede darle información falsa y se le anima a hacerlo.",
+        "sourceUnits": [
+          "summary-3"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Solo puedes descubrir durante la partida que eres Borracho: empiezas como supuesto Aldeano y una pista falsa o habilidad fallida puede delatarlo. Esa habilidad nunca produce efectos. Si sospechas que hay uno, identifica cuanto antes al Aldeano supuesto; al ser un único Borracho, se pone en duda su información y los demás pueden confiar más en la suya.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-3",
+          "tips-8"
+        ]
+      },
+      {
+        "textEs": "Un recuento de Forasteros distinto del previsto puede indicar un Borracho; si solo uno recibe datos falsos, también podría serlo. Contrasta hipótesis y sus deducciones. Su información es poco fiable, no necesariamente falsa: normalmente será errónea, pero el Narrador puede dar verdades para no revelar su identidad.",
+        "sourceUnits": [
+          "tips-2",
+          "tips-4",
+          "tips-7"
+        ]
+      },
+      {
+        "textEs": "El Enterrador ve Borracho, no Aldeano: solo crees tener ese personaje. Si descubres que lo eres, reinterpreta tus datos; como supuesto Investigador, quizá ninguno de los dos vistos fuera Esbirro.",
+        "sourceUnits": [
+          "tips-5",
+          "tips-6"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "No sabrías al principio que eres Borracho: prepara cómo despierta o actúa el Aldeano que finges. Borracho es el único personaje bueno que puedes reclamar sin que otro bueno reclame ese mismo personaje.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2"
+        ]
+      },
+      {
+        "textEs": "Da datos falsos o disparatados como Investigador/Enterrador, o sorpréndete ante una habilidad fingida que falla, para parecer Borracho. Insinuar que hay uno y buscarlo distrae del Demonio y pone en duda datos perjudiciales de buenos, como los del Enterrador. El recuento de Forasteros reclamados puede respaldar esa historia.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-4",
+          "bluffing-5",
+          "bluffing-6",
+          "bluffing-7"
+        ]
+      },
+      {
+        "textEs": "Si quieres que un compañero malvado respalde tu farol de Borracho, pídele que afirme ser el Enterrador. Uno de los dos tendrá que morir para que funcione.",
+        "sourceUnits": [
+          "bluffing-8"
+        ]
+      },
+      {
+        "textEs": "Si piensas reclamar más adelante que eres el Borracho y crees que el farol puede funcionar, empieza dando información opuesta a la conclusión que quieres que el equipo bueno saque. Cuando reveles que eres el Borracho, quizá inviertan la interpretación.",
+        "sourceUnits": [
+          "bluffing-9"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Al preparar la partida, antes de meter fichas en la bolsa, retira la ficha del Borracho y añade una ficha de Aldeano. Coloca el recordatorio ES EL BORRACHO en el grimorio. Introduce en la bolsa la ficha del Aldeano intercambiada, no la del Borracho.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Al preparar la primera noche, coloca el recordatorio ES EL BORRACHO junto a una ficha de Aldeano. Ese jugador pasa a ser el Borracho, un Forastero sin la habilidad del Aldeano, aunque crea que sí la tiene.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "Durante la partida, actúa como si el Borracho fuera el Aldeano que cree ser: si ese personaje despertaría de noche, despierta al Borracho; si su habilidad daría información, puedes darle información falsa. Consulta la sección del reglamento sobre borrachera y envenenamiento.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

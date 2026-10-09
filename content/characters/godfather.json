@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "godfather",
+  "nameOriginal": "Godfather",
+  "nameEs": "Padrino",
+  "abilityEs": "Empiezas sabiendo qué Forasteros están en juego. Si uno muere hoy, elige a un jugador esta noche: muere. [-1 o +1 Forastero]",
+  "icon": "assets/images/characters/godfather.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Godfather",
+    "revision": "oldid=2394",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/d/d0/Icon_godfather.png"
+}

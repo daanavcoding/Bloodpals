@@ -1,0 +1,353 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "shugenja",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Shugenja",
+    "revision": "oldid=1942",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Shugenja confía en los jugadores que tiene a un lado u otro."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Primer punto de Summary.",
+      "textEs": "El jugador malvado más cercano es quien está a menos pasos del Shugenja."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Definición de equidistancia.",
+      "textEs": "Los jugadores malvados están equidistantes cuando el más cercano en sentido horario y el más cercano en sentido antihorario están a la misma cantidad de pasos."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de información arbitraria.",
+      "textEs": "Si están equidistantes, el Narrador elige arbitrariamente si decir que el jugador malvado más cercano está en sentido horario o antihorario."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre lo que el Shugenja sabe.",
+      "textEs": "El Shugenja no sabe si su información es arbitraria."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre lo que el Shugenja no aprende.",
+      "textEs": "El Shugenja no aprende cuántos pasos lo separan del jugador malvado."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla para un Shugenja creado durante la partida.",
+      "textEs": "Si se crea un Shugenja a mitad de la partida, esa noche despierta para recibir su información."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Método de comunicación sugerido por la fuente.",
+      "textEs": "El Narrador comunica la dirección señalándola con un dedo, aunque puede usar otros métodos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre la probabilidad de equidistancia.",
+      "textEs": "En general, suele convenir asumir que la información no es arbitraria por equidistancia, pues es menos probable que la situación normal. Ten presente que puede ocurrir, pero al principio suele ser mejor suponer que la información es correcta y razonar a partir de ella."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre confiar en el lado opuesto al indicado.",
+      "textEs": "Por ejemplo, si aprendes sentido horario, probablemente puedas confiar en el jugador que está justo en sentido antihorario. Habla con él y construye confianza mutua: tu información probablemente indica que es bueno y que podéis centraros en un rival común al otro lado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre ampliar el análisis a los siguientes vecinos.",
+      "textEs": "Si, tras observarlos un tiempo, crees que ambos vecinos son buenos, avanza un asiento a cada lado y analiza a los siguientes. Si estás bastante seguro de que el vecino de tu vecino es malvado, probablemente puedas confiar en tus dos vecinos y en el jugador situado a dos puestos por el lado opuesto."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para revisar la equidistancia y las relaciones entre jugadores.",
+      "textEs": "Si tu información no encaja y no confías en quienes te rodean, vuelve a considerar la equidistancia. Examina cada pareja conforme te alejas: ¿tiene sentido que formen parte del mismo equipo malvado? ¿Han hablado, su información coincide entre sí pero no con la de nadie más, votan juntos o colaboran y confían sin un buen motivo?"
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre cómo acotar posibilidades con el paso del juego.",
+      "textEs": "A veces tu información parece muy imprecisa: ¿es malvado tu vecino horario, el siguiente jugador o alguien aún más lejos? ¿Es arbitraria y hay una pareja malvada a la misma distancia en ambos sentidos? Recuerda que, cuanto más avanza la partida, más información complementaria puedes reunir y mejor acotas las opciones. Salvo que el equipo malvado haya cambiado durante la partida, tu información puede ser tan útil entre los tres últimos como el primer día."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general a favor de revelar pronto la información.",
+      "textEs": "Revela pronto tu información. Así otros jugadores podrán orientar sus habilidades según a quién consideren de confianza cerca de ti y usarla para acotar sospechosos. Si no hay otra información que guíe al pueblo, también puede ayudar a que ejecuten a alguien de la dirección que aprendiste."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general a favor de esperar y observar conversaciones.",
+      "textEs": "También puedes revelar tarde. Si un jugador malvado se siente descubierto o cree que tienes información sólida sobre él, quizá evite hablar con sus compañeros. Espera y observa con quién hablan tus sospechosos para seguir esa pista hasta el Demonio."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre confirmar a alguien en la otra dirección.",
+      "textEs": "Si encuentras a un jugador malvado en la dirección que te indicaron, habrás confirmado al menos a un jugador en la dirección contraria. Puedes confiar plenamente en esa persona según tu información y colaborar con ella."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para observar reacciones ante información falsa.",
+      "textEs": "Miente a tus vecinos - o a todos - sobre tu información para observar sus reacciones. Un jugador malvado sabrá que estás faroleando o que tienes información defectuosa por estar borracho o envenenado, pero le conviene seguirte la corriente para empujar al grupo a ejecutar buenos jugadores en la otra dirección. Observa quién se muestra demasiado interesado en hacerlo."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "organ-grinder",
+        "fearmonger"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo completo depende de Organ Grinder y Fearmonger, ausentes; no se sustituyen por jugadores genéricos."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "marionette",
+        "widow"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "La equidistancia del ejemplo depende de Marionette y Widow; Widow está ausente y no se inventa un sustituto."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de farol del Shugenja.",
+      "textEs": "Señala a un vecino para hacerlo parecer malvado y conseguir que lo ejecuten. Si tienes otro jugador malvado al otro lado, hacer que ejecuten a un jugador bueno puede hacer que ese compañero parezca bueno por extensión. Ten cuidado: no quieres que el pueblo empiece a pensar que tu información era arbitraria y que ambos lados son malvados."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para generar confianza con un vecino.",
+      "textEs": "Señala a un vecino para hacerlo parecer bueno y construir confianza. Esto funciona especialmente bien si ese vecino tiene información errónea o fácil de malinterpretar que genere dudas sobre el vecino del lado opuesto: tu información parecerá complementaria y útil."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para no recurrir a la equidistancia al principio.",
+      "textEs": "No des por hecho que hay equidistancia. Si supones que tu información es correcta, tendrás una dirección concreta hacia la que presionar y quizá consigas que ejecuten a jugadores buenos. Si asumes equidistancia, la información será más imprecisa y difícil de convertir en votos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para parecer bueno y poco seguro de la información.",
+      "textEs": "Supón que hay equidistancia si quieres parecer bueno, pero inseguro. Un Demonio puede avanzar así sin llamar la atención: plantea sospechas leves sobre varias parejas cada vez más lejanas y evita que ejecuten a buenos jugadores. Si una pareja confía entre sí, siempre puedes decir que los malvados deben estar a otra distancia."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para responder a las sospechas sobre la información.",
+      "textEs": "Recuerda que puedes recurrir a la equidistancia si empiezan a sospechar porque tu información no parece correcta. Puedes alegar que era arbitraria y que quizá haya una pareja malvada que se protege mutuamente y hace que tu información parezca sospechosa."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento completo de la primera noche, incluido el caso de equidistancia.",
+      "textEs": "Durante la primera noche, despierta al Shugenja. Si el jugador malvado más cercano está en sentido horario, señala horizontalmente en esa dirección; si está en sentido antihorario, señala horizontalmente en esa dirección. Si los dos jugadores malvados más cercanos están a la misma distancia, señala horizontalmente en cualquiera de los dos sentidos. Vuelve a dormir al Shugenja."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "El Shugenja usa su información para confiar en jugadores de un lado u otro. El malvado más cercano es quien está a menos pasos de ti. Si los más cercanos en ambos sentidos están a la misma cantidad de pasos, el Narrador elige arbitrariamente qué dirección darte; no sabes si ocurrió eso ni cuántos pasos te separan del malvado. Si te crean a mitad de partida, recibes tu información esa noche. El Narrador comunica la dirección señalándola con un dedo, aunque puede usar otro método.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3",
+          "summary-4",
+          "summary-5",
+          "summary-6",
+          "summary-7",
+          "summary-8"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Al principio suele convenir asumir que no hubo equidistancia, aunque es posible. Si aprendes sentido horario, probablemente puedas confiar en el vecino antihorario y colaborar contra el otro lado. Si crees buenos a ambos vecinos, analiza un asiento más lejos: un malvado en esa posición permite confiar probablemente en ambos vecinos y en quien esté a dos pasos del lado opuesto.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "Si la pista no encaja y desconfías de tus vecinos, considera malvados equidistantes: compara parejas que hablen, voten o colaboren juntas, confíen sin motivo o den información que solo encaje entre ellas. Con más información acotarás quién está a cada distancia; salvo cambios en el equipo malvado, la pista sigue siendo útil entre los tres últimos.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-5"
+        ]
+      },
+      {
+        "textEs": "Puedes revelar pronto la dirección para que otros orienten sus habilidades, acoten sospechosos y, si no hay más información, ejecuten a alguien de ese lado. O puedes esperar para observar con quién hablan tus sospechosos y seguir la pista hasta el Demonio: si se sienten descubiertos antes, quizá dejen de hablar con sus compañeros.",
+        "sourceUnits": [
+          "tips-6",
+          "tips-7"
+        ]
+      },
+      {
+        "textEs": "Encontrar un malvado en la dirección indicada confirma al menos a una persona del lado opuesto: colabora con ella. También puedes mentir sobre la pista para leer reacciones; los malvados sabrán que faroleas o recibiste información defectuosa, pero pueden seguirte la corriente para ejecutar buenos. Observa quién insiste demasiado.",
+        "sourceUnits": [
+          "tips-8",
+          "tips-9"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "Puedes hacer parecer malvado a un vecino para ejecutarlo y respaldar a un compañero del lado opuesto, cuidando que no sospechen equidistancia entre dos malvados. O haz parecer bueno al vecino para ganar confianza, especialmente si su información errónea o ambigua pone en duda al opuesto y complementa tu historia.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2"
+        ]
+      },
+      {
+        "textEs": "Una dirección concreta facilita presionar y convertir la pista en votos contra buenos. O alega equidistancia para parecer bueno pero inseguro: reparte sospechas leves entre parejas cada vez más lejanas, evita ejecuciones de buenos y, si una pareja confía entre sí, señala otra distancia. También sirve de excusa si tu pista genera sospechas: quizá una pareja malvada se proteja y la haga parecer errónea.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-4",
+          "bluffing-5"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Durante la primera noche, despierta al Shugenja. Si el jugador malvado más cercano está en sentido horario, señala horizontalmente en esa dirección; si está en sentido antihorario, señala horizontalmente en esa dirección. Si los dos jugadores malvados más cercanos están a la misma distancia, señala horizontalmente en cualquiera de los dos sentidos. Vuelve a dormir al Shugenja.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

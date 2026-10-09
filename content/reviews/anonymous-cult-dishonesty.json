@@ -1,0 +1,1939 @@
+{
+  "reviewStatus": "reviewed",
+  "checkedAt": "2026-10-09",
+  "scriptSlug": "anonymous-cult-dishonesty",
+  "input": {
+    "path": "inputs/originals/Anonymous Cult Dishonesty.pdf",
+    "title": "Anonymous Cult Dishonesty",
+    "author": "Gamepals",
+    "printedCredit": "© Steven Medway, bloodontheclocktower.com",
+    "pagesVisuallyInspected": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "pageFindings": [
+      {
+        "page": 1,
+        "verified": "Título, autor, categorías, orden de los personajes y texto de habilidad en español."
+      },
+      {
+        "page": 2,
+        "verified": "Tabla de cantidades por jugadores, notas del guion y orden de las noches."
+      },
+      {
+        "page": 3,
+        "verified": "Instrucciones del Narrador para pasos de noche."
+      },
+      {
+        "page": 4,
+        "verified": "Continuación de las instrucciones del Narrador para pasos de noche."
+      }
+    ]
+  },
+  "extraction": {
+    "version": null,
+    "characterCount": 25,
+    "categoryCounts": {
+      "Aldeanos": 13,
+      "Forasteros": 5,
+      "Esbirros": 5,
+      "Demonios": 2
+    },
+    "inventory": [
+      {
+        "position": 1,
+        "id": "investigator",
+        "category": "Aldeanos",
+        "nameOriginal": "Investigator",
+        "nameEs": "Investigador",
+        "page": 1
+      },
+      {
+        "position": 2,
+        "id": "grandmother",
+        "category": "Aldeanos",
+        "nameOriginal": "Grandmother",
+        "nameEs": "Abuela",
+        "page": 1
+      },
+      {
+        "position": 3,
+        "id": "shugenja",
+        "category": "Aldeanos",
+        "nameOriginal": "Shugenja",
+        "nameEs": "Shugenja",
+        "page": 1
+      },
+      {
+        "position": 4,
+        "id": "pixie",
+        "category": "Aldeanos",
+        "nameOriginal": "Pixie",
+        "nameEs": "Duende",
+        "page": 1
+      },
+      {
+        "position": 5,
+        "id": "high-priestess",
+        "category": "Aldeanos",
+        "nameOriginal": "High Priestess",
+        "nameEs": "Suma Sacerdotisa",
+        "page": 1
+      },
+      {
+        "position": 6,
+        "id": "flowergirl",
+        "category": "Aldeanos",
+        "nameOriginal": "Flowergirl",
+        "nameEs": "Florista",
+        "page": 1
+      },
+      {
+        "position": 7,
+        "id": "undertaker",
+        "category": "Aldeanos",
+        "nameOriginal": "Undertaker",
+        "nameEs": "Enterrador",
+        "page": 1
+      },
+      {
+        "position": 8,
+        "id": "savant",
+        "category": "Aldeanos",
+        "nameOriginal": "Savant",
+        "nameEs": "Erudito",
+        "page": 1
+      },
+      {
+        "position": 9,
+        "id": "farmer",
+        "category": "Aldeanos",
+        "nameOriginal": "Farmer",
+        "nameEs": "Granjero",
+        "page": 1
+      },
+      {
+        "position": 10,
+        "id": "banshee",
+        "category": "Aldeanos",
+        "nameOriginal": "Banshee",
+        "nameEs": "Banshee",
+        "page": 1
+      },
+      {
+        "position": 11,
+        "id": "alsaahir",
+        "category": "Aldeanos",
+        "nameOriginal": "Alsaahir",
+        "nameEs": "Alsaahir",
+        "page": 1
+      },
+      {
+        "position": 12,
+        "id": "atheist",
+        "category": "Aldeanos",
+        "nameOriginal": "Atheist",
+        "nameEs": "Ateo",
+        "page": 1
+      },
+      {
+        "position": 13,
+        "id": "cult-leader",
+        "category": "Aldeanos",
+        "nameOriginal": "Cult Leader",
+        "nameEs": "Líder del Culto",
+        "page": 1
+      },
+      {
+        "position": 14,
+        "id": "ogre",
+        "category": "Forasteros",
+        "nameOriginal": "Ogre",
+        "nameEs": "Ogro",
+        "page": 1
+      },
+      {
+        "position": 15,
+        "id": "sweetheart",
+        "category": "Forasteros",
+        "nameOriginal": "Sweetheart",
+        "nameEs": "Adorable",
+        "page": 1
+      },
+      {
+        "position": 16,
+        "id": "drunk",
+        "category": "Forasteros",
+        "nameOriginal": "Drunk",
+        "nameEs": "Borracho",
+        "page": 1
+      },
+      {
+        "position": 17,
+        "id": "barber",
+        "category": "Forasteros",
+        "nameOriginal": "Barber",
+        "nameEs": "Barbero",
+        "page": 1
+      },
+      {
+        "position": 18,
+        "id": "hatter",
+        "category": "Forasteros",
+        "nameOriginal": "Hatter",
+        "nameEs": "Sombrerero",
+        "page": 1
+      },
+      {
+        "position": 19,
+        "id": "harpy",
+        "category": "Esbirros",
+        "nameOriginal": "Harpy",
+        "nameEs": "Harpía",
+        "page": 1
+      },
+      {
+        "position": 20,
+        "id": "marionette",
+        "category": "Esbirros",
+        "nameOriginal": "Marionette",
+        "nameEs": "Marioneta",
+        "page": 1
+      },
+      {
+        "position": 21,
+        "id": "cerenovus",
+        "category": "Esbirros",
+        "nameOriginal": "Cerenovus",
+        "nameEs": "Cerenovus",
+        "page": 1
+      },
+      {
+        "position": 22,
+        "id": "scarlet-woman",
+        "category": "Esbirros",
+        "nameOriginal": "Scarlet Woman",
+        "nameEs": "Mujer Escarlata",
+        "page": 1
+      },
+      {
+        "position": 23,
+        "id": "godfather",
+        "category": "Esbirros",
+        "nameOriginal": "Godfather",
+        "nameEs": "Padrino",
+        "page": 1
+      },
+      {
+        "position": 24,
+        "id": "ojo",
+        "category": "Demonios",
+        "nameOriginal": "Ojo",
+        "nameEs": "Ojo",
+        "page": 1
+      },
+      {
+        "position": 25,
+        "id": "lleech",
+        "category": "Demonios",
+        "nameOriginal": "Lleech",
+        "nameEs": "Lleech",
+        "page": 1
+      }
+    ],
+    "playerCountColumns": 11,
+    "firstNightStepsIncludingDuskAndDawn": 16,
+    "otherNightStepsIncludingDuskAndDawn": 18,
+    "printedNotes": [
+      "* Indica que la habilidad se activa todas las noches excepto la primera.",
+      "Ateo: sin personajes malvados.",
+      "Padrino: -1 o +1 Forastero."
+    ],
+    "checks": {
+      "duplicateIds": 0,
+      "unmappedCharacters": 0,
+      "orderPreserved": true
+    }
+  },
+  "wikiCuration": {
+    "source": "Wiki oficial de Blood on the Clocktower",
+    "checkedAt": "2026-10-09",
+    "reviewedCharacters": 25,
+    "sectionsAndDecisionCounts": {
+      "summary": {
+        "keep": 140,
+        "partial": 0,
+        "omit": 0
+      },
+      "tips": {
+        "keep": 166,
+        "partial": 63,
+        "omit": 16
+      },
+      "examples": {
+        "keep": 16,
+        "partial": 18,
+        "omit": 36
+      },
+      "bluffing": {
+        "keep": 97,
+        "partial": 32,
+        "omit": 3
+      },
+      "howToRun": {
+        "keep": 64,
+        "partial": 1,
+        "omit": 0
+      }
+    },
+    "characters": [
+      {
+        "position": 1,
+        "id": "investigator",
+        "category": "Aldeanos",
+        "nameOriginal": "Investigator",
+        "nameEs": "Investigador",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Investigator",
+        "revision": "oldid=2983",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 10,
+            "decisions": {
+              "keep": 5,
+              "partial": 3,
+              "omit": 2
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 3
+            }
+          },
+          "bluffing": {
+            "units": 8,
+            "decisions": {
+              "keep": 4,
+              "partial": 2,
+              "omit": 2
+            }
+          },
+          "howToRun": {
+            "units": 2,
+            "decisions": {
+              "keep": 2,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 2,
+        "id": "grandmother",
+        "category": "Aldeanos",
+        "nameOriginal": "Grandmother",
+        "nameEs": "Abuela",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Grandmother",
+        "revision": "oldid=2978",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 11,
+            "decisions": {
+              "keep": 5,
+              "partial": 3,
+              "omit": 3
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 3
+            }
+          },
+          "bluffing": {
+            "units": 4,
+            "decisions": {
+              "keep": 4,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 3,
+        "id": "shugenja",
+        "category": "Aldeanos",
+        "nameOriginal": "Shugenja",
+        "nameEs": "Shugenja",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Shugenja",
+        "revision": "oldid=1942",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 8,
+            "decisions": {
+              "keep": 8,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 9,
+            "decisions": {
+              "keep": 9,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 2,
+            "decisions": {
+              "keep": 0,
+              "partial": 2,
+              "omit": 0
+            }
+          },
+          "bluffing": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 1,
+            "decisions": {
+              "keep": 1,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 4,
+        "id": "pixie",
+        "category": "Aldeanos",
+        "nameOriginal": "Pixie",
+        "nameEs": "Duende",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Pixie",
+        "revision": "oldid=1955",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 13,
+            "decisions": {
+              "keep": 11,
+              "partial": 2,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 3
+            }
+          },
+          "bluffing": {
+            "units": 9,
+            "decisions": {
+              "keep": 7,
+              "partial": 2,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 2,
+            "decisions": {
+              "keep": 2,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 5,
+        "id": "high-priestess",
+        "category": "Aldeanos",
+        "nameOriginal": "High Priestess",
+        "nameEs": "Suma Sacerdotisa",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/High_Priestess",
+        "revision": "oldid=1994",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 10,
+            "decisions": {
+              "keep": 9,
+              "partial": 1,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 2,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 2
+            }
+          },
+          "bluffing": {
+            "units": 10,
+            "decisions": {
+              "keep": 9,
+              "partial": 1,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 1,
+            "decisions": {
+              "keep": 1,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 6,
+        "id": "flowergirl",
+        "category": "Aldeanos",
+        "nameOriginal": "Flowergirl",
+        "nameEs": "Florista",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Flowergirl",
+        "revision": "oldid=2907",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 6,
+            "decisions": {
+              "keep": 3,
+              "partial": 1,
+              "omit": 2
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 2,
+              "partial": 1,
+              "omit": 0
+            }
+          },
+          "bluffing": {
+            "units": 8,
+            "decisions": {
+              "keep": 5,
+              "partial": 2,
+              "omit": 1
+            }
+          },
+          "howToRun": {
+            "units": 4,
+            "decisions": {
+              "keep": 4,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 7,
+        "id": "undertaker",
+        "category": "Aldeanos",
+        "nameOriginal": "Undertaker",
+        "nameEs": "Enterrador",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Undertaker",
+        "revision": "oldid=2607",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 12,
+            "decisions": {
+              "keep": 5,
+              "partial": 5,
+              "omit": 2
+            }
+          },
+          "examples": {
+            "units": 4,
+            "decisions": {
+              "keep": 1,
+              "partial": 1,
+              "omit": 2
+            }
+          },
+          "bluffing": {
+            "units": 8,
+            "decisions": {
+              "keep": 5,
+              "partial": 3,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 8,
+        "id": "savant",
+        "category": "Aldeanos",
+        "nameOriginal": "Savant",
+        "nameEs": "Erudito",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Savant",
+        "revision": "oldid=2910",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 10,
+            "decisions": {
+              "keep": 6,
+              "partial": 4,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 4,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 1
+            }
+          },
+          "bluffing": {
+            "units": 7,
+            "decisions": {
+              "keep": 3,
+              "partial": 4,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 2,
+            "decisions": {
+              "keep": 2,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 9,
+        "id": "farmer",
+        "category": "Aldeanos",
+        "nameOriginal": "Farmer",
+        "nameEs": "Granjero",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Farmer",
+        "revision": "oldid=3085",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 7,
+            "decisions": {
+              "keep": 7,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 12,
+            "decisions": {
+              "keep": 11,
+              "partial": 1,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 2,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 2
+            }
+          },
+          "bluffing": {
+            "units": 6,
+            "decisions": {
+              "keep": 5,
+              "partial": 1,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 1,
+            "decisions": {
+              "keep": 1,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 10,
+        "id": "banshee",
+        "category": "Aldeanos",
+        "nameOriginal": "Banshee",
+        "nameEs": "Banshee",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Banshee",
+        "revision": "oldid=2960",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 6,
+            "decisions": {
+              "keep": 6,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 8,
+            "decisions": {
+              "keep": 8,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 1,
+              "partial": 2,
+              "omit": 0
+            }
+          },
+          "bluffing": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 11,
+        "id": "alsaahir",
+        "category": "Aldeanos",
+        "nameOriginal": "Alsaahir",
+        "nameEs": "Alsaahir",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Alsaahir",
+        "revision": "oldid=2957",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 10,
+            "decisions": {
+              "keep": 10,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 15,
+            "decisions": {
+              "keep": 9,
+              "partial": 5,
+              "omit": 1
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "bluffing": {
+            "units": 6,
+            "decisions": {
+              "keep": 6,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 2,
+            "decisions": {
+              "keep": 1,
+              "partial": 1,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 12,
+        "id": "atheist",
+        "category": "Aldeanos",
+        "nameOriginal": "Atheist",
+        "nameEs": "Ateo",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Atheist",
+        "revision": "oldid=2958",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 6,
+            "decisions": {
+              "keep": 6,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 9,
+            "decisions": {
+              "keep": 7,
+              "partial": 1,
+              "omit": 1
+            }
+          },
+          "examples": {
+            "units": 2,
+            "decisions": {
+              "keep": 1,
+              "partial": 0,
+              "omit": 1
+            }
+          },
+          "bluffing": {
+            "units": 7,
+            "decisions": {
+              "keep": 3,
+              "partial": 4,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 4,
+            "decisions": {
+              "keep": 4,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 13,
+        "id": "cult-leader",
+        "category": "Aldeanos",
+        "nameOriginal": "Cult Leader",
+        "nameEs": "Líder del Culto",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Cult_Leader",
+        "revision": "oldid=3049",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 6,
+            "decisions": {
+              "keep": 6,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 11,
+            "decisions": {
+              "keep": 8,
+              "partial": 1,
+              "omit": 2
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 0,
+              "partial": 3,
+              "omit": 0
+            }
+          },
+          "bluffing": {
+            "units": 10,
+            "decisions": {
+              "keep": 8,
+              "partial": 2,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 2,
+            "decisions": {
+              "keep": 2,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 14,
+        "id": "ogre",
+        "category": "Forasteros",
+        "nameOriginal": "Ogre",
+        "nameEs": "Ogro",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Ogre",
+        "revision": "oldid=2617",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 12,
+            "decisions": {
+              "keep": 10,
+              "partial": 2,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 2,
+            "decisions": {
+              "keep": 0,
+              "partial": 2,
+              "omit": 0
+            }
+          },
+          "bluffing": {
+            "units": 15,
+            "decisions": {
+              "keep": 12,
+              "partial": 3,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 15,
+        "id": "sweetheart",
+        "category": "Forasteros",
+        "nameOriginal": "Sweetheart",
+        "nameEs": "Adorable",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Sweetheart",
+        "revision": "oldid=2704",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 6,
+            "decisions": {
+              "keep": 2,
+              "partial": 4,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 1,
+              "partial": 0,
+              "omit": 2
+            }
+          },
+          "bluffing": {
+            "units": 6,
+            "decisions": {
+              "keep": 5,
+              "partial": 1,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 2,
+            "decisions": {
+              "keep": 2,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 16,
+        "id": "drunk",
+        "category": "Forasteros",
+        "nameOriginal": "Drunk",
+        "nameEs": "Borracho",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Drunk",
+        "revision": "oldid=3110",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 8,
+            "decisions": {
+              "keep": 2,
+              "partial": 6,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 4,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 4
+            }
+          },
+          "bluffing": {
+            "units": 9,
+            "decisions": {
+              "keep": 3,
+              "partial": 6,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 17,
+        "id": "barber",
+        "category": "Forasteros",
+        "nameOriginal": "Barber",
+        "nameEs": "Barbero",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Barber",
+        "revision": "oldid=1757",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 8,
+            "decisions": {
+              "keep": 8,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 9,
+            "decisions": {
+              "keep": 5,
+              "partial": 4,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 4,
+            "decisions": {
+              "keep": 0,
+              "partial": 3,
+              "omit": 1
+            }
+          },
+          "bluffing": {
+            "units": 4,
+            "decisions": {
+              "keep": 3,
+              "partial": 1,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 4,
+            "decisions": {
+              "keep": 4,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 18,
+        "id": "hatter",
+        "category": "Forasteros",
+        "nameOriginal": "Hatter",
+        "nameEs": "Sombrerero",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Hatter",
+        "revision": "oldid=3092",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips",
+          "bluffing"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 6,
+            "decisions": {
+              "keep": 6,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 0,
+              "partial": 1,
+              "omit": 2
+            }
+          },
+          "bluffing": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 19,
+        "id": "harpy",
+        "category": "Esbirros",
+        "nameOriginal": "Harpy",
+        "nameEs": "Harpía",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Harpy",
+        "revision": "oldid=3103",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 6,
+            "decisions": {
+              "keep": 6,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 12,
+            "decisions": {
+              "keep": 9,
+              "partial": 3,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 1,
+              "partial": 0,
+              "omit": 2
+            }
+          },
+          "bluffing": {
+            "units": 0,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 2,
+            "decisions": {
+              "keep": 2,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 20,
+        "id": "marionette",
+        "category": "Esbirros",
+        "nameOriginal": "Marionette",
+        "nameEs": "Marioneta",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Marionette",
+        "revision": "oldid=3111",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 8,
+            "decisions": {
+              "keep": 8,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 14,
+            "decisions": {
+              "keep": 11,
+              "partial": 3,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 2,
+              "partial": 0,
+              "omit": 1
+            }
+          },
+          "bluffing": {
+            "units": 0,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 4,
+            "decisions": {
+              "keep": 4,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 21,
+        "id": "cerenovus",
+        "category": "Esbirros",
+        "nameOriginal": "Cerenovus",
+        "nameEs": "Cerenovus",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Cerenovus",
+        "revision": "oldid=3048",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 5,
+            "decisions": {
+              "keep": 5,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 12,
+            "decisions": {
+              "keep": 5,
+              "partial": 5,
+              "omit": 2
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 1,
+              "partial": 0,
+              "omit": 2
+            }
+          },
+          "bluffing": {
+            "units": 0,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 2,
+            "decisions": {
+              "keep": 2,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 22,
+        "id": "scarlet-woman",
+        "category": "Esbirros",
+        "nameOriginal": "Scarlet Woman",
+        "nameEs": "Mujer Escarlata",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Scarlet_Woman",
+        "revision": "oldid=3010",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 6,
+            "decisions": {
+              "keep": 6,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 5,
+            "decisions": {
+              "keep": 2,
+              "partial": 3,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 3,
+            "decisions": {
+              "keep": 0,
+              "partial": 1,
+              "omit": 2
+            }
+          },
+          "bluffing": {
+            "units": 0,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 23,
+        "id": "godfather",
+        "category": "Esbirros",
+        "nameOriginal": "Godfather",
+        "nameEs": "Padrino",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Godfather",
+        "revision": "oldid=2394",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 6,
+            "decisions": {
+              "keep": 6,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 7,
+            "decisions": {
+              "keep": 4,
+              "partial": 3,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 2,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 2
+            }
+          },
+          "bluffing": {
+            "units": 0,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 3,
+            "decisions": {
+              "keep": 3,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 24,
+        "id": "ojo",
+        "category": "Demonios",
+        "nameOriginal": "Ojo",
+        "nameEs": "Ojo",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Ojo",
+        "revision": "oldid=2692",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 4,
+            "decisions": {
+              "keep": 4,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 9,
+            "decisions": {
+              "keep": 7,
+              "partial": 1,
+              "omit": 1
+            }
+          },
+          "examples": {
+            "units": 1,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 1
+            }
+          },
+          "bluffing": {
+            "units": 0,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 2,
+            "decisions": {
+              "keep": 2,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      },
+      {
+        "position": 25,
+        "id": "lleech",
+        "category": "Demonios",
+        "nameOriginal": "Lleech",
+        "nameEs": "Lleech",
+        "wikiUrl": "https://wiki.bloodontheclocktower.com/Lleech",
+        "revision": "oldid=2988",
+        "checkedAt": "2026-10-09",
+        "sectionsPresent": [
+          "summary",
+          "howToRun",
+          "examples",
+          "tips"
+        ],
+        "coverage": {
+          "summary": {
+            "units": 6,
+            "decisions": {
+              "keep": 6,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "tips": {
+            "units": 10,
+            "decisions": {
+              "keep": 8,
+              "partial": 2,
+              "omit": 0
+            }
+          },
+          "examples": {
+            "units": 2,
+            "decisions": {
+              "keep": 0,
+              "partial": 2,
+              "omit": 0
+            }
+          },
+          "bluffing": {
+            "units": 0,
+            "decisions": {
+              "keep": 0,
+              "partial": 0,
+              "omit": 0
+            }
+          },
+          "howToRun": {
+            "units": 4,
+            "decisions": {
+              "keep": 4,
+              "partial": 0,
+              "omit": 0
+            }
+          }
+        }
+      }
+    ]
+  },
+  "generation": {
+    "validationCommand": "npm run validate",
+    "validationResult": "passed: 1 script revisado",
+    "buildCommand": "npm run build",
+    "buildResult": "generated: site/",
+    "generatedCharacterCards": 25,
+    "generatedCharacterTemplates": 25,
+    "generatedNoScriptFallbacks": 25,
+    "generatedCategoryGroups": 4,
+    "generatedNightSequenceSteps": 34,
+    "originalPdfCopiedToSite": false,
+    "originalOfficialBackgroundsCopiedToSite": false
+  },
+  "assets": {
+    "officialCharacterArtworkIncluded": true,
+    "note": "Iconos oficiales locales con procedencia en character-artwork-sources.json; versiones WebP optimizadas para el sitio."
+  },
+  "synthesis": {
+    "input": "reviewUnits",
+    "output": "displaySections",
+    "characters": 25,
+    "reviewedAt": "2026-10-09",
+    "reviewRecord": "content/reviews/synthesis-correction-20261009.json",
+    "policy": "Primero corregir la traducción/filtrado con trazabilidad; fijar la entrada; después agrupar solo si se conserva cada opción y condición. Las unidades claras permanecen exactas. Habilidad, Ejemplos y Narrador son idénticos a esa entrada fijada.",
+    "finalReviewRecord": "content/reviews/final-content-review-20261009.json",
+    "summarizableInputWords": 17018,
+    "summarizedOutputWords": 10244
+  },
+  "copyAdjustments": [
+    {
+      "characterId": "grandmother",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se ajustó la apertura a la formulación solicitada y se mantuvo el pronombre singular para el jugador bueno.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "investigator",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se cambió la expresión literal por una frase más natural, sin alterar que uno de dos jugadores es un Esbirro concreto.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "shugenja",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se ajustó el referente a singular para hablar del jugador malvado más cercano, como pidió el usuario.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "pixie",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se ajustaron la formulación inicial y la expresión de estar loco por ser ese personaje, según lo solicitado por el usuario.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "high-priestess",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se eliminó «más» de la frase, según lo solicitado por el usuario.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "flowergirl",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se ajustó el orden de palabras para expresar si algún Demonio votó ese día.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "undertaker",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se aclaró que se aprende qué personaje tenía el jugador ejecutado.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "savant",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se hizo más natural la instrucción de visitar al Narrador en privado y se escribieron los números en palabras.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "farmer",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se reordenó la frase para precisar que el nuevo Granjero es un jugador bueno que sigue vivo.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "banshee",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se aclaró que todos se enteran de la muerte y que la Banshee obtiene las nominaciones y votos adicionales.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "alsaahir",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se sustituyó la notación plural parentética por una frase natural que conserva el requisito de acertar públicamente.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "atheist",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se aclaró que el Narrador es quien se ejecuta para que gane el equipo bueno, y se añadió que si el Ateo no está en la partida y el Narrador muere, gana el mal.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "cult-leader",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se sustituyó la construcción literal por adoptar el alineamiento del vecino y se aclaró la victoria del equipo.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "ogre",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se aclaró que el Ogro elige a otro jugador y adopta su alineamiento sin saber cuál.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "sweetheart",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se hizo más natural la descripción del jugador que queda borracho a partir de la muerte.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "barber",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se aclaró que el Demonio elige dos jugadores para intercambiar personajes y no puede elegir a otro Demonio.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "hatter",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se aclaró que los Esbirros y el Demonio eligen un personaje nuevo de su mismo tipo.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "harpy",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se restauró la redacción de la habilidad indicada por el usuario.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "cerenovus",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se corrigió el sujeto: quien está loco es el jugador elegido, no el personaje bueno.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "ojo",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se aclaró que, si el personaje elegido está en juego, muere el jugador que lo tiene.",
+      "checkedAt": "2026-10-09"
+    },
+    {
+      "characterId": "lleech",
+      "field": "abilityEs",
+      "sourceUnit": "Summary ability",
+      "reason": "Se aclaró que queda envenenado el jugador elegido y que la condición de muerte se refiere a ese mismo jugador.",
+      "checkedAt": "2026-10-09"
+    }
+  ]
+}

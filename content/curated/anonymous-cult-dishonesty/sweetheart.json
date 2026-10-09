@@ -1,0 +1,334 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "sweetheart",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Sweetheart",
+    "revision": "oldid=2704",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "Cuando muere el Adorable, alguien queda borracho durante el resto de la partida."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Narrador elige al jugador que se emborracha.",
+      "textEs": "El Narrador elige qué jugador queda borracho."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "La habilidad sigue activa después de la muerte.",
+      "textEs": "La habilidad del Adorable continúa funcionando después de que muera."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para evitar activar la habilidad.",
+      "textEs": "No mueras. Tu muerte emborracha enseguida a otro jugador, y su habilidad y la información que reciba desde entonces dejarán de ser fiables. Aunque un jugador malvado podría emborracharse, eres un Forastero que perjudica al equipo bueno; supón que has afectado a otro jugador bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "sage",
+        "artist",
+        "juggler"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Sabio, Artista y Malabarista, ausentes; se conserva la estrategia general de parecer un objetivo poco atractivo para el Demonio.",
+      "textEs": "Farolea como un objetivo poco atractivo para el Demonio. Para sobrevivir, afirma ser un personaje que el Demonio preferiría evitar o cuyo poder ya se haya usado. Si te considera poco prioritario, puede centrarse en otros jugadores. Quizá te convenga revelar en secreto tu identidad verdadera a una o dos personas para que sepan que la información que ofreces no es auténtica."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [
+        "philosopher"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Filósofo, ausente; se conserva el consejo general de revelar el personaje al morir o antes de una ejecución.",
+      "textEs": "Si mueres, revela tu personaje enseguida. El equipo bueno debe saber que eres el Adorable porque la habilidad solo se activa al morir. También conviene revelarlo antes de que te ejecuten: incluso si estás expuesto, esa noche el Demonio tendrá que elegir entre matarte o atacar a un objetivo más peligroso."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para deducir quién quedó borracho.",
+      "textEs": "Después de morir, intenta averiguar quién quedó borracho. Aún puedes ayudar: si descubres quién recibe información poco fiable, también sabrás quién no la recibe."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "witch",
+        "cerenovus"
+      ],
+      "requiredCharacterIds": [
+        "cerenovus"
+      ],
+      "decision": "partial",
+      "reason": "Se elimina la nominación peligrosa, cuya causa en la fuente era Witch, ausente. Se conserva la advertencia independiente y aplicable del Cerenovus.",
+      "textEs": "El Demonio no es la única forma de morir: actuar con descuido bajo la locura del Cerenovus también puede acabar contigo. Si sabes que está en juego, evita atraer su atención o actúa con cuidado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [
+        "snake-charmer",
+        "juggler",
+        "klutz",
+        "oracle",
+        "town-crier"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de la Encantadora de Serpientes, Malabarista, Torpe, Oráculo y Pregonero, ausentes; se conserva la idea general de que una muerte tardía puede causar menos perjuicio.",
+      "textEs": "Si tienes que morir, quizá sea menos perjudicial hacerlo al final, según el estado de la partida y los personajes que sigan vivos. Una muerte tardía puede afectar menos habilidades importantes que una muerte temprana."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "mathematician"
+      ],
+      "requiredCharacterIds": [
+        "mathematician"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Matemático, ausente del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "mutant"
+      ],
+      "requiredCharacterIds": [
+        "mutant"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Mutante, ausente del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo genérico del efecto sobre el Demonio.",
+      "textEs": "Muere el Adorable. El Narrador elige al Demonio para que quede borracho; su ataque nocturno no mata a nadie."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Presentación general del farol del Adorable.",
+      "textEs": "Ten en cuenta estas ideas al farolear como el Adorable."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre cuándo revelar el farol.",
+      "textEs": "Los Adorables reales normalmente no revelan enseguida que lo son. Es probable que al principio faroleen como otro personaje o que guarden silencio; haz lo mismo para parecer auténtico."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [
+        "flowergirl"
+      ],
+      "requiredCharacterIds": [
+        "flowergirl"
+      ],
+      "decision": "keep",
+      "reason": "La Florista aparece en el guion y es el ejemplo del farol de respaldo.",
+      "textEs": "El Adorable es un buen farol de respaldo. Si afirmas ser la Florista y otra persona reclama ese personaje, puedes cambiar la historia y decir que en realidad eres el Adorable. Si ya has probado tres personajes distintos sin éxito, quizá el grupo crea que ahora revelas tu identidad verdadera."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre la credibilidad de no morir tras revelar el personaje.",
+      "textEs": "Si revelas que eres el Adorable y sigues vivo varios días, ten cuidado: un Demonio normalmente atacaría pronto a un Adorable revelado. Si sobrevives demasiado, el grupo podría preguntarse por qué."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [
+        "fang-gu"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Fang Gu, ausente; se conserva la estrategia para un jugador malvado que puede morir de noche.",
+      "textEs": "Muere, preferiblemente de noche. Si eres un Esbirro o un Demonio que puede morir de noche, esto ayuda mucho: el equipo bueno creerá que alguien quedó borracho cuando no es así, pondrá en duda su información y sospechará de jugadores buenos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de farol como jugador muerto.",
+      "textEs": "Si mueres, revela en público y cuanto antes que eres el Adorable. Después, encabeza una búsqueda de «quién está borracho». Si el grupo dedica todo el tiempo a encontrar a un Borracho que no existe, también dejará de buscar al Demonio. Recuérdales constantemente que alguien debería estar borracho."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento de elección de quién queda borracho cuando muere el Adorable.",
+      "textEs": "Si muere el Adorable, elige a un jugador para que quede borracho y márcalo con el recordatorio BORRACHO. La habilidad del Adorable sigue activa incluso después de su muerte."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Orientación del Narrador para escoger al jugador afectado.",
+      "textEs": "Casi siempre querrás emborrachar a un Aldeano, lo que perjudica al equipo bueno. Si el equipo malvado va ganando claramente, puedes emborrachar a un Forastero, Esbirro o incluso al Demonio."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "Cuando muere el Adorable, el Narrador elige a un jugador que queda borracho durante el resto de la partida. La habilidad del Adorable sigue funcionando después de su muerte.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Sobrevive: tu muerte vuelve poco fiables la habilidad y los datos posteriores de otro jugador. Aunque pueda afectar a un malvado, supón un bueno por ser Forastero. Si debes morir, hacerlo tarde puede perjudicar menos según el estado de la partida y las habilidades vivas.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-6"
+        ]
+      },
+      {
+        "textEs": "Farolea como un objetivo poco atractivo para el Demonio. Para sobrevivir, afirma ser un personaje que el Demonio preferiría evitar o cuyo poder ya se haya usado. Si te considera poco prioritario, puede centrarse en otros jugadores. Quizá te convenga revelar en secreto tu identidad verdadera a una o dos personas para que sepan que la información que ofreces no es auténtica.",
+        "sourceUnits": [
+          "tips-2"
+        ]
+      },
+      {
+        "textEs": "Si mueres, revela enseguida que eres Adorable e investiga quién quedó borracho para identificar su información poco fiable y quién no está afectado. Revelarte antes de la ejecución también hace que el Demonio elija entre tú y un objetivo más peligroso. Cuida además la locura del Cerenovus: no solo el Demonio puede matarte; evita su atención o actúa con cuidado.",
+        "sourceUnits": [
+          "tips-3",
+          "tips-4",
+          "tips-5"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "textEs": "Muere el Adorable. El Narrador elige al Demonio para que quede borracho; su ataque nocturno no mata a nadie.",
+        "sourceUnits": [
+          "examples-3"
+        ]
+      }
+    ],
+    "bluffing": [
+      {
+        "textEs": "Como los Adorables reales, puedes callar o afirmar otro personaje al principio. Adorable sirve de respaldo si tu farol falla o aparece un doble reclamo de Florista; incluso tras tres historias fallidas quizá crean que por fin revelas tu identidad.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2",
+          "bluffing-3"
+        ]
+      },
+      {
+        "textEs": "Sobrevivir varios días tras revelarte puede levantar sospechas, pues el Demonio suele atacar a un Adorable expuesto. Como Esbirro o Demonio capaz de morir de noche, esa muerte puede sembrar dudas sobre datos y buenos. Revela Adorable públicamente enseguida y dirige la búsqueda del supuesto borracho, recordando que debería existir: apartará al pueblo del Demonio.",
+        "sourceUnits": [
+          "bluffing-4",
+          "bluffing-5",
+          "bluffing-6"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Si muere el Adorable, elige a un jugador para que quede borracho y márcalo con el recordatorio BORRACHO. La habilidad del Adorable sigue activa incluso después de su muerte.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Casi siempre querrás emborrachar a un Aldeano, lo que perjudica al equipo bueno. Si el equipo malvado va ganando claramente, puedes emborrachar a un Forastero, Esbirro o incluso al Demonio.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

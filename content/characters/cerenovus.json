@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "cerenovus",
+  "nameOriginal": "Cerenovus",
+  "nameEs": "Cerenovus",
+  "abilityEs": "Cada noche, elige a un jugador y un personaje bueno: al día siguiente, el jugador debe estar loco creyendo que es ese personaje, o podría ser ejecutado.",
+  "icon": "assets/images/characters/cerenovus.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Cerenovus",
+    "revision": "oldid=3048",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/4/45/Icon_cerenovus.png"
+}

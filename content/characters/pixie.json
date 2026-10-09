@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "pixie",
+  "nameOriginal": "Pixie",
+  "nameEs": "Duende",
+  "abilityEs": "Empiezas sabiendo un Aldeano que está en juego. Si has estado loco creyendo que eras ese personaje, obtienes su habilidad cuando muere.",
+  "icon": "assets/images/characters/pixie.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Pixie",
+    "revision": "oldid=1955",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_pixie.png"
+}

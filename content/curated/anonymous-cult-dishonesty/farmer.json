@@ -1,0 +1,416 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "farmer",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Farmer",
+    "revision": "oldid=3085",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "Si un Granjero muere de noche, otro jugador se convierte también en Granjero."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Solo un jugador bueno puede convertirse de esta forma.",
+      "textEs": "Solo los jugadores buenos pueden convertirse en Granjero mediante esta habilidad."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "La cadena puede continuar si muere el nuevo Granjero.",
+      "textEs": "Si este nuevo Granjero también muere de noche, se crea otro Granjero."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Una muerte diurna no activa la habilidad.",
+      "textEs": "Los Granjeros que mueren durante el día, por ejemplo por ejecución, no crean más Granjeros."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [
+        "mezepheles"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Summary conserva la regla completa y su ejemplo oficial; esta sección no usa el filtro de estrategias.",
+      "textEs": "Los Granjeros que se han vuelto malvados, por ejemplo mediante la habilidad de Mezepheles, sí pueden crear más Granjeros. En cambio, un Aldeano o Forastero que se haya vuelto malvado no puede convertirse en Granjero."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre lo que saben quienes se convierten en Granjeros.",
+      "textEs": "Los Granjeros no aprenden quiénes son los demás, pero cada jugador que se convierte en Granjero aprende que ahora lo es."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración del cambio de personaje y sus efectos.",
+      "textEs": "Al convertirse en Granjero, el jugador deja de ser su personaje anterior y pierde esa habilidad. Los efectos que su habilidad anterior tuviera activos terminan inmediatamente."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para esperar a que se revele el nuevo Granjero.",
+      "textEs": "Si mueres de noche, compórtate con normalidad y espera a que alguien se acerque a ti como el nuevo Granjero que acaba de aparecer."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para verificar la cadena de Granjeros.",
+      "textEs": "El Granjero puede tender una trampa al equipo malvado. Si te conviertes en Granjero de noche, busca al jugador que murió más recientemente y cuéntale en privado. Es muy difícil fingir esta interacción, así que ambos podréis confiar el uno en el otro."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para atraer un ataque nocturno o sobrevivir.",
+      "textEs": "Si quieres sobrevivir, revela que eres el Granjero y desafía al Demonio a matarte. Funciona especialmente bien si el juego tiene pocas otras causas de muerte nocturna y quizá haga dudar al Demonio de tus intenciones."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [
+        "bounty-hunter",
+        "fortune-teller"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Cazarrecompensas y la Adivina, ausentes; se conserva la táctica general de presentarse como un objetivo valioso y pasar luego el foco al nuevo Granjero.",
+      "textEs": "Puedes afirmar que eres un objetivo de alta prioridad para el Demonio y atraer su ataque. Después de morir y confirmar quién es el nuevo Granjero, di que intercambiasteis personajes y que el otro jugador es el objetivo importante."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para no revelar demasiado pronto una cadena de Granjeros.",
+      "textEs": "Procura no revelarte enseguida: una cadena grande de Granjeros es más poderosa que una pequeña. La información que pueden aportar los nuevos Granjeros resulta valiosa y puedes confiar en ella."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Role swap es una estrategia de afirmaciones entre jugadores, no una facultad del Granjero para cambiar personajes reales; traducción aclarada con la fuente oficial.",
+      "textEs": "Busca a un jugador importante y acordad intercambiar los personajes que afirmáis ser. Así puedes atraer el ataque del Demonio y proteger a ese jugador, especialmente si eres el primer Granjero."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para aparentar ser un objetivo importante.",
+      "textEs": "Habla con muchas personas durante la partida. Así puedes parecer alguien que comparte información valiosa sobre la ubicación de los malvados y un objetivo importante que el Demonio quizá quiera silenciar."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Advertencia sobre evitar la ejecución.",
+      "textEs": "Evita que te ejecuten: tu habilidad solo se activa si mueres de noche."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre coordinar la información de nuevos Granjeros.",
+      "textEs": "Cuando varios jugadores confirmados como nuevos Granjeros se revelen juntos, pueden usar esa información como base para empezar a decidir en quién confiar y a quién investigar."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Inferencia general sobre el tamaño de una cadena de Granjeros.",
+      "textEs": "Si una cadena de Granjeros es más larga que el número total de jugadores malvados previsto para esta partida, por lo general puedes confiar en todos los Granjeros de esa cadena."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-11",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre la ventaja de convertir personajes poderosos.",
+      "textEs": "Es más beneficioso que los personajes poderosos se conviertan en Granjeros que intentar mantenerlos vivos de noche. No tengas miedo de morir por temor a convertir a un personaje poderoso en Granjero."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-12",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para interpretar qué personaje tenía el nuevo Granjero.",
+      "textEs": "Fíjate en qué personaje tenía el jugador antes de convertirse en Granjero. Si era Forastero, quizá el equipo bueno vaya mal y el Narrador quiera ayudar. Si era un personaje que empieza con información o uno que ya usó su habilidad de una vez por partida, quizá la partida esté equilibrada. Si era un personaje poderoso y había otras opciones, quizá el equipo bueno esté ganando."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "fearmonger",
+        "alchemist"
+      ],
+      "requiredCharacterIds": [
+        "fearmonger",
+        "alchemist"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Temorista y el Alquimista, ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "choirboy",
+        "heretic"
+      ],
+      "requiredCharacterIds": [
+        "choirboy",
+        "heretic"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Corista y la Hereje, ausentes del guion."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Presentación general de las opciones de farol del Granjero.",
+      "textEs": "Al considerar el farol del Granjero, ten en cuenta estas posibilidades."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para cambiar a Granjero como farol de respaldo.",
+      "textEs": "El farol del Granjero puede servirte como recurso al final si llevas tiempo guardando silencio. Un Granjero real quizá no se revele pronto y el farol también te permite cambiar de historia si otro personaje ya no funciona."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para usar una cadena falsa y culpar a un jugador.",
+      "textEs": "Cuéntale pronto a un par de personas que eres el Granjero y procura que sigan vivas hasta el final. Entonces puedes presentarlas como el Demonio o como malvadas para explicar por qué no has muerto."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [
+        "vigormortis"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quita la condición antes de que muera, ausente de la fuente; el original permite hablar con el compañero después de su muerte. Se mantiene omitida la referencia al Vigormortis.",
+      "textEs": "Si un compañero malvado muere de noche, puedes empezar a farolear como Granjero. Habla con él en secreto y dile que vas a afirmar que te convertiste en Granjero esa noche."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general que requiere coordinación del equipo malvado.",
+      "textEs": "Farolear como Granjero puede ser difícil y requiere coordinación. Si mueres de noche, otro jugador malvado puede decir que se convirtió en Granjero después de tu muerte; esto te dará respaldo, aunque al resto solo le confirmará que colaboráis."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para provocar un doble reclamo.",
+      "textEs": "Farolear como Granjero puede obligar al Granjero real a revelarse para impedir que crean tu historia."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento cuando muere el Granjero durante la noche.",
+      "textEs": "Si el Granjero murió esta noche, despierta a un jugador bueno vivo. Muéstrale la ficha de información TÚ ERES y una ficha de Granjero, luego vuelve a dormirlo. Sustituye su ficha de personaje anterior por la ficha de Granjero."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "Si un Granjero muere de noche, otro jugador bueno se convierte en Granjero. Si el nuevo Granjero también muere de noche, se crea otro. Las muertes durante el día, como una ejecución, no crean Granjeros.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3",
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Los Granjeros que se han vuelto malvados, por ejemplo mediante la habilidad de Mezepheles, sí pueden crear más Granjeros. En cambio, un Aldeano o Forastero que se haya vuelto malvado no puede convertirse en Granjero.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "Los Granjeros no aprenden quiénes son los demás, pero cada jugador que se convierte en Granjero aprende que ahora lo es.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      },
+      {
+        "textEs": "Al convertirse en Granjero, el jugador deja de ser su personaje anterior y pierde esa habilidad. Los efectos que su habilidad anterior tuviera activos terminan inmediatamente.",
+        "sourceUnits": [
+          "summary-7"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Si mueres de noche, espera con normalidad a que se acerque el nuevo Granjero; si eres el nuevo, habla en privado con quien acaba de morir. Es difícil fingir esa interacción y permite confianza mutua. No revelarse enseguida favorece una cadena mayor, con información fiable de sus integrantes. Revelar juntos a varios confirmados permite empezar a decidir en quién confiar e investigar; si la cadena supera el número previsto de malvados, normalmente puedes confiar en todos.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-5",
+          "tips-9",
+          "tips-10"
+        ]
+      },
+      {
+        "textEs": "Para sobrevivir, puedes revelar que eres Granjero y desafiar al Demonio a matarte; funciona especialmente bien si hay pocas otras causas de muerte nocturna y puede hacerle dudar de tus intenciones. Para atraer su ataque, puedes afirmar ser un objetivo importante. Tras morir y confirmar al nuevo Granjero, di que habíais intercambiado personajes y que él es el objetivo importante. También puedes acordar un intercambio de los personajes que afirmáis ser con un jugador importante para atraer hacia ti el ataque del Demonio y proteger a ese jugador, especialmente si eres el primer Granjero.",
+        "sourceUnits": [
+          "tips-3",
+          "tips-4",
+          "tips-6"
+        ]
+      },
+      {
+        "textEs": "Habla con muchas personas durante la partida. Así puedes parecer alguien que comparte información valiosa sobre la ubicación de los malvados y un objetivo importante que el Demonio quizá quiera silenciar.",
+        "sourceUnits": [
+          "tips-7"
+        ]
+      },
+      {
+        "textEs": "Evita la ejecución: tu habilidad requiere morir de noche. No temas esa muerte por convertir a un personaje poderoso en Granjero; la fuente considera más beneficioso crear Granjeros que preservar de noche a esos personajes.",
+        "sourceUnits": [
+          "tips-8",
+          "tips-11"
+        ]
+      },
+      {
+        "textEs": "Fíjate en qué personaje tenía el jugador antes de convertirse en Granjero. Si era Forastero, quizá el equipo bueno vaya mal y el Narrador quiera ayudar. Si era un personaje que empieza con información o uno que ya usó su habilidad de una vez por partida, quizá la partida esté equilibrada. Si era un personaje poderoso y había otras opciones, quizá el equipo bueno esté ganando.",
+        "sourceUnits": [
+          "tips-12"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "Puedes guardar Granjero como farol de respaldo para cuando otra historia falle: los reales quizá no se revelen pronto. Afirmarlo también puede forzar al auténtico a revelarse para impedir que te crean.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2",
+          "bluffing-6"
+        ]
+      },
+      {
+        "textEs": "Contarlo pronto a un par de jugadores y mantenerlos vivos permite acusarlos de malvados al final para explicar tu supervivencia. Si muere de noche un compañero, coordina con él que afirmarás haberte convertido en Granjero. Si mueres tú, otro malvado puede afirmar ese cambio para respaldarte; solo demuestra colaboración, no que los demás deban confiar en vosotros.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-4",
+          "bluffing-5"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Si el Granjero murió esta noche, despierta a un jugador bueno vivo. Muéstrale la ficha de información TÚ ERES y una ficha de Granjero, luego vuelve a dormirlo. Sustituye su ficha de personaje anterior por la ficha de Granjero.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

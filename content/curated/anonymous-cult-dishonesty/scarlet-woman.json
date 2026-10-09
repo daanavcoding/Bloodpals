@@ -1,0 +1,303 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "scarlet-woman",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Scarlet_Woman",
+    "revision": "oldid=3010",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [
+        "traveller"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary, incluida la exclusión de Viajeros del recuento.",
+      "textEs": "La Mujer Escarlata se convierte en Demonio cuando muere el Demonio."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Umbral de jugadores vivos antes y después de la muerte del Demonio.",
+      "textEs": "Si justo antes de morir el Demonio hay cinco o más jugadores vivos - es decir, quedan cuatro o más después de su muerte - , la Mujer Escarlata se convierte inmediatamente en Demonio y la partida continúa como si nada hubiera ocurrido."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [
+        "traveller"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Los Viajeros no cuentan para el umbral.",
+      "textEs": "Los Viajeros no cuentan como jugadores al comprobar si se activa la habilidad de la Mujer Escarlata."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Condición de victoria buena si quedan menos de cinco jugadores.",
+      "textEs": "Si quedan menos de cinco jugadores vivos cuando ejecutan al Demonio, la partida termina y gana el equipo bueno."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [
+        "imp"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se restaura la regla particular del Imp en Summary; no se convierte en un suicidio genérico.",
+      "textEs": "Si quedan cinco o más jugadores vivos cuando el Imp se mata a sí mismo de noche, la Mujer Escarlata debe convertirse en el nuevo Imp."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Efectos completos tras convertirse en Demonio.",
+      "textEs": "Si se convierte en Demonio, la Mujer Escarlata pasa a ser ese Demonio en todos los sentidos: el equipo bueno gana si la ejecuta, ataca cada noche y se registra como Demonio."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [
+        "mayor",
+        "ravenkeeper"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se conservan todas las alternativas independientes de Tips 1. Solo se omiten el farol causal de Ravenkeeper y el ejemplo concreto del Mayor, ausentes.",
+      "textEs": "Coordina con el Demonio una estrategia con la que ambos estéis de acuerdo, ya que puede morir sin terminar la partida mientras queden suficientes jugadores. Puedes acusarlo de ser malvado y él actuar de forma que el grupo lo crea: eso te hará parecer bueno y de confianza. O puede acusarte de forma poco convincente para que parezcas bueno por comparación. También podéis afirmar ser el mismo personaje; no importa cuál de los dos muera, porque quedará un Demonio vivo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "baron",
+        "poisoner"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Barón y el Envenenador, ausentes; se conserva el consejo general de sobrevivir para poder convertirse en Demonio.",
+      "textEs": "Al principio de la partida, sobrevivir es más importante para ti que para otros Esbirros. Debes seguir viva para poder convertirte en Demonio. Esperar, escuchar y reclamar un personaje que sabes que no está en juego puede ayudarte a conseguirlo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre el umbral de cinco jugadores.",
+      "textEs": "El momento importa. Si quedan menos de cinco jugadores vivos cuando muere el Demonio, la partida termina y gana el equipo bueno. Si tu Demonio está en peligro de morir, actúa para que muera mientras todavía quedan cinco o más jugadores."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [
+        "slayer",
+        "fortune-teller"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Cazavampiros y la Adivina, ausentes; se conserva que la Mujer Escarlata no se registra como Demonio antes de transformarse.",
+      "textEs": "Mientras seas la Mujer Escarlata, no te registras como Demonio. Si el equipo bueno llega a confiar en que no eres el Demonio y después te conviertes en uno, su información previa podría no encajar y confundirlos sobre quién es el Demonio real."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para no activar la habilidad innecesariamente.",
+      "textEs": "Si el Demonio juega bien y el equipo bueno confía en él, no necesitas usar tu habilidad. Puedes actuar como un Esbirro normal, difundir información falsa y generar desconfianza mientras ignoras tu capacidad de convertirte en Demonio."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "imp",
+        "traveller"
+      ],
+      "requiredCharacterIds": [
+        "imp"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Imp y de los Viajeros, ausentes de este guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "imp",
+        "baron"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo contiene Imp y Baron, ausentes; no se convierte en un relevo genérico con un Esbirro inventado."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "fortune-teller",
+        "imp"
+      ],
+      "requiredCharacterIds": [
+        "fortune-teller",
+        "imp"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende de la Adivina y el Imp, ausentes del guion."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [
+        "imp"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se aplica la especificación completa del tercer párrafo oficial al procedimiento del primero. Se conserva la explicación del Imp, sin sustituir siempre por Ojo.",
+      "textEs": "Si muere el Demonio y justo antes de su muerte había cinco o más jugadores vivos, sustituye la ficha de Mujer Escarlata por una ficha del mismo tipo de Demonio que murió. En Trouble Brewing es una ficha de Imp: ese jugador pasa a ser el Imp, tiene su habilidad y, si muere, gana el equipo bueno."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [
+        "imp"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conserva el segundo párrafo con la regla de mismo tipo del tercero, incluyendo el caso original de Imp.",
+      "textEs": "Esa noche, despierta al nuevo Demonio, muéstrale la ficha TÚ ERES y después su ficha de Demonio. En el procedimiento de Trouble Brewing, la ficha mostrada es la del Imp."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [
+        "imp"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Traducción completa de How to Run 3; se elimina la falsa afirmación de que Ojo sea el único Demonio de este script.",
+      "textEs": "En Trouble Brewing solo hay un Demonio: el Imp. En otras ediciones hay varios Demonios posibles. Si la Mujer Escarlata se convierte en Demonio, pasa a ser del mismo tipo que murió y obtiene su habilidad. Cuando ocurra, márcala con ES EL DEMONIO y sigue las instrucciones de «Cómo funciona para el narrador» de ese Demonio."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "Si justo antes de morir el Demonio hay cinco o más jugadores vivos, es decir, al menos cuatro después de su muerte, la Mujer Escarlata se convierte inmediatamente en Demonio y la partida continúa. Los Viajeros no cuentan para ese límite. Si quedan menos de cinco cuando ejecutan al Demonio, la partida termina y gana el equipo bueno.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3",
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Si quedan cinco o más jugadores vivos cuando el Imp se mata a sí mismo de noche, la Mujer Escarlata debe convertirse en el nuevo Imp.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "Si se convierte en Demonio, la Mujer Escarlata pasa a ser ese Demonio en todos los sentidos: el equipo bueno gana si la ejecuta, ataca cada noche y se registra como Demonio.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Coordina con el Demonio mientras pueda morir sin acabar la partida: acusarlo y que actúe malvado puede darte confianza; o él puede acusarte poco convincentemente para hacerte parecer bueno. También podéis reclamar el mismo personaje; sobreviviendo uno queda Demonio. O, si ya confían en el Demonio, no necesitas activar la habilidad: difunde datos falsos y desconfianza como otro Esbirro.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-5"
+        ]
+      },
+      {
+        "textEs": "Sobrevive para poder heredar al Demonio: esperar, escuchar y reclamar un personaje fuera de juego puede ayudar. Si el Demonio está en peligro, procura que muera con al menos cinco vivos, antes de perder esa oportunidad; con menos, su muerte termina la partida y ganan los buenos.",
+        "sourceUnits": [
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "Mientras seas la Mujer Escarlata, no te registras como Demonio. Si el equipo bueno llega a confiar en que no eres el Demonio y después te conviertes en uno, su información previa podría no encajar y confundirlos sobre quién es el Demonio real.",
+        "sourceUnits": [
+          "tips-4"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [],
+    "howToRun": [
+      {
+        "textEs": "Si muere el Demonio y justo antes de su muerte había cinco o más jugadores vivos, sustituye la ficha de Mujer Escarlata por una ficha del mismo tipo de Demonio que murió. En Trouble Brewing es una ficha de Imp: ese jugador pasa a ser el Imp, tiene su habilidad y, si muere, gana el equipo bueno.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Esa noche, despierta al nuevo Demonio, muéstrale la ficha TÚ ERES y después su ficha de Demonio. En el procedimiento de Trouble Brewing, la ficha mostrada es la del Imp.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "En Trouble Brewing solo hay un Demonio: el Imp. En otras ediciones hay varios Demonios posibles. Si la Mujer Escarlata se convierte en Demonio, pasa a ser del mismo tipo que murió y obtiene su habilidad. Cuando ocurra, márcala con ES EL DEMONIO y sigue las instrucciones de «Cómo funciona para el narrador» de ese Demonio.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "cult-leader",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Cult_Leader",
+    "revision": "oldid=3049",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Líder del Culto gana si todo el mundo se une a su culto."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Momento en que cambia el alineamiento.",
+      "textEs": "Al final de cada noche, el Líder del Culto adopta el alineamiento de un vecino vivo."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Condición de victoria mediante la habilidad del culto.",
+      "textEs": "Una vez al día, el Líder del Culto puede anunciar públicamente que quiere formar un culto. Si todos los jugadores buenos votan para unirse, la partida termina de inmediato y gana el equipo del Líder del Culto."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "La habilidad se puede activar en cualquier momento del día.",
+      "textEs": "El Líder del Culto puede intentar formar un culto en cualquier momento del día."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El voto del culto no necesita ficha de voto.",
+      "textEs": "Para votar y unirse al culto no hace falta tener una ficha de voto."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre la libertad de los jugadores de fingir el uso de la habilidad.",
+      "textEs": "Los jugadores pueden decir lo que quieran en cualquier momento, así que alguien que farolea como Líder del Culto puede fingir que forma un culto."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre revelar pronto y las dudas del pueblo.",
+      "textEs": "Puedes revelarte pronto, cuando es más probable que seas bueno. Es cierto que podrías volverte malvado la primera noche, pero probablemente no ocurra. Aun así, el pueblo quizá dude en buscar una victoria del Líder del Culto el primer día porque podría parecer una victoria fácil y aún habrá poca información sobre tu alineamiento."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre revelar tarde y evaluar a los vecinos vivos.",
+      "textEs": "También puedes revelarte tarde, cuando tengas más información que compartir. Pero quizá desconfíen de los Líderes del Culto al final: cuanto más avanza la partida, más probable es que tus vecinos vivos sean malvados, porque suelen morir más jugadores buenos que malvados."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para un Líder del Culto malvado.",
+      "textEs": "Puedes revelarte como Líder del Culto mientras eres malvado, sin admitirlo. Así será más fácil que el equipo malvado respalde tus propuestas de ejecución y las votaciones del culto."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [
+        "chambermaid",
+        "seamstress"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se conserva la recomendación genérica independiente y se omiten los ejemplos de Chambermaid y Seamstress, ausentes.",
+      "textEs": "Pide a otros jugadores que usen habilidades de detección sobre tus vecinos para comprobar tus afirmaciones de alineamiento."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "virgin",
+        "noble"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se conserva el consejo independiente; solo se quitan los ejemplos de Virgin y Noble, ausentes.",
+      "textEs": "Intenta que ejecuten a los jugadores situados entre tú y quienes ya han sido confirmados como buenos por Aldeanos. Esto puede ayudar a que el pueblo confíe en que eres bueno y busque una victoria mediante tu culto."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre cuándo revelar un cambio de alineamiento.",
+      "textEs": "No admitas que eres malvado hasta volver a ser bueno, o podrían ejecutarte y dejarte malvado. Sin embargo, si es el último día, revelar que eres malvado podría destruir al equipo bueno y dar una victoria fácil. Si eras malvado la noche anterior y ahora eres bueno, puedes contarlo: uno de tus vecinos tiene que ser malvado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [
+        "empath"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó la comparación con el Empático, ausente; se conserva el consejo de registrar los cambios de alineamiento y la información sobre vecinos.",
+      "textEs": "Puedes ignorar la habilidad de formar un culto y limitarte a registrar si tus vecinos son malvados. Anota cuándo has sido malvado, especialmente si tus vecinos mueren durante la partida; esto te dará información sobre quién probablemente sea bueno o malvado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para usar el culto y observar cómo vota el grupo.",
+      "textEs": "Usa siempre la habilidad de formar un culto y observa el comportamiento de quienes votan. Los malvados saben si estás junto a uno y quizá se animen a votar; normalmente un jugador bueno puede abstenerse por miedo a que seas malvado. Aunque no se forme el culto, puedes aprender mucho observando quién vota: los malvados pueden estar más dispuestos porque su voto no cambia el resultado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia de respaldo para el final de la partida.",
+      "textEs": "Al final, si el grupo no sabe quién es el Demonio, tu condición de victoria puede servir como último recurso. Si encontrar al Demonio tiene menos de un 50 % de posibilidades, quizá el Líder del Culto ofrezca mejores opciones. Si los patrones de voto indican que el Demonio escapó de la ejecución, puedes ofrecer un plan alternativo; aunque quizá seas malvado, sigue siendo una oportunidad para que el equipo bueno gane."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se explicitan los presupuestos del consejo y la excepción de Banshee, presente: su How to Run permite seguir nominando aunque todos los vivos sean malvados. Es una aclaración de reglas oficiales, no una estrategia añadida.",
+      "textEs": "En el último día, si quedan tres jugadores vivos y tú eres uno, estás junto al Demonio. Si el tercer jugador es malvado y tu habilidad funciona, los tres sois malvados; normalmente nadie vivo nominará al Demonio, favoreciendo al equipo malvado. En este guion, una Banshee muerta con su habilidad activa todavía puede nominarlo. Si eres bueno y tu habilidad funciona, sabes que el Demonio es el único malvado vivo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-11",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo pertinente a los recuentos de jugadores del guion.",
+      "textEs": "Importa el número de jugadores. En partidas de 9, 12 o 15, la proporción de buenos respecto a malvados es mayor, así que es más probable que seas bueno, aunque tendrás que convencer a más gente para unirse al culto. Con 9 jugadores hay 7 buenos y 2 malvados: es menos probable que estés junto a un malvado, pero aún quedan otros 6 jugadores a quienes persuadir."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "town-crier",
+        "goblin"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo oficial depende de personajes concretos ausentes; no se reconstruye con vecinos genéricos ni se deja un veneno sin su causa."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "no-dashii"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo oficial depende de personajes concretos ausentes; no se reconstruye con vecinos genéricos ni se deja un veneno sin su causa."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "poisoner",
+        "fortune-teller",
+        "kazali",
+        "wizard"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo oficial depende de personajes concretos ausentes; no se reconstruye con vecinos genéricos ni se deja un veneno sin su causa."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Presentación del farol del Líder del Culto.",
+      "textEs": "Al farolear como Líder del Culto, ten presente una cosa importante: quieres que la gente preste atención a ti y a tu falso culto, pero no quieres que llegue a un acuerdo definitivo."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para impedir que el grupo alcance un consenso.",
+      "textEs": "No eres un Líder del Culto verdadero. Si todos votan para unirse y no ocurre nada, el pueblo se dará cuenta. Asegúrate de que alguien siempre deje la mano abajo; mejor aún si es un compañero malvado que así parecerá bueno."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de un Líder del Culto que aparenta ser malvado.",
+      "textEs": "El farol del Líder del Culto puede ser divertido. Como el grupo ya desconfiará de ti por los cambios de alineamiento, puedes permitirte parecer más atrevido o malvado durante uno o dos días."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para dirigir la sospecha hacia los vecinos.",
+      "textEs": "Si el pueblo amenaza con ejecutarte, afirma que ahora eres malvado y que seguirás siéndolo si te eliminan. Quizá consigas que se vuelvan contra uno de tus vecinos buenos para que tú puedas volver a ser bueno."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de supervivencia para el farol.",
+      "textEs": "El Líder del Culto suele sobrevivir hasta el final porque el Demonio quizá quiera mantenerlo vivo por si se vuelve malvado. Es un buen farol para alargar tu vida, pero vigila la opinión del pueblo: podrían decidir ejecutarte por si acaso estás faroleando."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para organizar votaciones y sembrar dudas.",
+      "textEs": "Intenta que haya una votación del culto cada día, especialmente si tus compañeros malvados votan contigo. Muchas manos levantadas pueden hacer que los buenos crean que los demás saben algo que ellos no. Además de distraerlos de buscar al Demonio, puedes sembrar dudas sobre quienes no se unan."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia alternativa para hacer parecer bueno a un compañero malvado.",
+      "textEs": "Si crees que ya convenciste a gran parte del pueblo, pide a tu equipo malvado que no vote. Cuando la habilidad «falle», parecerán jugadores buenos que se resistieron."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general basada en que el vecino sea malvado o en afirmar un cambio de alineamiento.",
+      "textEs": "Si tienes vecinos malvados, mantén durante toda la partida que eres bueno. Si un jugador malvado se convierte en tu vecino, puedes decir que antes eras malvado y que ahora has vuelto a ser bueno; así pones en duda a los muertos y respaldas a tu compañero."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-9",
+      "mentionedCharacterIds": [
+        "empath",
+        "seamstress"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Empático y la Costurera, ausentes; se conserva la estrategia general de revelar un alineamiento malvado para desviar la sospecha hacia los vecinos.",
+      "textEs": "Puedes revelar que eres malvado para sembrar sospechas sobre tus vecinos y apartar la atención de ti. Es más probable que el grupo ejecute a alguien que es malvado y sigue siéndolo que a alguien que quizá vuelva a ser bueno."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-10",
+      "mentionedCharacterIds": [
+        "oracle",
+        "undertaker",
+        "dreamer"
+      ],
+      "requiredCharacterIds": [
+        "undertaker"
+      ],
+      "decision": "partial",
+      "reason": "Se elimina la confirmación de alineamiento que dependía de Oracle, ausente, y se conserva la advertencia opuesta sobre Undertaker. También se omite Dreamer, ausente.",
+      "textEs": "Si el pueblo te ejecuta, diles que eres malvado para que se preocupen por un supuesto voto malvado adicional durante el resto de la partida. Ten cuidado con el Enterrador: puede descubrir tu farol rápidamente."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento nocturno para mostrar el cambio de alineamiento.",
+      "textEs": "Cada noche, pon la ficha del Líder del Culto boca arriba si ambos vecinos vivos son buenos, boca abajo si ambos son malvados y en cualquiera de las dos orientaciones si uno es bueno y el otro malvado. Si cambia su alineamiento, despiértalo, haz una señal con el pulgar hacia arriba o hacia abajo y vuelve a dormirlo. Si no cambia, no lo despiertes."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento diario de votación del culto, que se ejecuta como una votación de exilio.",
+      "textEs": "Durante el día, si el Líder del Culto declara que quiere usar su habilidad, entra en el círculo y organiza una votación igual que una votación de exilio. Si todos los jugadores buenos levantan la mano, anuncia qué equipo ha ganado. Si no todos la levantan, no ocurre nada."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "Al final de cada noche adoptas el alineamiento de un vecino vivo. Una vez al día, en cualquier momento, puedes anunciar públicamente que quieres formar un culto. Si todos los jugadores buenos votan para unirse, la partida termina de inmediato y gana tu equipo.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3",
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Para votar y unirse al culto no hace falta tener una ficha de voto.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "Los jugadores pueden decir lo que quieran en cualquier momento, así que alguien que farolea como Líder del Culto puede fingir que forma un culto.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Puedes revelarte pronto, cuando es más probable que seas bueno, aunque podrías cambiar la primera noche; el pueblo quizá dude de una victoria fácil y con poca información de tu alineamiento. O espera para compartir más datos, con el riesgo de que desconfíen al final: suelen morir más buenos y tus vecinos vivos pueden ser malvados con mayor probabilidad.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2"
+        ]
+      },
+      {
+        "textEs": "Puedes revelarte como Líder mientras eres malvado sin admitirlo, para obtener apoyo malvado en ejecuciones y cultos. Admitir el alineamiento antes de volver a ser bueno arriesga que te ejecuten y lo conserven; hacerlo el último día puede dar una victoria malvada fácil. Si eras malvado la noche anterior y ahora bueno, contarlo señala que un vecino debe ser malvado.",
+        "sourceUnits": [
+          "tips-3",
+          "tips-6"
+        ]
+      },
+      {
+        "textEs": "Pide habilidades de detección sobre tus vecinos para verificar lo que dices de tu alineamiento. Ejecutar a quienes se interponen entre tú y jugadores confirmados buenos puede hacer que confíen en ti para una victoria del culto.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-5"
+        ]
+      },
+      {
+        "textEs": "Puedes ignorar el culto y registrar cuándo eres malvado, especialmente al morir vecinos, para deducir sus alineamientos. O intenta formar cultos y observa los votos: un bueno puede abstenerse por temor a tu alineamiento; los malvados saben si tienes un vecino malvado y pueden entusiasmarse porque su voto no altera el resultado. Incluso un culto fallido aporta pistas.",
+        "sourceUnits": [
+          "tips-7",
+          "tips-8"
+        ]
+      },
+      {
+        "textEs": "Al final, si el grupo no sabe quién es el Demonio, tu condición de victoria puede servir como último recurso. Si encontrar al Demonio tiene menos de un 50 % de posibilidades, quizá el Líder del Culto ofrezca mejores opciones. Si los patrones de voto indican que el Demonio escapó de la ejecución, puedes ofrecer un plan alternativo; aunque quizá seas malvado, sigue siendo una oportunidad para que el equipo bueno gane.",
+        "sourceUnits": [
+          "tips-9"
+        ]
+      },
+      {
+        "textEs": "En el último día, si quedan tres jugadores vivos y tú eres uno, estás junto al Demonio. Si el tercer jugador es malvado y tu habilidad funciona, los tres sois malvados; normalmente nadie vivo nominará al Demonio, favoreciendo al equipo malvado. En este guion, una Banshee muerta con su habilidad activa todavía puede nominarlo. Si eres bueno y tu habilidad funciona, sabes que el Demonio es el único malvado vivo.",
+        "sourceUnits": [
+          "tips-10"
+        ]
+      },
+      {
+        "textEs": "Importa el número de jugadores. En partidas de 9, 12 o 15, la proporción de buenos respecto a malvados es mayor, así que es más probable que seas bueno, aunque tendrás que convencer a más gente para unirse al culto. Con 9 jugadores hay 7 buenos y 2 malvados: es menos probable que estés junto a un malvado, pero aún quedan otros 6 jugadores a quienes persuadir.",
+        "sourceUnits": [
+          "tips-11"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "Centra la atención en el falso culto y promueve votaciones diarias: muchas manos pueden persuadir a buenos, distraer del Demonio y sembrar dudas sobre abstenciones. Evita un acuerdo total, que revelaría el farol al no ocurrir nada. Puedes hacer que los malvados voten contigo, o que se abstengan cuando ya convenciste a mucha gente: el fallo los hará parecer buenos resistentes.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2",
+          "bluffing-6",
+          "bluffing-7"
+        ]
+      },
+      {
+        "textEs": "La desconfianza propia de los cambios de alineamiento permite actuar atrevido o malvado unos días. Si quieren ejecutarte, afirma que ahora eres malvado y seguirás así: quizá ejecuten a un vecino bueno para «devolverte» al bien. El Demonio puede mantener vivo a un supuesto Líder por si cambia, pero vigila al pueblo: puede ejecutarte por sospechar del farol.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-4",
+          "bluffing-5"
+        ]
+      },
+      {
+        "textEs": "Con vecinos malvados puedes mantener que eres bueno. Si un malvado pasa a ser vecino, decir que antes eras malvado y ahora bueno pone en duda a muertos y respalda al compañero. O admite ser malvado para sembrar dudas sobre vecinos y desviar ejecuciones hacia malvados permanentes. Tras tu ejecución, decirlo puede preocupar por un supuesto voto malvado extra, pero el Enterrador puede descubrir el farol.",
+        "sourceUnits": [
+          "bluffing-8",
+          "bluffing-9",
+          "bluffing-10"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Cada noche, pon la ficha del Líder del Culto boca arriba si ambos vecinos vivos son buenos, boca abajo si ambos son malvados y en cualquiera de las dos orientaciones si uno es bueno y el otro malvado. Si cambia su alineamiento, despiértalo, haz una señal con el pulgar hacia arriba o hacia abajo y vuelve a dormirlo. Si no cambia, no lo despiertes.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Durante el día, si el Líder del Culto declara que quiere usar su habilidad, entra en el círculo y organiza una votación igual que una votación de exilio. Si todos los jugadores buenos levantan la mano, anuncia qué equipo ha ganado. Si no todos la levantan, no ocurre nada.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "investigator",
+  "nameOriginal": "Investigator",
+  "nameEs": "Investigador",
+  "abilityEs": "Empiezas sabiendo que uno de dos jugadores es un Esbirro concreto.",
+  "icon": "assets/images/characters/investigator.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Investigator",
+    "revision": "oldid=2983",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/a/ad/Icon_investigator.png"
+}

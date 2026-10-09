@@ -1,0 +1,473 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "atheist",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Atheist",
+    "revision": "oldid=2958",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación inicial de Summary.",
+      "textEs": "El Ateo sabe que todos los jugadores son buenos y que no hay Demonio."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración de que no hay jugadores malvados.",
+      "textEs": "Si el Ateo está en juego, no hay jugadores malvados: ni Esbirros ni Demonios."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Condición de victoria del equipo bueno y procedimiento de ejecución del Narrador.",
+      "textEs": "El equipo bueno gana si ejecuta al Narrador. Cualquier jugador vivo puede nominarlo y se ejecuta si vota a favor al menos el 50 % de los jugadores vivos."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Resultado si el Ateo no está en juego y ejecutan al Narrador.",
+      "textEs": "Si el Ateo no está en juego y ejecutan al Narrador, gana el equipo malvado."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Condición de derrota con solo dos jugadores vivos.",
+      "textEs": "El equipo bueno pierde si solo quedan dos jugadores vivos."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [
+        "witch",
+        "pit-hag"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conservan todas las formas en que el Narrador puede romper las reglas; Summary no se filtra por personajes ajenos al guion.",
+      "textEs": "El Narrador puede romper cualquier regla: matar a alguien que nominó para simular una maldición de la Bruja, matar jugadores de noche como si atacara un Demonio, dar información falsa como si alguien estuviera borracho, cambiar personajes de noche como haría la Pit-Hag o incluso usar una cantidad incorrecta de Forasteros."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para ganar como Ateo.",
+      "textEs": "Si eres el Ateo, sabes quién es el Demonio: nadie. También sabes qué debes hacer para ganar: ejecutar al Narrador. Si convences a los demás de que eres el Ateo, eso bastará para ganar."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para tener paciencia si los demás no creen la afirmación.",
+      "textEs": "No te preocupes demasiado si al principio no te creen y quieren ejecutar a algunos jugadores. Ejecutar al Narrador el primer día solo porque alguien dice ser el Ateo es arriesgado; es sensato esperar unos días y reunir información. Repite que eres el Ateo y ten paciencia."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para revelar el personaje pronto.",
+      "textEs": "Revela pronto tu personaje. No tiene mucho sentido ocultarlo: no hay jugadores malvados a quienes engañar ni ataques del Demonio que debas evitar de noche."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para compartir la información de todos.",
+      "textEs": "Convence a tantos jugadores como puedas para que revelen pronto sus personajes y la información que tienen. No hace falta ocultarla: el adversario que debes vencer es el Narrador y él ya lo sabe todo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "drunk"
+      ],
+      "requiredCharacterIds": [
+        "drunk"
+      ],
+      "decision": "keep",
+      "reason": "Se aclara la condición oficial «If you are the Drunk». Estar borracho por un efecto no significa ser el personaje Borracho; se evita atribuirle una capacidad de emborrachar a otros.",
+      "textEs": "Si el guion incluye al Borracho, intenta averiguar si en realidad eres ese personaje. Si eres el Borracho, no eres el Ateo: no hay Ateo en juego, hay jugadores malvados ocultos entre vosotros y ejecutar al Narrador hará que gane el equipo malvado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre morir para lograr la victoria del equipo bueno.",
+      "textEs": "No tengas miedo de morir. Quizá otros quieran matarte por si eres malvado. Morir para que gane el equipo bueno vale la pena, aunque esa noche el Narrador mate a otro jugador o a varios."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para actuar cuando la información parece coherente.",
+      "textEs": "Si toda la información del equipo bueno tiene sentido y es coherente, ejecuta a todos los jugadores a los que señala como malvados. Cuando hayan muerto, quizá sea más fácil convencer a los demás de que eres el Ateo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [
+        "evil-twin",
+        "scarlet-woman"
+      ],
+      "requiredCharacterIds": [
+        "scarlet-woman"
+      ],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Gemelo Malvado, ausente; se conservó la Mujer Escarlata, presente, y la lectura general de contradicciones en la información.",
+      "textEs": "Si la información buena presenta contradicciones visibles, señálalas como posible evidencia de que el Narrador está rompiendo las reglas. Por ejemplo, dos jugadores pueden recibir información incompatible sobre qué personaje Esbirro está en juego."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [
+        "mayor",
+        "saint"
+      ],
+      "requiredCharacterIds": [
+        "mayor",
+        "saint"
+      ],
+      "decision": "omit",
+      "reason": "El consejo depende de habilidades que pueden terminar la partida del Alcalde y el Santo, ambos ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "investigator",
+        "grandmother",
+        "seamstress",
+        "boomdandy",
+        "sweetheart",
+        "slayer",
+        "gossip",
+        "witch"
+      ],
+      "requiredCharacterIds": [
+        "investigator",
+        "grandmother",
+        "seamstress",
+        "boomdandy",
+        "sweetheart",
+        "slayer",
+        "gossip",
+        "witch"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo causal depende de numerosos personajes ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo general de cantidad incorrecta de Forasteros y ejecución del Narrador.",
+      "textEs": "Hay tres Forasteros en juego cuando debería haber dos. Los jugadores ejecutan al Narrador y gana el equipo bueno."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Un Esbirro puede farolear como Ateo sin riesgo de doble reclamo por otro malvado.",
+      "textEs": "Si eres un Esbirro, puedes farolear como Ateo sin preocuparte de que haya otro Ateo en juego. En una partida de Ateo no hay jugadores malvados; por tanto, que tú seas un Esbirro malvado demuestra que no hay Ateo."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Un Demonio puede farolear como Ateo aunque no se lo hayan dado como farol.",
+      "textEs": "Si eres el Demonio, puedes farolear como Ateo aunque el Narrador no te haya ofrecido ese personaje como uno de tus faroles. Si eres malvado, no hay Ateo en juego."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [
+        "baron",
+        "mezepheles",
+        "scarlet-woman",
+        "mastermind",
+        "imp"
+      ],
+      "requiredCharacterIds": [
+        "scarlet-woman"
+      ],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Barón, Mezepheles, Cerebro e Imp, ausentes; se conserva la idea general de preparar el farol para que siga funcionando si te ejecutan.",
+      "textEs": "Prepárate para que el grupo te ejecute. El farol de Ateo suele funcionar mejor para un personaje cuya habilidad ya se haya usado para entonces o cuyo equipo pueda seguir la partida después de que muera el Demonio."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [
+        "empath"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Empático, ausente; se conserva la estrategia general de usar información falsa para aparentar que el Narrador rompe las reglas.",
+      "textEs": "Una estrategia es convencer al equipo bueno de que eres el Ateo. Como los Ateos reales suelen hablar con seguridad de lo que saben y de cómo ganar, puedes usar la información del grupo para reforzar esa idea: en una partida de Ateo, el Narrador podría haber dado información falsa."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [
+        "poisoner",
+        "vigormortis"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Envenenador y el Vigormortis, ausentes; se conserva la estrategia general de crear contradicciones y confusión.",
+      "textEs": "Otra estrategia es convencer al equipo bueno de que su información es incoherente y señala a demasiadas personas como malvadas. Si se confunden, quizá ejecuten al Narrador precipitadamente, ejecuten a los malvados equivocados o dejen vivo al Demonio."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [
+        "spy",
+        "imp"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Espía y el Imp, ausentes; se conserva la estrategia general de alegar que la información encaja demasiado bien.",
+      "textEs": "También puedes convencer al equipo bueno de que su información encaja demasiado. En una partida de Ateo, el Narrador suele intentar que toda la información sea coherente o que todos parezcan buenos; argumentar que todo tiene demasiado sentido puede hacer que lo consideren responsable."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para coordinar la información de otros malvados.",
+      "textEs": "Si intentas convencer al grupo de que todos son buenos, pide a tus compañeros que den información falsa que sea muy coherente o completamente disparatada. Si quieres que ejecuten a algunos jugadores buenos para mejorar las opciones del equipo malvado en el último día, coordina información falsa que coincida en señalarlos."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Preparación completa de la bolsa de personajes para una partida de Ateo.",
+      "textEs": "Durante la preparación, antes de entregar la bolsa a los jugadores, retira todas las fichas de personajes malvados y añade fichas de Aldeanos o Forasteros hasta completar la cantidad correspondiente al número de jugadores."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Permiso general para romper reglas durante la partida.",
+      "textEs": "Rompe las reglas que consideres oportunas. Si te ayuda, usa recordatorios de habilidades malvadas."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [
+        "witch",
+        "pit-hag"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Orientación completa de la fuente para narradores experimentados; no se filtran reglas de Summary ni How to Run.",
+      "textEs": "El Ateo es un personaje complejo y se recomienda a Narradores experimentados. Además de conocer bien las reglas, debes tener buen criterio sobre diversión y justicia. Tu tarea es crear una partida divertida: rompe reglas solo para dar información falsa - tanta o tan poca como quieras - o para simular acciones de personajes malvados que podrían estar en juego, pero no lo están. Si convences al grupo de que no hay Ateo, o al menos logras que lo discutan, lo has hecho bien."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Advertencia para no alterar arbitrariamente las reglas ni las condiciones de victoria.",
+      "textEs": "Evita crear reglas arbitrarias o cambiar las condiciones de victoria. Para disfrutar la partida, los jugadores deben saber cómo pueden ganar si hay un Ateo en juego."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "Si el Ateo está en juego, sabe que todos los jugadores son buenos y que no hay Esbirros ni Demonios.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2"
+        ]
+      },
+      {
+        "textEs": "El equipo bueno gana si ejecuta al Narrador. Cualquier jugador vivo puede nominarlo y se ejecuta si vota a favor al menos el 50 % de los jugadores vivos.",
+        "sourceUnits": [
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Si el Ateo no está en juego y ejecutan al Narrador, gana el equipo malvado.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "El equipo bueno pierde si solo quedan dos jugadores vivos.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "El Narrador puede romper cualquier regla: matar a alguien que nominó para simular una maldición de la Bruja, matar jugadores de noche como si atacara un Demonio, dar información falsa como si alguien estuviera borracho, cambiar personajes de noche como haría la Pit-Hag o incluso usar una cantidad incorrecta de Forasteros.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Sabes que no hay Demonio y que debes convencer al grupo de ejecutar al Narrador. Revélate y anima a compartir personajes y datos: no hay malvados a quienes engañar, y el Narrador ya lo sabe todo. Si no te creen y ejecutan a otros, ten paciencia y repite tu afirmación; es sensato reunir datos antes de arriesgar una ejecución del Narrador el primer día.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3",
+          "tips-4"
+        ]
+      },
+      {
+        "textEs": "Si el guion incluye al Borracho, intenta averiguar si en realidad eres ese personaje. Si eres el Borracho, no eres el Ateo: no hay Ateo en juego, hay jugadores malvados ocultos entre vosotros y ejecutar al Narrador hará que gane el equipo malvado.",
+        "sourceUnits": [
+          "tips-5"
+        ]
+      },
+      {
+        "textEs": "No tengas miedo de morir. Quizá otros quieran matarte por si eres malvado. Morir para que gane el equipo bueno vale la pena, aunque esa noche el Narrador mate a otro jugador o a varios.",
+        "sourceUnits": [
+          "tips-6"
+        ]
+      },
+      {
+        "textEs": "Si los datos buenos son coherentes, ejecuta a quienes señalan como malvados; tras sus muertes quizá crean más que eres Ateo. Si son contradictorios, por ejemplo dos pistas incompatibles sobre qué Esbirro hay, señala esa posible evidencia de reglas rotas por el Narrador.",
+        "sourceUnits": [
+          "tips-7",
+          "tips-8"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "textEs": "Hay tres Forasteros en juego cuando debería haber dos. Los jugadores ejecutan al Narrador y gana el equipo bueno.",
+        "sourceUnits": [
+          "examples-2"
+        ]
+      }
+    ],
+    "bluffing": [
+      {
+        "textEs": "Ser Esbirro o Demonio malvado demuestra que no hay Ateo real; puedes usar el farol aunque no te lo ofrecieran. Prepárate para la ejecución: funciona mejor si tu habilidad ya se usó o el equipo puede continuar tras morir el Demonio.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2",
+          "bluffing-3"
+        ]
+      },
+      {
+        "textEs": "Puedes convencer con seguridad de que eres Ateo y usar datos falsos del grupo como prueba de reglas rotas. O resalta datos incoherentes, que acusen a demasiados, para provocar una ejecución precipitada del Narrador o desviar del Demonio. También puedes alegar lo contrario: demasiada coherencia o buenos aparentes sugiere intervención del Narrador. Coordina datos muy coherentes o disparatados si quieres que todos parezcan buenos, o datos que señalen a buenos concretos si buscas sus ejecuciones antes del último día.",
+        "sourceUnits": [
+          "bluffing-4",
+          "bluffing-5",
+          "bluffing-6",
+          "bluffing-7"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Durante la preparación, antes de entregar la bolsa a los jugadores, retira todas las fichas de personajes malvados y añade fichas de Aldeanos o Forasteros hasta completar la cantidad correspondiente al número de jugadores.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Rompe las reglas que consideres oportunas. Si te ayuda, usa recordatorios de habilidades malvadas.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "El Ateo es un personaje complejo y se recomienda a Narradores experimentados. Además de conocer bien las reglas, debes tener buen criterio sobre diversión y justicia. Tu tarea es crear una partida divertida: rompe reglas solo para dar información falsa - tanta o tan poca como quieras - o para simular acciones de personajes malvados que podrían estar en juego, pero no lo están. Si convences al grupo de que no hay Ateo, o al menos logras que lo discutan, lo has hecho bien.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      },
+      {
+        "textEs": "Evita crear reglas arbitrarias o cambiar las condiciones de victoria. Para disfrutar la partida, los jugadores deben saber cómo pueden ganar si hay un Ateo en juego.",
+        "sourceUnits": [
+          "howtorun-4"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

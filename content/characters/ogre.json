@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "ogre",
+  "nameOriginal": "Ogre",
+  "nameEs": "Ogro",
+  "abilityEs": "En tu primera noche, elige a otro jugador: adoptas su alineamiento (sin saber cuál), incluso si estás borracho o envenenado.",
+  "icon": "assets/images/characters/ogre.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Ogre",
+    "revision": "oldid=2617",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/2/25/Icon_ogre.png"
+}

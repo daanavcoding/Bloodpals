@@ -1,0 +1,420 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "investigator",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Investigator",
+    "revision": "oldid=2983",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Primera explicación de Summary.",
+      "textEs": "El Investigador descubre qué personaje Esbirro está en juego, pero no cuál de los dos jugadores lo tiene."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Primer punto de Summary.",
+      "textEs": "Durante la primera noche, aprende que uno de dos jugadores es un Esbirro concreto."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Segundo punto de Summary.",
+      "textEs": "Aprende esta información una sola vez y después no vuelve a aprender nada."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general aplicable al Investigador.",
+      "textEs": "Cuenta tu información al grupo cuanto antes el primer día. Probablemente no podrás determinar cuál de los dos jugadores es el Esbirro, pero, si te creen, el equipo bueno quizá tenga tiempo de ejecutar a ambos y asegurarse de que un Esbirro haya muerto antes del último día."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "empath",
+        "chef"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se aclara la expresión voting power con las reglas oficiales de votación de los muertos, sin afirmar que pierde todo voto.",
+      "textEs": "Tu información quizá no baste para condenar a un jugador, pero puede combinarse con la de otra persona buena. Si confías en ella, coordinaos para ejecutar pronto a un Esbirro y limitar su poder de voto: un muerto conserva solo un voto para el resto de la partida."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3a",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Primera idea del consejo sobre observar a los dos objetivos.",
+      "textEs": "Si sospechas mucho de uno de los dos jugadores, puedes callarte y observar su comportamiento. Si defiende continuamente a alguien, esa persona podría ser el Demonio; si intenta que ejecuten a alguien, esa persona probablemente sea buena."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3b",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Segunda idea del mismo consejo, conservada por separado para registrar su cobertura.",
+      "textEs": "Revela lo que has observado más adelante, cuando tengas pruebas sólidas. Si el Esbirro sigue vivo el último día, probablemente no sea el Demonio y no deberías ejecutarlo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre compartir información en privado.",
+      "textEs": "En vez de revelar tu información en público, puedes confiarla en secreto a otras personas del pueblo. Quizá alguien tenga información que confirme o descarte a uno de tus sospechosos, y a veces es más fácil convencer a otra persona de que te cuente en privado lo que sabe."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "scarlet-woman",
+        "poisoner"
+      ],
+      "requiredCharacterIds": [
+        "scarlet-woman"
+      ],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Envenenador, ausente del guion; se conserva la Mujer Escarlata, que sí aparece.",
+      "textEs": "Si descubres que hay una Mujer Escarlata, es aún más importante que el equipo bueno la ejecute pronto: su poderosa habilidad puede seguir afectando la partida mientras esté en juego."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [
+        "baron",
+        "spy",
+        "imp"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Barón, el Espía y el Imp, ausentes del guion; se conserva el aviso general sobre el poder de voto y nominación de los Esbirros.",
+      "textEs": "Todos los Esbirros son peligrosos. Aunque su habilidad ya no pueda afectar mecánicamente la partida, conservan el poder de votar y nominar."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [
+        "baron",
+        "godfather"
+      ],
+      "requiredCharacterIds": [
+        "baron"
+      ],
+      "decision": "omit",
+      "reason": "La inferencia sobre la cantidad de Forasteros depende del Barón, ausente del guion; además, el Padrino presente puede modificar esa cantidad de otra forma."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [
+        "recluse"
+      ],
+      "requiredCharacterIds": [
+        "recluse"
+      ],
+      "decision": "omit",
+      "reason": "El consejo depende del Recluso, ausente del guion."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración general sobre la información del Investigador.",
+      "textEs": "Aunque hayas descubierto que uno de los dos jugadores es un Esbirro, eso no significa necesariamente que el otro sea bueno."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "baron",
+        "mayor"
+      ],
+      "requiredCharacterIds": [
+        "baron",
+        "mayor"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Barón y el Alcalde, ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "spy",
+        "poisoner"
+      ],
+      "requiredCharacterIds": [
+        "spy",
+        "poisoner"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Espía y el Envenenador, ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "recluse",
+        "imp",
+        "poisoner"
+      ],
+      "requiredCharacterIds": [
+        "recluse",
+        "imp",
+        "poisoner"
+      ],
+      "decision": "omit",
+      "reason": "La explicación de registro falso depende del Recluso, el Imp y el Envenenador, ausentes del guion."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla general del farol del Investigador.",
+      "textEs": "Tu información llegaría la primera noche, así que deberías tenerla desde entonces: te habrían mostrado a dos jugadores y una ficha de Esbirro."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [
+        "poisoner",
+        "scarlet-woman",
+        "baron",
+        "spy"
+      ],
+      "requiredCharacterIds": [
+        "scarlet-woman"
+      ],
+      "decision": "partial",
+      "reason": "Se conservaron la estrategia general y la Mujer Escarlata, presente en el guion; se quitaron los ejemplos del Envenenador, el Barón y el Espía, ausentes.",
+      "textEs": "Elige a dos jugadores buenos y afirma que uno de ellos es un Esbirro para intentar que los ejecuten. La Mujer Escarlata puede ser una buena elección si quieres motivar al equipo bueno a ejecutar a los dos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [
+        "undertaker"
+      ],
+      "requiredCharacterIds": [
+        "undertaker"
+      ],
+      "decision": "keep",
+      "reason": "El Enterrador aparece en el guion.",
+      "textEs": "Si eres el Demonio o un Esbirro ambicioso, decirle al equipo bueno que uno de tus dos objetivos es un Esbirro real puede hacer que confíen mucho en ti, sobre todo si el Enterrador respalda tu información. El farol funciona mejor si ese Esbirro también se comporta de forma claramente malvada."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [
+        "baron"
+      ],
+      "requiredCharacterIds": [
+        "baron"
+      ],
+      "decision": "omit",
+      "reason": "El farol del Barón depende de una cantidad de Forasteros que este guion modifica mediante el Padrino."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de desconfianza mediante información privada.",
+      "textEs": "Comunica tu información en secreto a uno o dos jugadores buenos para sembrar desconfianza. A menudo empezarán a discutir entre ellos sin que tengas que hacer mucho más."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [
+        "baron",
+        "poisoner",
+        "scarlet-woman"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de Esbirros concretos; se conservó la idea aplicable de afirmar que un Esbirro del guion está en juego cuando no lo está.",
+      "textEs": "Afirmar que viste un Esbirro que en realidad no está en juego puede causar confusión o respaldar los faroles de otros jugadores malvados."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-7",
+      "mentionedCharacterIds": [
+        "investigator"
+      ],
+      "requiredCharacterIds": [
+        "investigator"
+      ],
+      "decision": "keep",
+      "reason": "Se aclara la errata «two shown Minions» de Bluffing: Summary y How to Run muestran dos jugadores y una sola ficha de Esbirro. No se añaden dos Esbirros.",
+      "textEs": "Si un Investigador real ya ha revelado públicamente su información y tú no eres uno de sus objetivos, puedes afirmar que eres el verdadero Investigador y que él era uno de los dos jugadores que te mostraron como posibles Esbirros. Eso puede hacerlo parecer malvado y, con ello, hacer que los jugadores a los que acusó parezcan buenos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-8",
+      "mentionedCharacterIds": [
+        "spy"
+      ],
+      "requiredCharacterIds": [
+        "spy"
+      ],
+      "decision": "omit",
+      "reason": "La unidad depende del Espía, ausente del guion."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Preparación completa de la primera noche.",
+      "textEs": "Al preparar la primera noche, coloca el recordatorio ESBIRRO del Investigador junto a la ficha de cualquier personaje Esbirro y el recordatorio EQUIVOCADO junto a la ficha de cualquier otro personaje."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento completo de la primera noche y retirada de recordatorios.",
+      "textEs": "Durante la primera noche, despierta al Investigador y señala a los jugadores marcados ESBIRRO y EQUIVOCADO. Muéstrale la ficha de personaje marcada ESBIRRO y vuelve a dormirlo. Retira los recordatorios del Investigador cuando te resulte conveniente."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "Durante la primera noche aprendes que un Esbirro concreto está en juego y que uno de dos jugadores lo tiene, pero no cuál. Recibes esta información una sola vez; después no aprendes nada más.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Revela tu pista cuanto antes el primer día: quizá no sepas cuál de los dos es Esbirro, pero, si te creen, puede haber tiempo para ejecutar a ambos antes del último día. Si confías en otra persona buena, combina ambas informaciones para ejecutar pronto al Esbirro y limitar sus votos; muerto, conserva solo uno para el resto de la partida.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2"
+        ]
+      },
+      {
+        "textEs": "También puedes callar y observar al sospechoso: quien defiende podría ser el Demonio y quien intenta ejecutar probablemente sea bueno. Revela esas observaciones cuando tengas pruebas sólidas; si el Esbirro llega vivo al último día, probablemente no sea Demonio y no deberías ejecutarlo. Compartir la pista en privado puede facilitar que otros confirmen o descarten sospechosos y te cuenten su información.",
+        "sourceUnits": [
+          "tips-3a",
+          "tips-3b",
+          "tips-4"
+        ]
+      },
+      {
+        "textEs": "Conviene ejecutar pronto a la Mujer Escarlata por su habilidad. Todos los Esbirros conservan nominaciones y votos aunque su habilidad ya no afecte al juego. Saber que uno de los dos investigados es Esbirro no demuestra que el otro sea bueno.",
+        "sourceUnits": [
+          "tips-5",
+          "tips-6",
+          "tips-9"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "Prepara desde la primera noche dos jugadores y un personaje Esbirro. Puedes acusar a dos buenos; afirmar Mujer Escarlata puede impulsar sus ejecuciones. O puedes señalar a un Esbirro real para ganar confianza, especialmente si el Enterrador te respalda y ese Esbirro actúa de forma claramente malvada.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2",
+          "bluffing-3"
+        ]
+      },
+      {
+        "textEs": "Una acusación privada a uno o dos buenos puede hacer que discutan sin más intervención. Afirmar un Esbirro que no esté realmente en juego también puede confundir al pueblo o respaldar otros faroles malvados.",
+        "sourceUnits": [
+          "bluffing-5",
+          "bluffing-6"
+        ]
+      },
+      {
+        "textEs": "Si un Investigador real ya ha revelado públicamente su información y tú no eres uno de sus objetivos, puedes afirmar que eres el verdadero Investigador y que él era uno de los dos jugadores que te mostraron como posibles Esbirros. Eso puede hacerlo parecer malvado y, con ello, hacer que los jugadores a los que acusó parezcan buenos.",
+        "sourceUnits": [
+          "bluffing-7"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Al preparar la primera noche, coloca el recordatorio ESBIRRO del Investigador junto a la ficha de cualquier personaje Esbirro y el recordatorio EQUIVOCADO junto a la ficha de cualquier otro personaje.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Durante la primera noche, despierta al Investigador y señala a los jugadores marcados ESBIRRO y EQUIVOCADO. Muéstrale la ficha de personaje marcada ESBIRRO y vuelve a dormirlo. Retira los recordatorios del Investigador cuando te resulte conveniente.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

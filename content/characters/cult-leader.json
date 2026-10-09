@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "cult-leader",
+  "nameOriginal": "Cult Leader",
+  "nameEs": "Líder del Culto",
+  "abilityEs": "Cada noche, adoptas el alineamiento de un vecino vivo. Si todos los jugadores buenos deciden unirse a tu culto, gana tu equipo.",
+  "icon": "assets/images/characters/cult-leader.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Cult_Leader",
+    "revision": "oldid=3049",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/6/6c/Icon_cultleader.png"
+}

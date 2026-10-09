@@ -1,0 +1,22 @@
+node_modules/
+.env
+.env.*
+appsettings.json
+appsettings.*.json
+inputs/originals/*
+!inputs/originals/.gitkeep
+work/
+
+# Generated site output and local review artifacts
+/site/
+/tmp/
+/coverage/
+/.cache/
+
+# Local operating-system and package-manager artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+npm-debug.log*
+

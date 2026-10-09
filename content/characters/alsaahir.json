@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "alsaahir",
+  "nameOriginal": "Alsaahir",
+  "nameEs": "Alsaahir",
+  "abilityEs": "Cada día, si aciertas en público qué jugadores son Esbirros y cuáles son Demonios, gana el equipo bueno.",
+  "icon": "assets/images/characters/alsaahir.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Alsaahir",
+    "revision": "oldid=2957",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_alsaahir.png"
+}

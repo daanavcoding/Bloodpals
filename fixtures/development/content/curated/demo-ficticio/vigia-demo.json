@@ -1,0 +1,52 @@
+{
+  "reviewStatus": "demo",
+  "characterId": "vigia-demo",
+  "source": null,
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "demo-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Texto ficticio de demostración.",
+      "textEs": "Esta ficha es falsa y solo sirve para comprobar el aspecto de una lectura larga."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "demo-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Texto ficticio de demostración.",
+      "textEs": "Consejo inventado para probar la sección de trucos."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "demo-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Texto ficticio de demostración.",
+      "textEs": "Ejemplo inventado para probar el contenido en párrafos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "demo-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Texto ficticio de demostración.",
+      "textEs": "Farol inventado para comprobar el orden de secciones."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "demo-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Texto ficticio de demostración.",
+      "textEs": "Instrucción inventada para quien narra la prueba."
+    }
+  ]
+}

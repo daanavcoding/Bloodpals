@@ -1,0 +1,385 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "grandmother",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Grandmother",
+    "revision": "oldid=2978",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "La Abuela sabe quién es su nieto, pero también muere si el Demonio lo mata."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Primer punto de Summary.",
+      "textEs": "Durante la primera noche, aprende quién es su nieto: un jugador bueno que es Aldeano o Forastero. El nieto no sabe que tiene una Abuela."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Segundo punto de Summary.",
+      "textEs": "Si el Demonio mata al nieto, la Abuela también muere. Si el nieto muere por cualquier otro medio - por ejemplo, por ejecución o por otra causa nocturna - la Abuela no muere con él."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general.",
+      "textEs": "Protege a tu querido nieto. Casi con total certeza es bueno, y esa seguridad es rara y valiosa en este juego. Además, si el Demonio lo mata, tú también morirás: ¡una motivación extra para cuidarlo!"
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "washerwoman"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó la comparación con la Lavandera, ausente del guion; se conserva el consejo independiente de hablar con el nieto y revelar la información cuando sea conveniente.",
+      "textEs": "Habla con tu nieto, gánate su confianza y cuida la relación. Tu información identifica a un jugador y su personaje; si confías en él, puedes revelar que sabes quién es y cómo lo sabes. No hace falta que te confirme primero qué personaje tiene, salvo que dudes de que estés sobria."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre mantener a salvo al nieto.",
+      "textEs": "No reveles la identidad de tu nieto. Si el equipo malvado descubre la relación, querrá matarlo y obtener tu muerte como premio. Mantenerlo en secreto lo protege."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre revelar información a jugadores de confianza.",
+      "textEs": "Puedes revelar pronto tu identidad y quién es tu nieto a un par de jugadores. Si son de confianza, sabrán que ambos sois buenos; si tú y tu nieto morís de noche, también podrán sospechar de alguien con quien hablaste, que quizá sea el Demonio. Si sospechas que hablas con jugadores malvados, no tienes que decirles quién es tu nieto de verdad."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Frase introductoria del bloque de consejos sobre generar confianza.",
+      "textEs": "Hay muchas formas de generar confianza en el equipo bueno con la información de la Abuela."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5a",
+      "mentionedCharacterIds": [
+        "innkeeper",
+        "tea-lady"
+      ],
+      "requiredCharacterIds": [
+        "innkeeper",
+        "tea-lady"
+      ],
+      "decision": "omit",
+      "reason": "El consejo solo trata de pedir protección al Posadero o a la Dama del Té, ausentes del guion."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5b",
+      "mentionedCharacterIds": [
+        "sailor",
+        "exorcist"
+      ],
+      "requiredCharacterIds": [
+        "sailor",
+        "exorcist"
+      ],
+      "decision": "omit",
+      "reason": "El consejo depende del Marinero y el Exorcista, ausentes del guion."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5c",
+      "mentionedCharacterIds": [
+        "gambler",
+        "chambermaid"
+      ],
+      "requiredCharacterIds": [
+        "gambler",
+        "chambermaid"
+      ],
+      "decision": "omit",
+      "reason": "El consejo depende del Apostador y la Doncella de Cámara, ausentes del guion."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [
+        "shabaloth",
+        "po",
+        "zombuul",
+        "pukka"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron las comparaciones con Demonios ausentes; se conserva la explicación sobre reconocer una posible muerte doble de la Abuela y el nieto.",
+      "textEs": "Si tú y tu nieto sois los únicos que morís de noche, quizá hayas muerto por tu habilidad. Díselo al equipo bueno para que no confunda automáticamente dos muertes nocturnas con la presencia de otro Demonio."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para evitar atraer atención hacia la Abuela y su nieto.",
+      "textEs": "No hables con tu nieto inmediatamente. Susurrar juntos, sobre todo durante los primeros días, atraerá la atención de buenos y malvados; el Demonio podría mataros a ambos por sospechar que sois la Abuela y su nieto."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [
+        "exorcist"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Exorcista, ausente del guion; se conserva el consejo general de revelar quién eres sin identificar al nieto.",
+      "textEs": "Revela al grupo que eres la Abuela, pero no digas quién es tu nieto. Así sabrán que eres un Aldeano y podrán esperar a que tu nieto confirme su personaje por su cuenta."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "professor"
+      ],
+      "requiredCharacterIds": [
+        "professor"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Profesor, ausente del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "gambler"
+      ],
+      "requiredCharacterIds": [
+        "gambler"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Apostador, ausente del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "tinker",
+        "sailor"
+      ],
+      "requiredCharacterIds": [
+        "tinker",
+        "sailor"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Artesano y el Marinero, ausentes del guion."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Traducción completa de la primera viñeta de Bluffing; se conserva su segunda alternativa sin mezclarla con el consejo sobre un jugador bueno.",
+      "textEs": "El farol más sencillo es afirmar que eres la Abuela y que un jugador malvado es tu nieto. Quizá no quieras hacerlo el primer día: muchas Abuelas esperan uno o dos días, y así tu falso nieto puede revelar primero su personaje para que lo copies. Otra opción es declarar que ese malvado es un personaje bueno concreto y esperar que entienda tu intención y diga ser ese personaje."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "La segunda viñeta de Bluffing trata de un jugador bueno, no de asignar un Aldeano a un compañero malvado.",
+      "textEs": "Convence a un jugador bueno de que eres su Abuela. Es más fácil si ya te reveló su personaje en privado o lo anunció al grupo: puedes repetirlo en público. Si no sabes qué personaje tiene, puedes adivinarlo o negarte a decirlo."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de coordinación entre el equipo malvado.",
+      "textEs": "Pide a tus compañeros malvados que averigüen en secreto qué personajes tienen los jugadores buenos y te transmitan esa información. Si sabes qué personaje tiene un jugador sin que él sepa que tú lo sabes, será más fácil convencerlo de que eres su Abuela."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Farol general como el nieto de una Abuela.",
+      "textEs": "Farolea como el nieto: afirma ser un personaje bueno y a la vez el nieto de una Abuela. Di al grupo que la Abuela te habló en privado y que confías plenamente en ella. Quizá un jugador malvado afirme después ser la Abuela y confirme tu historia."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Preparación completa de la primera noche.",
+      "textEs": "Al preparar la primera noche, elige al nieto colocando el recordatorio NIETO junto a la ficha de cualquier personaje bueno."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento completo de primera noche.",
+      "textEs": "Durante la primera noche, despierta a la Abuela, muéstrale la ficha de personaje marcada NIETO, señala al jugador que es su nieto y vuelve a dormirla."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Recordatorio del efecto si el Demonio mata al nieto.",
+      "textEs": "Si el Demonio mata al nieto, la Abuela también muere; márcala con el recordatorio MUERTO."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "La primera noche conoces a tu nieto, un jugador bueno que es Aldeano o Forastero; él no sabe que tiene una Abuela. Si el Demonio lo mata, tú también mueres. Si muere por ejecución o por otra causa, tu habilidad no te mata con él.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Protege a tu querido nieto. Casi con total certeza es bueno, y esa seguridad es rara y valiosa en este juego. Además, si el Demonio lo mata, tú también morirás: ¡una motivación extra para cuidarlo!",
+        "sourceUnits": [
+          "tips-1"
+        ]
+      },
+      {
+        "textEs": "Puedes hablar con tu nieto para ganar su confianza y contarle que sabes su personaje y cómo lo sabes; no necesitas que lo revele primero, salvo que dudes de tu sobriedad. Otra opción es no acercarte enseguida: susurrar juntos al principio atrae atención de buenos y malvados, y el Demonio podría mataros por sospechar de la relación.",
+        "sourceUnits": [
+          "tips-2",
+          "tips-7"
+        ]
+      },
+      {
+        "textEs": "Puedes ocultar quién es tu nieto: si los malvados descubren la relación, querrán matarlo para obtener también tu muerte. O puedes revelar pronto ambas identidades a un par de jugadores: si son de confianza, confiarán en vosotros; si morís juntos de noche, podrás sospechar que uno de ellos era el Demonio. No tienes que dar la identidad real a quien sospeches malvado. También puedes anunciar solo que eres la Abuela y dejar que tu nieto confirme su personaje por su cuenta.",
+        "sourceUnits": [
+          "tips-3",
+          "tips-4",
+          "tips-8"
+        ]
+      },
+      {
+        "textEs": "Hay muchas formas de generar confianza en el equipo bueno con la información de la Abuela.",
+        "sourceUnits": [
+          "tips-5"
+        ]
+      },
+      {
+        "textEs": "Si tú y tu nieto sois los únicos que morís de noche, quizá hayas muerto por tu habilidad. Díselo al equipo bueno para que no confunda automáticamente dos muertes nocturnas con la presencia de otro Demonio.",
+        "sourceUnits": [
+          "tips-6"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "Puedes señalar a un malvado como nieto: esperar uno o dos días parece natural y permite copiar el personaje que revele; también puedes atribuirle un personaje bueno y esperar que siga la historia. Otra opción es convencer a un bueno de que eres su Abuela: si conoces su personaje por una revelación previa, repítelo; si no, adivina o rehúsa decirlo.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2"
+        ]
+      },
+      {
+        "textEs": "Pide a tus compañeros que averigüen en secreto los personajes buenos para fingir que los conoces como Abuela. O farolea como nieto: afirma un personaje bueno y cuenta al grupo que una Abuela te habló en privado y confías plenamente en ella; quizá un malvado confirme después esa historia.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-4"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Al preparar la primera noche, elige al nieto colocando el recordatorio NIETO junto a la ficha de cualquier personaje bueno.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Durante la primera noche, despierta a la Abuela, muéstrale la ficha de personaje marcada NIETO, señala al jugador que es su nieto y vuelve a dormirla.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "Si el Demonio mata al nieto, la Abuela también muere; márcala con el recordatorio MUERTO.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

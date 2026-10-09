@@ -1,0 +1,15 @@
+{
+  "reviewStatus": "demo",
+  "slug": "demo-ficticio",
+  "title": "Demostración ficticia",
+  "version": "Solo desarrollo",
+  "notes": [
+    "Este contenido es inventado para revisar la interfaz; no pertenece a Blood on the Clocktower."
+  ],
+  "characters": [
+    {
+      "id": "vigia-demo",
+      "category": "Personaje de prueba"
+    }
+  ]
+}

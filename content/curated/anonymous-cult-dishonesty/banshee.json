@@ -1,0 +1,389 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "banshee",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Banshee",
+    "revision": "oldid=2960",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "La Banshee se vuelve más poderosa al morir y puede nominar y votar el doble."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre el uso normal de la habilidad mientras vive.",
+      "textEs": "Mientras está viva, la Banshee nomina y vota con normalidad."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla para la Banshee muerta y sus nominaciones.",
+      "textEs": "Cuando está muerta, puede nominar dos veces al día, aunque otros jugadores muertos normalmente no pueden nominar."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Reglas de voto una vez muerta.",
+      "textEs": "Cuando está muerta, puede votar en cualquier nominación sin necesitar una ficha de voto y puede votar dos veces por la misma nominación."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Solo la muerte causada por el Demonio activa la habilidad.",
+      "textEs": "La Banshee obtiene estos poderes únicamente si la mata el Demonio. Morir por ejecución o por la habilidad de otro personaje no cuenta."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Método de doble voto y alternativa de accesibilidad.",
+      "textEs": "Para votar dos veces, la persona levanta ambas manos cuando se cuentan los votos. Si una discapacidad se lo impide, el Narrador puede contar dos veces su voto normal."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para activar la habilidad.",
+      "textEs": "Consigue que el Demonio te mate, por cualquier medio que funcione."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para forzar al equipo malvado a decidir si confirmar a la Banshee.",
+      "textEs": "Puedes revelarte como Banshee mientras sigues viva si tienes información que te respalde. Así obligas al equipo malvado a matarte y confirmarte o a dejarte viva hasta los tres últimos, reduciendo las opciones de Demonio a los otros dos jugadores."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se aclara el consejo con Summary y How to Run: la confirmación requiere que se active y anuncie la habilidad.",
+      "textEs": "Si el Demonio te mata y se anuncia que tu habilidad se activó, quedas confirmada como Banshee. Aprovecha para reunir toda la información posible."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo sobre la fuerza de los votos y el riesgo de influir demasiado.",
+      "textEs": "Tus votos ganan peso conforme quedan menos jugadores vivos y pasan a representar una parte mayor de los necesarios para ejecutar a alguien. Pero también puedes inclinar la ejecución más votada aunque no tengas razón, así que a veces conviene abstenerte si dudas."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo sobre seguir nominando aunque solo queden jugadores malvados vivos.",
+      "textEs": "Tus nominaciones podrían ser las únicas buenas que queden. A diferencia de lo normal, la partida no termina si solo quedan jugadores malvados vivos que puedan nominar: tú todavía puedes hacerlo desde la muerte. Incluso podrías nominar correctamente al Demonio entre los tres jugadores malvados."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo para priorizar al Demonio una vez muerta.",
+      "textEs": "Una vez muerta, puedes centrarte siempre en buscar al Demonio. Quizá ya no sea tan importante matar Esbirros, porque la partida no termina automáticamente si solo quedan jugadores malvados vivos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conserva el plural nominations, sin reducirlo a una única nominación.",
+      "textEs": "Usa tus nominaciones cada día y vota al menos una vez: habrá un jugador bueno nominando y tus votos dobles pueden inclinar la mayoría a favor del equipo bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo para no deducir que la habilidad se activó si el Narrador no anunció la muerte.",
+      "textEs": "Si mueres de noche y el Narrador no anuncia que has muerto, confírmale si tu habilidad se activó en vez de nominar para ponerla a prueba."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "kazali",
+        "village-idiot",
+        "fearmonger",
+        "shugenja"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo depende de Kazali, Village Idiot y Fearmonger, ausentes; no se reconstruye con un Demonio genérico y nominaciones nuevas."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "ojo"
+      ],
+      "requiredCharacterIds": [
+        "ojo"
+      ],
+      "decision": "keep",
+      "reason": "El Ojo está en el guion y el ejemplo muestra el efecto de estar envenenada al morir por el Demonio.",
+      "textEs": "La Banshee está envenenada y el Ojo la mata. Nadie anuncia que la Banshee ha muerto; durante el resto de la partida no puede nominar y tiene un solo voto."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "lycanthrope"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "La muerte del ejemplo depende de Lycanthrope, ausente; no se convierte en una muerte genérica por otro personaje."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Advertencia general al farolear como Banshee.",
+      "textEs": "Si mueres de noche, tu farol se viene abajo. Si eres un Esbirro, asegúrate de que el Demonio sepa que no debe matarte; si eres el Demonio, no te mates tú mismo."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de cambiar a Banshee solo cuando sea necesario.",
+      "textEs": "Farolea como otro personaje y cambia a decir que eres la Banshee solo si te ves obligado. Muchas Banshees reales harían lo mismo."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para aparentar que se busca confirmar la identidad.",
+      "textEs": "Revela pronto que eres la Banshee y desafía al equipo malvado a matarte. No siempre funcionará, pero si logras que el grupo confíe en ti, resulta creíble que el equipo malvado evite matarte para no confirmarte."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para vincular sospechas a jugadores buenos.",
+      "textEs": "Afirma ser la Banshee y vincúlate estrechamente con uno o dos jugadores buenos; después, consigue que te maten de noche. No quedarás confirmada, pero la sospecha resultante puede arrastrar también a tus aliados buenos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre conocer las causas de que la habilidad no se active.",
+      "textEs": "Asegúrate de conocer los motivos por los que la habilidad podría no activarse en este guion y prepárate para explicar esa situación si mueres de noche. Una jugadora buena también lo investigaría, pero debes poder sostener esa explicación."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento completo si el Demonio mata a la Banshee.",
+      "textEs": "Si el Demonio mata a la Banshee, coloca el recordatorio TIENE LA HABILIDAD junto a ella y anuncia «La Banshee ha despertado» o algo igual de dramático. Puede nominar dos veces al día, pero debe recordar cuántas nominaciones ha usado. Puede levantar ambas manos al votar; cuenta cada mano como un voto."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento si la habilidad no estaba activa o la muerte no fue causada por el Demonio.",
+      "textEs": "Si el Demonio mata a la Banshee cuando no tiene su habilidad, o si la mata la habilidad de otro personaje, no anuncies que se activó. No podrá nominar y necesitará una ficha de voto para votar, como cualquier jugador muerto."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Recordatorio sobre el final de la partida si mueren todos los jugadores buenos.",
+      "textEs": "Si todos los jugadores buenos están muertos, la partida continúa. El equipo bueno todavía puede ganar gracias a que la Banshee puede nominar."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "La Banshee gana poder al morir: puede nominar dos veces al día y votar dos veces por cualquier nominación, sin necesitar una ficha de voto. Solo obtiene estos poderes si la mata el Demonio; una ejecución o una habilidad no demoníaca no cuentan. Mientras está viva, nomina y vota con normalidad.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3",
+          "summary-4",
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "Para votar dos veces, la persona levanta ambas manos cuando se cuentan los votos. Si una discapacidad se lo impide, el Narrador puede contar dos veces su voto normal.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Busca que te mate el Demonio. Revelarte viva con información que te respalde puede obligar a los malvados a confirmarte al matarte o dejarte entre los tres últimos, reduciendo el Demonio a los otros dos. Si mueres y se anuncia tu habilidad, aprovecha esa confirmación para reunir toda la información posible.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "Usa tus nominaciones cada día y vota al menos una vez para dar peso al equipo bueno. Tus dos votos importan más conforme quedan menos vivos, pero también pueden inclinar una ejecución equivocada: abstente si dudas.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-7"
+        ]
+      },
+      {
+        "textEs": "Puedes ser la única nominación buena restante: la partida continúa aunque todos los vivos sean malvados, y podrías acertar al Demonio entre tres de ellos. Una vez muerta, céntrate en buscarlo; ya no es tan necesario eliminar Esbirros para evitar perder por quedarse sin buenos vivos.",
+        "sourceUnits": [
+          "tips-5",
+          "tips-6"
+        ]
+      },
+      {
+        "textEs": "Si mueres de noche y el Narrador no anuncia que has muerto, confírmale si tu habilidad se activó en vez de nominar para ponerla a prueba.",
+        "sourceUnits": [
+          "tips-8"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "textEs": "La Banshee está envenenada y el Ojo la mata. Nadie anuncia que la Banshee ha muerto; durante el resto de la partida no puede nominar y tiene un solo voto.",
+        "sourceUnits": [
+          "examples-2"
+        ]
+      }
+    ],
+    "bluffing": [
+      {
+        "textEs": "Morir de noche desmonta el farol: como Esbirro, avisa al Demonio para que no te mate; como Demonio, no te mates. Otra estrategia es vincularte como supuesta Banshee a uno o dos buenos y morir de noche: no quedarás confirmado, pero las sospechas pueden arrastrarlos contigo.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-4"
+        ]
+      },
+      {
+        "textEs": "Farolea como otro personaje y cambia a decir que eres la Banshee solo si te ves obligado. Muchas Banshees reales harían lo mismo.",
+        "sourceUnits": [
+          "bluffing-2"
+        ]
+      },
+      {
+        "textEs": "Revela pronto que eres la Banshee y desafía al equipo malvado a matarte. No siempre funcionará, pero si logras que el grupo confíe en ti, resulta creíble que el equipo malvado evite matarte para no confirmarte.",
+        "sourceUnits": [
+          "bluffing-3"
+        ]
+      },
+      {
+        "textEs": "Asegúrate de conocer los motivos por los que la habilidad podría no activarse en este guion y prepárate para explicar esa situación si mueres de noche. Una jugadora buena también lo investigaría, pero debes poder sostener esa explicación.",
+        "sourceUnits": [
+          "bluffing-5"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Si el Demonio mata a la Banshee, coloca el recordatorio TIENE LA HABILIDAD junto a ella y anuncia «La Banshee ha despertado» o algo igual de dramático. Puede nominar dos veces al día, pero debe recordar cuántas nominaciones ha usado. Puede levantar ambas manos al votar; cuenta cada mano como un voto.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Si el Demonio mata a la Banshee cuando no tiene su habilidad, o si la mata la habilidad de otro personaje, no anuncies que se activó. No podrá nominar y necesitará una ficha de voto para votar, como cualquier jugador muerto.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "Si todos los jugadores buenos están muertos, la partida continúa. El equipo bueno todavía puede ganar gracias a que la Banshee puede nominar.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "scarlet-woman",
+  "nameOriginal": "Scarlet Woman",
+  "nameEs": "Mujer Escarlata",
+  "abilityEs": "Si hay 5 o más jugadores vivos y el Demonio muere, te conviertes en el Demonio. (Los viajeros no cuentan.)",
+  "icon": "assets/images/characters/scarlet-woman.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Scarlet_Woman",
+    "revision": "oldid=3010",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/1/13/Icon_scarletwoman.png"
+}

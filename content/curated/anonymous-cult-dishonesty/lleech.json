@@ -1,0 +1,346 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "lleech",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Lleech",
+    "revision": "oldid=2988",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Lleech sobrevive mientras su anfitrión esté vivo y muere si y solo si el anfitrión muere."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Elección inicial y envenenamiento persistente del anfitrión.",
+      "textEs": "La primera noche, el Lleech elige a un jugador, que queda envenenado durante el resto de la partida."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Lleech permanece vivo si el anfitrión sigue vivo, incluso cuando lo ejecutan.",
+      "textEs": "Mientras el anfitrión esté vivo, el Lleech no puede morir. Si ejecutan al Lleech, el Narrador anuncia que sigue vivo, pero no explica por qué."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Si el anfitrión muere, también muere el Lleech; se conservan las condiciones de victoria.",
+      "textEs": "Si muere el jugador elegido por el Lleech, el Lleech también muere. Aunque solo queden uno o dos jugadores vivos, gana el equipo bueno porque el Demonio ha muerto."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Las muertes posteriores no envenenan a sus objetivos.",
+      "textEs": "Desde la segunda noche, los jugadores que ataca el Lleech mueren, pero no quedan envenenados."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla si el Lleech se crea durante la partida.",
+      "textEs": "Si se crea un Lleech a mitad de la partida, esa noche envenena a un jugador y debe elegir a alguien vivo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [
+        "preacher"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Predicador, ausente; se conserva la coordinación general con los Esbirros y la necesidad de mantener vivo al anfitrión.",
+      "textEs": "Comunícate con tus Esbirros cuanto antes y diles a quién has envenenado. Todo el equipo malvado debe colaborar desde el principio para mantener vivo a ese jugador."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para elegir un anfitrión cercano y manipular su información.",
+      "textEs": "Envenena a uno de tus vecinos para mantenerlo cerca y bajo control. Puedes averiguar qué información falsa recibe e intentar manipular la partida para que parezca legítima y no sospeche que está envenenado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para alejar las sospechas del Lleech.",
+      "textEs": "También puedes envenenar a alguien al otro lado del círculo y alejar de ti la atención."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para evitar que el pueblo conozca al Demonio.",
+      "textEs": "Evita que te ejecuten. Aunque la ejecución no pueda matarte mientras el anfitrión siga vivo, que el equipo bueno aprenda quién es el Demonio puede bastar para que gane. Si saben que eres el Lleech, excluirán tu voz de las conversaciones e intentarán encontrar al anfitrión."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "noble"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Noble, ausente; se conserva la diferencia entre un personaje de información inicial y el riesgo de que el anfitrión quiera ser ejecutado.",
+      "textEs": "La elección del anfitrión puede influir mucho en la partida y debes hacerla a ciegas. Si eliges a alguien que solo recibe información al principio, quizá le cueste descubrir que está envenenado, lo que te ayuda a ocultarlo. Pero quizá esa persona acepte que la ejecuten porque siente que no aporta más información."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia de seguridad para los tres últimos jugadores.",
+      "textEs": "Si solo quedan tres jugadores vivos, que te ejecuten es seguro mientras el anfitrión siga vivo. Iréis a la noche con tres jugadores y puedes matar al último que no sea el anfitrión. No mates al anfitrión: morirías también, habría empate y ganaría el equipo bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo para desviar sospechas del anfitrión.",
+      "textEs": "Si el grupo empieza a fijarse en el anfitrión, quizá tengas que redirigir la atención. Insistir mucho en que no ejecuten a una persona concreta puede parecer sospechoso; mejor señala a otro objetivo importante, aunque eso implique sacrificar a un Esbirro. Intenta llegar al último día sin que sospechen mucho del anfitrión."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Prioridad general del equipo malvado en una partida de Lleech.",
+      "textEs": "En una partida normal, la prioridad es proteger al Demonio de la ejecución. En una partida de Lleech, lo más importante es crear información falsa para ocultar al anfitrión. Así, aunque alguien dude de su información, será solo una de muchas fuentes de confusión."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración de que el anfitrión no está alineado con el equipo malvado.",
+      "textEs": "El Lleech puede ser difícil porque un miembro de su «equipo» en realidad es bueno y no está alineado contigo; no puedes controlarlo ni su envenenamiento. Puedes sugerir al Narrador información falsa para que la entregue mediante el veneno, pero no tiene que aceptar la sugerencia."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre el nivel de ruido de la información falsa al final.",
+      "textEs": "Si el equipo malvado lleva ventaja al final, el Narrador quizá haga más evidente el envenenamiento del anfitrión para compensar, especialmente si ha pasado desapercibido toda la partida y el equipo bueno ni siquiera ha descubierto que hay un Lleech."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "noble"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo depende de Noble o de Courtier, ausentes. No se sustituye al Noble por un anfitrión genérico ni se mantiene una borrachera del Lleech sin su causa."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "farmer",
+        "courtier"
+      ],
+      "requiredCharacterIds": [
+        "farmer"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende de Noble o de Courtier, ausentes. No se sustituye al Noble por un anfitrión genérico ni se mantiene una borrachera del Lleech sin su causa."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conserva quién elige al anfitrión y que este queda envenenado.",
+      "textEs": "Durante la primera noche, despierta al Lleech. El Lleech señala a cualquier jugador. Ese jugador queda envenenado: márcalo con ENVENENADO. Vuelve a dormir al Lleech."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conserva explícitamente la muerte y el sujeto que elige; no basta señalar y colocar el recordatorio.",
+      "textEs": "Cada noche excepto la primera, despierta al Lleech. El Lleech señala a cualquier jugador. Ese jugador muere: márcalo con MUERTO. Vuelve a dormir al Lleech."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla de supervivencia ligada a la vida del anfitrión.",
+      "textEs": "Si el Lleech fuera a morir y el jugador marcado ENVENENADO sigue vivo, el Lleech no muere. Si el jugador marcado ENVENENADO está muerto, el Lleech muere y gana el equipo bueno."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Orientación para dar información falsa al anfitrión.",
+      "textEs": "Cuando des información falsa a un jugador bueno envenenado por el Lleech, procura que parezca verdadera. Si cree que es falsa, pronto podría decidir que lo ejecuten a él mismo y ganar la partida."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "La primera noche, el Lleech elige a un jugador que queda envenenado durante el resto de la partida. Mientras ese anfitrión siga vivo, el Lleech no puede morir: si lo ejecutan, el Narrador anuncia que sigue vivo sin explicar por qué. Si el anfitrión muere, el Lleech también muere y gana el equipo bueno, aunque solo queden uno o dos jugadores vivos.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3",
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Desde la segunda noche, los jugadores que ataca el Lleech mueren, pero no quedan envenenados.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "Si se crea un Lleech a mitad de la partida, esa noche envenena a un jugador y debe elegir a alguien vivo.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Informa pronto a los Esbirros de quién está envenenado y colaborad para mantenerlo vivo. Puedes elegir un vecino para vigilar su información y hacerla parecer legítima, evitando que descubra el veneno, o alguien lejano para alejar la atención de ti.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "Evita la ejecución: aunque el anfitrión vivo te proteja, identificarte puede hacer que te excluyan de conversaciones y busquen a tu anfitrión. O, con tres vivos y anfitrión vivo, puedes aceptar la ejecución sin morir y matar esa noche al otro jugador. No mates al anfitrión: morirías también, producirías empate y ganarían los buenos.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-6"
+        ]
+      },
+      {
+        "textEs": "La elección del anfitrión puede influir mucho en la partida y debes hacerla a ciegas. Si eliges a alguien que solo recibe información al principio, quizá le cueste descubrir que está envenenado, lo que te ayuda a ocultarlo. Pero quizá esa persona acepte que la ejecuten porque siente que no aporta más información.",
+        "sourceUnits": [
+          "tips-5"
+        ]
+      },
+      {
+        "textEs": "Si sospechan del anfitrión, redirige hacia otro objetivo, incluso sacrificando a un Esbirro; insistir mucho en no ejecutarlo resulta sospechoso. Procura llegar al último día sin demasiadas sospechas sobre él. La prioridad es ocultarlo con mucha información falsa para que sus dudas sean una fuente más de confusión, además de proteger al Demonio.",
+        "sourceUnits": [
+          "tips-7",
+          "tips-8"
+        ]
+      },
+      {
+        "textEs": "El anfitrión bueno no está alineado contigo y tienes poco control sobre él o su veneno; puedes sugerir datos falsos al Narrador, pero no debe aceptarlos. Si los malvados dominan al final, quizá haga más evidente el veneno para compensar, especialmente si pasó inadvertido y ni siquiera descubrieron Lleech.",
+        "sourceUnits": [
+          "tips-9",
+          "tips-10"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [],
+    "howToRun": [
+      {
+        "textEs": "Durante la primera noche, despierta al Lleech. El Lleech señala a cualquier jugador. Ese jugador queda envenenado: márcalo con ENVENENADO. Vuelve a dormir al Lleech.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Cada noche excepto la primera, despierta al Lleech. El Lleech señala a cualquier jugador. Ese jugador muere: márcalo con MUERTO. Vuelve a dormir al Lleech.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "Si el Lleech fuera a morir y el jugador marcado ENVENENADO sigue vivo, el Lleech no muere. Si el jugador marcado ENVENENADO está muerto, el Lleech muere y gana el equipo bueno.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      },
+      {
+        "textEs": "Cuando des información falsa a un jugador bueno envenenado por el Lleech, procura que parezca verdadera. Si cree que es falsa, pronto podría decidir que lo ejecuten a él mismo y ganar la partida.",
+        "sourceUnits": [
+          "howtorun-4"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

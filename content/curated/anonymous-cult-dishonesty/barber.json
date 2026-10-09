@@ -1,0 +1,458 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "barber",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Barber",
+    "revision": "oldid=1757",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Barbero permite al Demonio intercambiar los personajes de dos jugadores."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Los alineamientos no cambian y los jugadores aprenden su nuevo personaje.",
+      "textEs": "Cuando intercambian personajes, los alineamientos de los jugadores no cambian. Cada uno aprende qué personaje tiene ahora."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Demonio no está obligado a intercambiar personajes.",
+      "textEs": "El Demonio puede decidir no hacer ningún intercambio."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El nuevo personaje obtiene una habilidad aunque se haya usado antes.",
+      "textEs": "Si alguien se convierte en un personaje nuevo, obtiene su habilidad aunque sea una habilidad de información inicial o de un solo uso que el personaje original ya hubiera usado."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Si hay varios Demonios vivos, el Narrador decide cuál hace el intercambio.",
+      "textEs": "Si hay más de un Demonio vivo, el Narrador elige cuál de ellos realiza el intercambio."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Demonio puede elegirse a sí mismo.",
+      "textEs": "El Demonio puede elegirse a sí mismo para el intercambio."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "No puede elegir a otro jugador Demonio.",
+      "textEs": "El Demonio no puede elegir a otro jugador que sea Demonio."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla si alguien muere y se convierte en Barbero la misma noche.",
+      "textEs": "Si un jugador muere y luego se convierte en Barbero, el Demonio no puede intercambiar personajes esa noche."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para evitar que se active el intercambio.",
+      "textEs": "No mueras. Tu muerte da una gran ventaja al equipo malvado: podrá elegir entre muchas opciones y probablemente usará el intercambio para perjudicar al equipo bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "sage",
+        "artist",
+        "juggler"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Sabio, Artista y Malabarista, ausentes; se conserva la estrategia de parecer un objetivo poco atractivo para el Demonio.",
+      "textEs": "Farolea como un objetivo que el Demonio preferiría evitar para aumentar tus posibilidades de sobrevivir. Si te considera poco prioritario, quizá ataque a otra persona. Puedes revelar en secreto tu identidad verdadera a uno o dos jugadores para que sepan que la información que compartes no es auténtica."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre cuándo revelar la muerte del Barbero.",
+      "textEs": "Si mueres, conviene revelarlo, pero quizá no de inmediato. Es importante que la gente sepa que pudo haber un intercambio; si esperas unos minutos, algunos jugadores quizá cuenten que su personaje cambió. Revelarlo después de que alguien lo diga hará que parezcas más creíble."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "La muerte deliberada puede ser útil si reduce la posibilidad de un intercambio entre malvados.",
+      "textEs": "En algunas partidas puede convenirte morir deliberadamente: por ejemplo, si tienes una buena idea de quiénes son todos los jugadores malvados o crees que casi todos ya murieron. Así es menos probable que el Demonio intercambie a dos malvados; quizá cambie jugadores buenos, lo que te confirma, o no haga nada."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo para jugadores buenos cuyo personaje cambia la noche que muere el Barbero.",
+      "textEs": "Si eres bueno y tu personaje cambia la noche que murió el Barbero, normalmente conviene contarlo pronto. Confirmas que el Barbero está en juego y puedes encontrar al jugador con quien intercambiaste. Si el otro jugador también es bueno, probablemente quiera revelarse y podréis confiar el uno en el otro."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6a",
+      "mentionedCharacterIds": [
+        "flowergirl",
+        "savant",
+        "dreamer"
+      ],
+      "requiredCharacterIds": [
+        "flowergirl",
+        "savant"
+      ],
+      "decision": "partial",
+      "reason": "Se conservaron la Florista y el Erudito, presentes; se quitó la Soñadora, ausente, y se mantuvo la táctica de cambiar dos malvados para alterar información.",
+      "textEs": "Si eres el Demonio y el Barbero acaba de morir, puedes intercambiar a dos jugadores malvados para cambiar quién es el Demonio y volver poco fiable información como la de la Florista o el Erudito. Un cambio bien calculado puede desorientar al equipo bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6b",
+      "mentionedCharacterIds": [
+        "philosopher",
+        "sage",
+        "mutant"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Filósofo, Sabio y Mutante, ausentes; se conserva la táctica general de intercambiar jugadores buenos, incluso con el Barbero muerto.",
+      "textEs": "También puedes intercambiar a dos jugadores buenos. Puedes incluir al Barbero muerto para cambiar a un personaje que esté causando problemas y crear confusión. Los jugadores buenos sabrán que intercambiaron personajes y podrán confiar entre sí; sopesa si neutralizar una habilidad importante vale la información que recibirán."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6c",
+      "mentionedCharacterIds": [
+        "witch",
+        "cerenovus",
+        "sweetheart",
+        "philosopher",
+        "snake-charmer"
+      ],
+      "requiredCharacterIds": [
+        "cerenovus",
+        "sweetheart"
+      ],
+      "decision": "partial",
+      "reason": "Se conservaron el Cerenovus y el Adorable, presentes; se quitaron la Bruja, Filósofo y Encantadora de Serpientes, ausentes.",
+      "textEs": "Intercambiar a un jugador bueno y uno malvado suele ser mala idea: un jugador bueno con una habilidad malvada, como la del Cerenovus, puede hacer mucho daño al equipo malvado. El grupo quizá decida ejecutar a un jugador bueno que revele que se convirtió en un personaje malvado. Pero la situación también funciona al revés: que un malvado obtenga una habilidad buena puede ser devastador para el equipo bueno; por ejemplo, que un jugador malvado se convierta en el Adorable."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6d",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Demonio también puede decidir no hacer nada.",
+      "textEs": "A veces lo mejor es no hacer nada. Si no tienes personajes buenos que quieras intercambiar y estás conforme con los personajes del equipo malvado, puedes mantener tu posición y dejar que el grupo dude de que hubiera un Barbero o piense que el Demonio y el Esbirro intercambiaron personajes."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "clockmaker",
+        "juggler"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo contiene personajes concretos ausentes; no se reconstruye con objetivos genéricos o un Demonio distinto."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "snake-charmer"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo contiene personajes concretos ausentes; no se reconstruye con objetivos genéricos o un Demonio distinto."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "vortox",
+        "witch"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo contiene personajes concretos ausentes; no se reconstruye con objetivos genéricos o un Demonio distinto."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-4",
+      "mentionedCharacterIds": [
+        "vigormortis",
+        "sweetheart",
+        "pit-hag"
+      ],
+      "requiredCharacterIds": [
+        "vigormortis",
+        "pit-hag"
+      ],
+      "decision": "omit",
+      "reason": "La consecuencia depende del Vigormortis y la Pit-Hag, ausentes del guion."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre ocultar o retrasar el farol mientras se está vivo.",
+      "textEs": "Los Barberos reales a menudo no revelan que lo son. Guarda silencio sobre tu personaje o farolea como otro mientras sigas vivo."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para revelar el farol pronto.",
+      "textEs": "También puedes revelar pronto que eres el Barbero. Probablemente el grupo quiera mantenerte vivo y no pasa nada si lo haces."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general tras la muerte del Barbero.",
+      "textEs": "Si mueres, no habrá jugadores buenos que cuenten que su personaje cambió. Tendrás que convencer al grupo de que el Demonio no intercambió a nadie o que intercambió a dos malvados."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [
+        "witch",
+        "vigormortis",
+        "pit-hag",
+        "dreamer",
+        "sage"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de personajes ausentes; se conserva la coordinación entre tres jugadores malvados para fingir un intercambio y reforzar la historia.",
+      "textEs": "Coordina un doble farol: si mueres y hay otros dos jugadores malvados, pídeles que afirmen que intercambiaron personajes. Así tu historia de Barbero parecerá más fiable y ellos también parecerán mejores."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Recordatorio cuando muere el Barbero.",
+      "textEs": "Si muere el Barbero, márcalo con el recordatorio INTERCAMBIO ESTA NOCHE."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Elección del Demonio y posibilidad de no intercambiar.",
+      "textEs": "Esa noche, despierta al Demonio. Muéstrale la ficha de información ESTE PERSONAJE TE HA ELEGIDO y después la ficha del Barbero. El Demonio puede negar con la cabeza para no intercambiar o señalar a dos jugadores. Vuelve a dormirlo y retira el recordatorio INTERCAMBIO ESTA NOCHE."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Intercambio y comunicación individual del nuevo personaje.",
+      "textEs": "Si el Demonio señaló a dos jugadores, intercambia sus fichas de personaje. Despierta a cada uno por separado, muéstrale la ficha TÚ ERES y su nueva ficha de personaje, y vuelve a dormirlo. Si el alineamiento del jugador no coincide con el color de la ficha, gírala boca abajo."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conserva el carácter opcional de «you may wish to remind», sin convertirlo en una obligación.",
+      "textEs": "Si un jugador bueno se convierte en Esbirro o Demonio, o un jugador malvado se convierte en Aldeano o Forastero, puedes recordarle que su alineamiento no ha cambiado."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "El Barbero permite al Demonio intercambiar los personajes de dos jugadores, aunque puede decidir no hacerlo. Sus alineamientos no cambian y cada jugador aprende qué personaje tiene ahora.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Si alguien se convierte en un personaje nuevo, obtiene su habilidad aunque sea una habilidad de información inicial o de un solo uso que el personaje original ya hubiera usado.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Si hay más de un Demonio vivo, el Narrador elige cuál de ellos realiza el intercambio.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "El Demonio puede elegirse a sí mismo para el intercambio.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      },
+      {
+        "textEs": "El Demonio no puede elegir a otro jugador que sea Demonio.",
+        "sourceUnits": [
+          "summary-7"
+        ]
+      },
+      {
+        "textEs": "Si un jugador muere y luego se convierte en Barbero, el Demonio no puede intercambiar personajes esa noche.",
+        "sourceUnits": [
+          "summary-8"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Puedes evitar morir: tu muerte da al equipo malvado muchas opciones que probablemente use contra los buenos. O puedes buscarla si tienes una buena idea de quiénes son todos los malvados o crees que casi todos han muerto. Así es menos probable que el Demonio intercambie a dos malvados; quizá cambie a buenos, confirmándote, o no haga nada.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-4"
+        ]
+      },
+      {
+        "textEs": "Para sobrevivir, finge un objetivo poco prioritario y cuenta tu identidad en secreto a uno o dos para que no crean tus datos falsos. Si mueres, revela que pudo haber intercambio, quizá esperando unos minutos a que alguien anuncie el cambio para ganar credibilidad. Si eres bueno y cambiaste esa noche, cuéntalo pronto para confirmar al Barbero y encontrar a tu pareja; si también es buena, puede revelarse y generar confianza mutua.",
+        "sourceUnits": [
+          "tips-2",
+          "tips-3",
+          "tips-5"
+        ]
+      },
+      {
+        "textEs": "Como Demonio puedes intercambiar a dos malvados para mover al Demonio y desorientar datos de Florista/Erudito; o a dos buenos, incluyendo al Barbero muerto, para neutralizar un poder y confundir, a costa de que sepan el cambio y confíen entre sí. Mezclar alineamientos suele ser arriesgado: un bueno con Cerenovus puede dañar a los malvados y ser ejecutado por revelar un personaje malvado, pero un malvado con Adorable puede perjudicar a los buenos. O no hagas nada si no necesitas cambiar buenos y tus malvados están bien: el grupo quizá dude del Barbero o imagine un intercambio malvado.",
+        "sourceUnits": [
+          "tips-6a",
+          "tips-6b",
+          "tips-6c",
+          "tips-6d"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "Puedes ocultarte o farolear como otro personaje mientras vivas, o revelarte pronto para que te mantengan vivo. Si mueres, ningún bueno confirmará un intercambio: convence de que el Demonio no actuó o cambió a dos malvados. Con otros dos malvados, coordinar que afirmen intercambiar personajes puede respaldaros a los tres.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2",
+          "bluffing-3",
+          "bluffing-4"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Si muere el Barbero, márcalo con el recordatorio INTERCAMBIO ESTA NOCHE.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Esa noche, despierta al Demonio. Muéstrale la ficha de información ESTE PERSONAJE TE HA ELEGIDO y después la ficha del Barbero. El Demonio puede negar con la cabeza para no intercambiar o señalar a dos jugadores. Vuelve a dormirlo y retira el recordatorio INTERCAMBIO ESTA NOCHE.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "Si el Demonio señaló a dos jugadores, intercambia sus fichas de personaje. Despierta a cada uno por separado, muéstrale la ficha TÚ ERES y su nueva ficha de personaje, y vuelve a dormirlo. Si el alineamiento del jugador no coincide con el color de la ficha, gírala boca abajo.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      },
+      {
+        "textEs": "Si un jugador bueno se convierte en Esbirro o Demonio, o un jugador malvado se convierte en Aldeano o Forastero, puedes recordarle que su alineamiento no ha cambiado.",
+        "sourceUnits": [
+          "howtorun-4"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

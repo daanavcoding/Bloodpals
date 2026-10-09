@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "undertaker",
+  "nameOriginal": "Undertaker",
+  "nameEs": "Enterrador",
+  "abilityEs": "Cada noche*, aprendes qué personaje murió por ejecución hoy.",
+  "icon": "assets/images/characters/undertaker.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Undertaker",
+    "revision": "oldid=2607",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/0/05/Icon_undertaker.png"
+}

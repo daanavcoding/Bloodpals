@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "sweetheart",
+  "nameOriginal": "Sweetheart",
+  "nameEs": "Adorable",
+  "abilityEs": "Cuando mueras, un jugador queda borracho desde ese momento.",
+  "icon": "assets/images/characters/sweetheart.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Sweetheart",
+    "revision": "oldid=2704",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/6/6a/Icon_sweetheart.png"
+}

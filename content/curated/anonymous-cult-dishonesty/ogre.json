@@ -1,0 +1,524 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "ogre",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Ogre",
+    "revision": "oldid=2617",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El jugador elegido por el Ogro no cambia, aunque el Ogro esté borracho o envenenado cuando lo elige."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Cambio inicial de alineamiento incluso si está borracho o envenenado.",
+      "textEs": "La primera noche, el Ogro adopta inmediatamente el alineamiento del jugador elegido, incluso si está borracho o envenenado."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Ogro no recibe información directa sobre su alineamiento.",
+      "textEs": "Al comienzo de la partida, no se informa al Ogro de cuál es su alineamiento."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre cambios de alineamiento posteriores.",
+      "textEs": "Si el alineamiento del Ogro cambia por otro motivo, aprende su nuevo alineamiento como de costumbre."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla para un Ogro creado durante la partida.",
+      "textEs": "Si se crea un Ogro a mitad de la partida, esa noche elige a un jugador y adopta su alineamiento."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre hablar con el amigo elegido.",
+      "textEs": "A diferencia de otros jugadores, no sabes con qué alineamiento empiezas, aunque sí sabes para qué equipo juegas. Te conviene decir pronto a tu amigo que lo elegiste y ser sincero para que te crea. En público, intenta convencer al grupo de que estáis en el mismo equipo; en privado, podéis organizaros y preparar un plan."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "empath"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Empático, ausente; se conserva el consejo general de insistir si el amigo no cree la afirmación.",
+      "textEs": "Si tu amigo no te cree, insiste y asegúrale que dices la verdad."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de contar la verdad al amigo y mentir al resto.",
+      "textEs": "Puede ser divertido y útil contarle la verdad a tu amigo y mentir a los demás. Si eres bueno y el equipo malvado no sabe quién es tu amigo, quizá lo deje en paz. Si eres malvado y el equipo bueno no lo sabe, le costará explicar lo que ocurre."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para observar al amigo antes de revelar la elección.",
+      "textEs": "En vez de decirle a tu amigo que lo elegiste, puedes observarlo unos días. Fíjate con quién habla, a quién vota y en quién confía para averiguar su alineamiento y el tuyo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para votar junto al amigo.",
+      "textEs": "Vota igual que tu amigo. Si es malvado, probablemente vote de forma que ayude a tu equipo; si es bueno, probablemente vote como crea que ayuda al suyo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Advertencia general sobre ejecutar al amigo elegido.",
+      "textEs": "No votes nunca contra tu amigo. Puede ser bueno o malvado, pero no lo sabes; en cualquier caso, si muere acabas de matar a un compañero de equipo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para observar reacciones y ocultar cuál es el amigo verdadero.",
+      "textEs": "Diles a varias personas que las elegiste para ver cómo reaccionan y ocultar quién es tu amigo de verdad. Como no sabes en qué equipo juegas, un poco de caos no te hará daño."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [
+        "empath",
+        "artist"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Empático y el Artista, ausentes; se conserva el aviso de que el amigo podría cambiar de alineamiento y la necesidad de limitar información y verificarlo.",
+      "textEs": "Si tu amigo empieza a comportarse de forma extraña y el guion permite cambios de alineamiento, ten en cuenta que quizá se haya unido al equipo contrario. Si te preocupa que ya no compartáis alineamiento, limita lo que le cuentas y busca otras formas de verificar cuál es vuestro alineamiento actual."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general si no hay otra información.",
+      "textEs": "Si nada más funciona, supón que eres bueno; las probabilidades te favorecen."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se distinguen los sujetos de la viñeta: quien afirma ser Ogro y el amigo que señala.",
+      "textEs": "El amigo que señala quien afirma ser Ogro casi siempre será bueno: si quien lo afirma es un Ogro bueno, comparte su alineamiento; si es un malvado que farolea como Ogro, probablemente eligió a un jugador bueno como amigo imaginario."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-11",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para obtener la información del amigo.",
+      "textEs": "Pide a tu amigo que comparta todo lo que sabe. Tú no recibes información propia, así que dependerás de otros personajes para enterarte de lo importante. La única información de la que casi puedes estar seguro es la de tu amigo: trátalo bien y pídele que te lo cuente todo. Si es malvado y además te lo cuenta, mejor todavía."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-12",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo para un jugador bueno cuyo amigo dice tener un Ogro.",
+      "textEs": "Si eres bueno y alguien dice ser tu Ogro, normalmente conviene contarle lo que sabes. Si es bueno, merece saberlo; si es malvado, probablemente ya conoce la información más importante. Puedes mentirle o guardar silencio si quieres comprobar si de verdad es el Ogro."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "summoner"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo depende de Summoner o de un cambio de alineamiento por Mezepheles, ausentes. No se reemplaza por un malvado genérico o un cambio sin origen."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "banshee",
+        "mezepheles"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "omit",
+      "reason": "El ejemplo depende de Summoner o de un cambio de alineamiento por Mezepheles, ausentes. No se reemplaza por un malvado genérico o un cambio sin origen."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [
+        "empath",
+        "saint",
+        "banshee"
+      ],
+      "requiredCharacterIds": [
+        "banshee"
+      ],
+      "decision": "partial",
+      "reason": "Se conserva la Banshee, presente en el guion; se quitaron los ejemplos del Empático y el Santo, ausentes.",
+      "textEs": "Comprométete con el jugador que dices haber elegido como amigo. Si es la Banshee, por ejemplo, apóyala y muéstrate convincente; si la mata el Demonio, te habrá convenido mantener una buena relación con ella."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para elegir a un jugador de confianza.",
+      "textEs": "Elige a un jugador fuerte: alguien en quien el equipo bueno tienda a confiar, escuchar y seguir. Si lo consideran fiable, probablemente te mantengan vivo también."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre cuándo revelar la amistad fingida.",
+      "textEs": "No tienes que decir enseguida a quién elegiste. Esperar unos días y afirmar que elegiste a un jugador bueno ya confirmado puede resultar menos creíble para algunos, pero quienes te crean también pensarán que eres bueno."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo social general para elegir a un amigo.",
+      "textEs": "Elige a alguien divertido. El Ogro funciona mejor si lo pasas bien: escoger a una persona con quien tengas buena relación y que disfrute de la partida puede darte confianza para convencer al equipo bueno."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [
+        "mayor",
+        "general"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Alcalde y el General, ausentes; se conserva la idea de elegir a alguien que pueda sobrevivir hasta el final.",
+      "textEs": "Elige a un jugador que creas que sobrevivirá mucho tiempo. Tanto si el supuesto Ogro es bueno como si es malvado, al equipo bueno normalmente le conviene ejecutaros a ambos o manteneros vivos hasta el último día."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [
+        "undertaker",
+        "high-priestess"
+      ],
+      "requiredCharacterIds": [
+        "undertaker",
+        "high-priestess"
+      ],
+      "decision": "keep",
+      "reason": "El Enterrador y la Suma Sacerdotisa aparecen en el guion.",
+      "textEs": "Si todo lo demás falla, puedes hacerte amigo de un jugador que quieres que muera. Finge públicamente que eres su querido amigo Ogro y juega mal; quizá el equipo bueno ejecute a ambos. Esto puede hacer que mueran cuatro jugadores contando las dos noches. La estrategia es apropiada para Aldeanos, Forasteros y Esbirros, pero no para Demonios."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-7",
+      "mentionedCharacterIds": [
+        "butler"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó la comparación con el Mayordomo, ausente; se conserva el consejo de ocultar quién es el amigo y votar a la par.",
+      "textEs": "No digas quién es tu amigo. Elige mentalmente a un jugador y vota cuando él lo haga, pero espera hasta el final para contar al pueblo quién era."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para escoger a un jugador más reservado.",
+      "textEs": "Elige a alguien tranquilo. Las personas reservadas quizá prefieran confiar en uno o dos jugadores durante toda la partida, mientras que las más habladoras suelen tener más conversaciones y una red de confianza complicada. Un jugador reservado puede protegerte toda la partida."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para elegir a un jugador muerto más adelante.",
+      "textEs": "Espera unos días y elige a un jugador muerto. Si consigues que use su voto de forma imprudente, inclinarás la partida a tu favor."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-10",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para crear una interacción social intensa con el amigo.",
+      "textEs": "Elige a alguien que no pueda con la situación. Puede ser estresante que una persona te preste toda su atención durante la partida sin saber si eres bueno o malvado, pero también puede ser divertido."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-11",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para fingir que el amigo elegido es malvado.",
+      "textEs": "Elige a un jugador malvado como amigo. Es arriesgado porque el equipo bueno supondrá que compartís equipo, pero puede provocar contradicciones si todos asumen que sois buenos. Asegúrate de que la información falsa de ambos encaje."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-12",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para fingir que el amigo elegido es bueno.",
+      "textEs": "Elige al azar a un jugador bueno como amigo. Como los malvados conocen a los demás malvados, hacerlo es fácil; además, suele ser lo que hace un Ogro real por pura probabilidad. Repetir la opción más común puede hacerte parecer bueno y generar confianza."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-13",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para seguir la información del amigo y posponer la traición.",
+      "textEs": "Sigue la iniciativa de tu amigo y cuéntale lo que te revelen los jugadores buenos. Como los Ogros reales solo saben quién está en su mismo equipo, suelen depender del juicio del amigo; haz lo mismo. Más adelante quizá debas traicionarlo con un voto equivocado o una jugada brillante, pero entonces se sabrá que eres malvado, así que espera hasta el final."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-14",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de fingir amistad con varios jugadores.",
+      "textEs": "Diles a varias personas que eres su amigo Ogro y pídeles que no lo cuenten. La mentira acabará descubriéndose, pero mientras tanto varios jugadores podrían votar mal."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-15",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para un jugador malvado al que su vecino acusa de ser su Ogro.",
+      "textEs": "Si eres malvado y un jugador bueno dice ser tu Ogro, ten cuidado antes de contarle que eres malvado: quizá mienta. Un Ogro malvado que crea todo lo que dices puede ser muy útil, pero sería desastroso que un Aldeano bueno fingiera serlo y descubriera tu alineamiento."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento de elección en la primera noche.",
+      "textEs": "Durante la primera noche, despierta al Ogro. El Ogro señala a un jugador. Vuelve a dormirlo. Si señaló a un jugador malvado, gira su ficha de personaje boca abajo para indicar que es malvado."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla opcional y sus consecuencias si cambia el alineamiento del amigo.",
+      "textEs": "Regla opcional: marca al jugador elegido por el Ogro con un recordatorio AMIGO. El Ogro siempre tiene el mismo alineamiento que su amigo. Si el alineamiento del amigo cambia, también cambia el del Ogro, aunque este no se entera."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Límite recomendado para aplicar la regla opcional.",
+      "textEs": "Esta regla opcional solo se recomienda en partidas de 15 jugadores o más, para evitar que haya demasiados jugadores malvados."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "El jugador que eliges no cambia, aunque estés borracho o envenenado al elegirlo. Adoptas inmediatamente su alineamiento la primera noche incluso en esos estados, pero no se te informa de cuál es tu alineamiento.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Si el alineamiento del Ogro cambia por otro motivo, aprende su nuevo alineamiento como de costumbre.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Si se crea un Ogro a mitad de la partida, esa noche elige a un jugador y adopta su alineamiento.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Puedes decir pronto y sinceramente al amigo que lo elegiste, insistiendo si no te cree: en público buscáis confianza en vuestro equipo; en privado, un plan. O obsérvalo unos días para leer su alineamiento y el tuyo por conversaciones, votos y relaciones. Decirle la verdad a él y mentir al resto puede protegerlo de malvados si eres bueno, o dificultar las deducciones buenas si eres malvado.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3",
+          "tips-4"
+        ]
+      },
+      {
+        "textEs": "Vota como tu amigo, que intentará ayudar a su equipo, y no contra él: sin saber el alineamiento, lo estarías matando como compañero. Decir a varios que los elegiste permite leer reacciones y ocultar al real. Si actúa raro y hay cambios de alineamiento posibles, quizá ya no compartáis equipo: limita lo que cuentas y busca pistas para verificarlo. Si todo falla, suponer que eres bueno es lo más probable.",
+        "sourceUnits": [
+          "tips-5",
+          "tips-6",
+          "tips-7",
+          "tips-8",
+          "tips-9"
+        ]
+      },
+      {
+        "textEs": "El amigo de un supuesto Ogro casi siempre será bueno: o lo acompaña un Ogro bueno, o un malvado suele escoger un bueno como amigo imaginario. Pide al amigo toda su información, lo más fiable para ti, y trátalo bien; mejor aún si es malvado y te lo cuenta todo. Si eres bueno y alguien dice ser tu Ogro, suele convenir compartir: si es bueno, lo merece; si es malvado, ya sabe lo principal. Puedes mentir o callar para probarlo.",
+        "sourceUnits": [
+          "tips-10",
+          "tips-11",
+          "tips-12"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "Comprométete con el amigo fingido, como una Banshee a la que convenga haber apoyado cuando el Demonio la confirme. Puedes elegir a alguien fuerte y fiable para que os mantengan vivos, divertido y cercano para convencer con confianza, o que vaya a sobrevivir: al pueblo suele convenir matar a ambos o mantenerlos hasta el final.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2",
+          "bluffing-4",
+          "bluffing-5"
+        ]
+      },
+      {
+        "textEs": "Puedes ocultar al amigo y votar como él hasta revelarlo al final. Esperar a un bueno confirmado convence de tu bondad a quienes te crean, aunque sea menos creíble para otros. Otra opción es elegir a un muerto tras unos días y lograr que gaste su voto de forma imprudente.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-7",
+          "bluffing-9"
+        ]
+      },
+      {
+        "textEs": "Si todo lo demás falla, puedes hacerte amigo de un jugador que quieres que muera. Finge públicamente que eres su querido amigo Ogro y juega mal; quizá el equipo bueno ejecute a ambos. Esto puede hacer que mueran cuatro jugadores contando las dos noches. La estrategia es apropiada para Aldeanos, Forasteros y Esbirros, pero no para Demonios.",
+        "sourceUnits": [
+          "bluffing-6"
+        ]
+      },
+      {
+        "textEs": "Un amigo reservado puede protegerte al confiar en pocos; alguien que se agobie con tu atención constante también puede resultar divertido de elegir. Escoger un malvado arriesga que os vinculen, pero puede provocar contradicciones si os creen buenos: haced coherentes vuestros datos falsos. O escoge un bueno al azar, fácil para malvados y habitual en Ogros reales, para parecer bueno y ganar confianza.",
+        "sourceUnits": [
+          "bluffing-8",
+          "bluffing-10",
+          "bluffing-11",
+          "bluffing-12"
+        ]
+      },
+      {
+        "textEs": "Sigue el juicio del amigo y cuéntale lo que aprendiste de buenos; espera al final para traicionarlo con un voto o jugada, pues te revelaría como malvado. También puedes decir a varios que son tu amigo y pedir secreto: acabarán descubriéndolo, pero pueden votar mal antes. Si eres malvado y un bueno dice ser tu Ogro, no confieses sin cuidado: podría farolear como Aldeano y descubrirte, aunque un Ogro malvado que te crea sea útil.",
+        "sourceUnits": [
+          "bluffing-13",
+          "bluffing-14",
+          "bluffing-15"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Durante la primera noche, despierta al Ogro. El Ogro señala a un jugador. Vuelve a dormirlo. Si señaló a un jugador malvado, gira su ficha de personaje boca abajo para indicar que es malvado.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Regla opcional: marca al jugador elegido por el Ogro con un recordatorio AMIGO. El Ogro siempre tiene el mismo alineamiento que su amigo. Si el alineamiento del amigo cambia, también cambia el del Ogro, aunque este no se entera.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "Esta regla opcional solo se recomienda en partidas de 15 jugadores o más, para evitar que haya demasiados jugadores malvados.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

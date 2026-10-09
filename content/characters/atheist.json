@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "atheist",
+  "nameOriginal": "Atheist",
+  "nameEs": "Ateo",
+  "abilityEs": "El Narrador puede romper las reglas del juego y, si es ejecutado, gana el equipo bueno, incluso si estás muerto. [Sin personajes malvados]",
+  "icon": "assets/images/characters/atheist.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Atheist",
+    "revision": "oldid=2958",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/4/43/Icon_atheist.png"
+}

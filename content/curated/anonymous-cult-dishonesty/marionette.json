@@ -1,0 +1,466 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "marionette",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Marionette",
+    "revision": "oldid=3111",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "La Marioneta no sabe que es un Esbirro."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ficha que recibe en la bolsa.",
+      "textEs": "La Marioneta roba una ficha de Aldeano o Forastero de la bolsa, pero secretamente es la Marioneta."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "La Marioneta debe estar junto al Demonio.",
+      "textEs": "La Marioneta se sienta junto al Demonio, sin ningún jugador entre ambos."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Demonio sabe quién es la Marioneta.",
+      "textEs": "El Demonio sabe qué jugador es la Marioneta."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Información del equipo malvado en la primera noche.",
+      "textEs": "La primera noche, la Marioneta no despierta para conocer a los demás malvados y los otros Esbirros no aprenden quién es la Marioneta."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [
+        "drunk"
+      ],
+      "requiredCharacterIds": [
+        "drunk"
+      ],
+      "decision": "keep",
+      "reason": "El Borracho aparece en el guion y sirve para explicar que la habilidad fingida no funciona.",
+      "textEs": "La habilidad buena que la Marioneta cree tener no funciona, aunque el Narrador finge que sí; funciona igual que la del Borracho."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Cómo registra la Marioneta para otros personajes.",
+      "textEs": "La Marioneta se registra como malvada y como Esbirro."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-8",
+      "mentionedCharacterIds": [
+        "snitch",
+        "preacher",
+        "lil-monsta",
+        "poppy-grower",
+        "hatter",
+        "damsel"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se restaura completa la lista oficial de excepciones de Summary. Las referencias fuera del inventario no se filtran de las secciones de reglas.",
+      "textEs": "La Marioneta no despierta por habilidades que confirmarían que es Esbirro, como las de Snitch, Preacher, Lil' Monsta, Poppy Grower, Sombrerero o Damsel."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [
+        "drunk"
+      ],
+      "requiredCharacterIds": [
+        "drunk"
+      ],
+      "decision": "keep",
+      "reason": "El Borracho aparece en el guion.",
+      "textEs": "Como Marioneta, eres básicamente un Borracho malvado: no tienes la habilidad que crees tener y tampoco el alineamiento que crees. Muchas formas de detectar al Borracho también pueden ayudarte a descubrir que eres la Marioneta. Si tu información no encaja o tu habilidad no funciona cuando debería, podrías ser la Marioneta y no un jugador bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [
+        "seamstress",
+        "town-crier"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de la Costurera y el Pregonero, ausentes; se conserva que tu alineamiento es malvado y que la información de alineamiento puede exponerte.",
+      "textEs": "Aunque no lo sepas, eres malvado. Los personajes que detectan alineamientos te verán como malvado, así que puedes usar esa información para averiguar quién eres, pero el pueblo también puede aprovecharla. Ten cuidado antes de pedir a alguien que compruebe tu alineamiento."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para tomar en serio al vecino que te identifica como Marioneta.",
+      "textEs": "En muchos casos, el equipo malvado querrá decirte que debes colaborar con él. Si uno de tus vecinos te dice que eres una Marioneta, tómalo en serio: podría mentir, pero también podría estar revelando tu identidad. Si lo expones y gana el equipo bueno, tú pierdes con él."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para ocultar la sospecha de ser Marioneta.",
+      "textEs": "Si sospechas que eres la Marioneta, no se lo digas a otros Aldeanos. Si tienes razón y te creen, el equipo bueno sabrá que el Demonio es uno de tus vecinos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para evitar ejecutar al Demonio vecino.",
+      "textEs": "Evita nominar o votar contra tus vecinos salvo que haya pruebas especialmente sólidas. Si eres la Marioneta, el Demonio tiene que ser uno de ellos; ejecutarlo por accidente sería un problema."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [
+        "witch"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se conserva la restricción del ejemplo oficial de partida de ocho jugadores con un Esbirro, y se omite únicamente el ejemplo de Witch ausente. No se generaliza confirmar un Esbirro cuando puede haber varios.",
+      "textEs": "Intenta acotar qué tipos de Esbirro están en juego. La Marioneta suele ser un Esbirro oculto, mientras otros pueden dejar señales más visibles. Si la partida tiene un único Esbirro y confirmas otro tipo, puedes descartar que seas Marioneta."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se aclara Minions en plural junto con el límite de Esbirros de la fuente, sin deducirlo de identificar solo uno en una partida con varios.",
+      "textEs": "Si sabes con seguridad quiénes son todos los Esbirros, puedes descartar que seas secretamente la Marioneta. Hay un número limitado de Esbirros; no necesitas conocer sus tipos, pero sí identificar a todos los que corresponden a la partida."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [
+        "fortune-teller"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo de la Adivina, ausente; se conserva el razonamiento general de que la Marioneta debe estar junto al Demonio.",
+      "textEs": "Busca al Demonio con empeño. Si eres la Marioneta, está junto a ti; si consigues demostrar que el Demonio está sentado en otro lugar, sabes que no puedes ser la Marioneta. Y si sí lo eres, esa misma búsqueda apartará sospechas de tu Demonio."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para provocar reacciones de los vecinos.",
+      "textEs": "Si sospechas que eres la Marioneta pero tus vecinos no hablan, intenta convencerlos de que ellos son tu Marioneta. Los malvados sabrán que no es cierto y los buenos tendrán que decidir si te creen; sus reacciones pueden darte pistas sobre tus aliados malvados."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [
+        "savant"
+      ],
+      "requiredCharacterIds": [
+        "savant"
+      ],
+      "decision": "keep",
+      "reason": "El Erudito aparece en el guion.",
+      "textEs": "Si estás convencido de que eres la Marioneta, tu objetivo es proteger al Demonio. El pueblo también sospechará de ti y buscará pistas para encontrarte, así que procura que la información que crees recibir parezca correcta. Por ejemplo, si crees ser el Erudito, da cada día un dato verdadero y otro falso."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-11",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para que el Demonio decida cuándo revelar la identidad de la Marioneta.",
+      "textEs": "Si eres el Demonio, decide cómo relacionarte con la Marioneta. Normalmente conviene decirle cuanto antes quién es para que actúe como malvada, te proteja y no te exponga cuando su habilidad falle. También puede ser útil mantenerla en la oscuridad: a veces el jugador malvado más eficaz es quien cree de verdad que es bueno. Si el pueblo confía en ella, deja que lidere lejos de ti; al final ganaréis, aunque no por los motivos que ella creía."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-12",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general del Demonio para fingir que dos vecinos son Marionetas.",
+      "textEs": "Si eres el Demonio, puedes decir a tus vecinos buenos que son tus Marionetas, incluso a ambos, y asegurar a cada uno que es la verdadera mientras el otro está siendo engañado. Como la Marioneta no conoce su alineamiento real, quizá guarden el secreto y tarden en descubrir si están en tu equipo; ese tiempo puede hacerles actuar contra el equipo bueno. Ten un plan para cuando lo descubran, porque podrían ejecutarte."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-13",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para un Esbirro que quiere confundir a sus vecinos buenos.",
+      "textEs": "Si eres un Esbirro, dile a tus vecinos buenos que son tus Marionetas. Obtendrás las ventajas de confundir al equipo bueno sin el riesgo de perder la partida si descubren el engaño."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-14",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para un jugador bueno cuyo vecino no coopera.",
+      "textEs": "Si eres bueno y tienes un vecino poco colaborador, dile que es tu Marioneta. Durante un tiempo quizá trabaje contigo para resolver su identidad y comparta información. Asegúrate de confesarlo antes del final para que sepa que debe ayudar al equipo bueno."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "undertaker"
+      ],
+      "requiredCharacterIds": [
+        "undertaker"
+      ],
+      "decision": "keep",
+      "reason": "El Enterrador aparece en el guion y el ejemplo ilustra la habilidad fingida de la Marioneta.",
+      "textEs": "Marianna es la Marioneta, pero cree ser el Enterrador. Cada noche aprende quién fue ejecutado ese día, aunque su información a menudo es incorrecta. A mitad de la partida, el Demonio le cuenta que es la Marioneta."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo general de una afirmación falsa del Demonio.",
+      "textEs": "Lachlan es el Demonio. Le dice a Sarah que ella es la Marioneta, pero miente: no hay ninguna Marioneta en juego."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "fortune-teller"
+      ],
+      "requiredCharacterIds": [
+        "fortune-teller"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende de la Adivina, ausente del guion."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Preparación de las fichas de personaje.",
+      "textEs": "Durante la preparación, antes de poner fichas en la bolsa, retira la ficha de Marioneta y añade una ficha de Aldeano."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento especial si hay tres Esbirros en juego para garantizar vecinos buenos alrededor del Demonio.",
+      "textEs": "Si hay tres Esbirros en juego, retira otra ficha de Esbirro y añade otra ficha de Aldeano. Durante la primera noche, intercambia la ficha de personaje de un jugador bueno por una ficha de Esbirro que no esté en juego. Despierta a ese jugador, muéstrale TÚ ERES y la ficha de su nuevo personaje; después muéstrale TÚ ERES y haz un gesto hacia abajo. Vuelve a dormirlo. Ahora es un Esbirro malvado. Así solo habrá una ficha de Esbirro en la bolsa y al menos un jugador bueno estará junto al Demonio."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Demonio aprende quién es la Marioneta.",
+      "textEs": "Durante la primera noche, marca con ES LA MARIONETA a un jugador bueno sentado junto al Demonio. Despierta al Demonio, señala al jugador marcado y muéstrale la ficha de Marioneta. Vuelve a dormirlo."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-4",
+      "mentionedCharacterIds": [
+        "drunk"
+      ],
+      "requiredCharacterIds": [
+        "drunk"
+      ],
+      "decision": "keep",
+      "reason": "El Borracho aparece en el guion y es la comparación oficial para simular la habilidad falsa.",
+      "textEs": "Trata a la Marioneta como si estuviera borracha. Despiértala cuando despertaría el personaje bueno que cree ser; puede recibir información falsa y no despierta durante el paso de información de Esbirros."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "La Marioneta roba una ficha de Aldeano o Forastero y no sabe que en realidad es un Esbirro. Está sentada junto al Demonio, sin jugadores entre ambos; el Demonio sabe quién es.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3",
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "La primera noche, la Marioneta no despierta para conocer a los demás malvados y los otros Esbirros no aprenden quién es la Marioneta.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "La habilidad buena que la Marioneta cree tener no funciona, aunque el Narrador finge que sí; funciona igual que la del Borracho.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      },
+      {
+        "textEs": "La Marioneta se registra como malvada y como Esbirro.",
+        "sourceUnits": [
+          "summary-7"
+        ]
+      },
+      {
+        "textEs": "La Marioneta no despierta por habilidades que confirmarían que es Esbirro, como las de Snitch, Preacher, Lil' Monsta, Poppy Grower, Sombrerero o Damsel.",
+        "sourceUnits": [
+          "summary-8"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Eres como un Borracho malvado: una pista que no encaja o una habilidad fallida puede revelar que no eres bueno. Las detecciones de alineamiento te ven malvado y ayudan a descubrirte, pero también al pueblo: cuidado con pedirlas. Si un vecino te revela Marioneta, tómalo en serio aunque pueda mentir; exponerlo y dar la victoria buena también te haría perder.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "No cuentes a Aldeanos tu sospecha: podrían localizar al Demonio entre tus vecinos. Evita nominarlos o votarlos salvo pruebas sólidas. Confirmar otro tipo de Esbirro descarta Marioneta si solo hay uno; con varios necesitas identificar a todos. Busca al Demonio con empeño: demostrar que está lejos te descarta como Marioneta, y si sí lo eres puede apartar sospechas de tu Demonio vecino.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-5",
+          "tips-6",
+          "tips-7",
+          "tips-8"
+        ]
+      },
+      {
+        "textEs": "Si sospechas Marioneta y los vecinos no hablan, diles que ellos son tu Marioneta para leer reacciones: los malvados saben que es falso y los buenos deben decidir si creerte. Si estás convencido, protege al Demonio y haz parecer correctos tus datos para evitar que el pueblo te use para localizarlo; como supuesto Erudito, da uno verdadero y otro falso cada día.",
+        "sourceUnits": [
+          "tips-9",
+          "tips-10"
+        ]
+      },
+      {
+        "textEs": "Como Demonio puedes revelar pronto a la Marioneta quién es para que te proteja y no te exponga al fallar su habilidad. O mantenla ignorante si el pueblo confía en ella: puede liderar lejos de ti y ganar sin saber por qué. También puedes decir a ambos vecinos buenos que son tu Marioneta, asegurando a cada uno que el otro es engañado: quizá guarden secreto y actúen contra buenos mientras lo resuelven, pero prepara cómo escapar si te descubren.",
+        "sourceUnits": [
+          "tips-11",
+          "tips-12"
+        ]
+      },
+      {
+        "textEs": "Como Esbirro puedes decir a vecinos buenos que son tus Marionetas para confundirlos sin perder la partida por tu ejecución. Como bueno puedes usar ese farol con un vecino poco colaborador para lograr colaboración y datos; confiesa antes del final para que ayude a los buenos.",
+        "sourceUnits": [
+          "tips-13",
+          "tips-14"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "textEs": "Marianna es la Marioneta, pero cree ser el Enterrador. Cada noche aprende quién fue ejecutado ese día, aunque su información a menudo es incorrecta. A mitad de la partida, el Demonio le cuenta que es la Marioneta.",
+        "sourceUnits": [
+          "examples-1"
+        ]
+      },
+      {
+        "textEs": "Lachlan es el Demonio. Le dice a Sarah que ella es la Marioneta, pero miente: no hay ninguna Marioneta en juego.",
+        "sourceUnits": [
+          "examples-2"
+        ]
+      }
+    ],
+    "bluffing": [],
+    "howToRun": [
+      {
+        "textEs": "Durante la preparación, antes de poner fichas en la bolsa, retira la ficha de Marioneta y añade una ficha de Aldeano.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Si hay tres Esbirros en juego, retira otra ficha de Esbirro y añade otra ficha de Aldeano. Durante la primera noche, intercambia la ficha de personaje de un jugador bueno por una ficha de Esbirro que no esté en juego. Despierta a ese jugador, muéstrale TÚ ERES y la ficha de su nuevo personaje; después muéstrale TÚ ERES y haz un gesto hacia abajo. Vuelve a dormirlo. Ahora es un Esbirro malvado. Así solo habrá una ficha de Esbirro en la bolsa y al menos un jugador bueno estará junto al Demonio.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      },
+      {
+        "textEs": "Durante la primera noche, marca con ES LA MARIONETA a un jugador bueno sentado junto al Demonio. Despierta al Demonio, señala al jugador marcado y muéstrale la ficha de Marioneta. Vuelve a dormirlo.",
+        "sourceUnits": [
+          "howtorun-3"
+        ]
+      },
+      {
+        "textEs": "Trata a la Marioneta como si estuviera borracha. Despiértala cuando despertaría el personaje bueno que cree ser; puede recibir información falsa y no despierta durante el paso de información de Esbirros.",
+        "sourceUnits": [
+          "howtorun-4"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

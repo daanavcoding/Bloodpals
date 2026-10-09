@@ -1,0 +1,365 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "harpy",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Harpy",
+    "revision": "oldid=3103",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "La Harpía crea discordia y desconfianza entre los jugadores buenos."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "La Harpía elige un jugador cada vez, no dos simultáneamente.",
+      "textEs": "La Harpía elige a los dos jugadores de uno en uno, no a la vez."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Duración del efecto de la habilidad.",
+      "textEs": "El jugador elegido por la Harpía queda afectado hasta que la Harpía vuelva a elegir."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Narrador decide si muere uno, ambos o ninguno de los objetivos.",
+      "textEs": "Si el Narrador decide matar mediante la habilidad de la Harpía, no tiene que matar a los dos. Puede matar solo a uno o a ninguno."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Puede elegir jugadores muertos, aunque estos no pueden morir de nuevo.",
+      "textEs": "La Harpía puede elegir a un jugador muerto. En ese caso, el Narrador puede matar solo al jugador vivo, porque los muertos no pueden morir otra vez."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El Narrador decide el orden de las muertes.",
+      "textEs": "Si el orden importa, el Narrador puede elegir en qué orden ocurren las muertes causadas por la habilidad de la Harpía."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para repetir la misma pareja de objetivos.",
+      "textEs": "Elige a los mismos dos jugadores cada noche. El esfuerzo continuo de un jugador bueno por hacer que otro parezca malvado puede desviar al equipo bueno. La atención constante sobre sus discusiones también puede acabar provocando la muerte de uno o ambos sin que nadie sepa que tú lo causaste."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para hacer que un objetivo cambie de acusación.",
+      "textEs": "Elige siempre al mismo primer jugador. Tendrá que cambiar cada vez a quién acusa y perderá credibilidad, sobre todo si nadie más afirma haber sido elegido por la Harpía."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [
+        "fortune-teller"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo de la Adivina, ausente; se conserva la estrategia general de escoger objetivos distintos para dificultar saber si alguien habla por la locura.",
+      "textEs": "Elige jugadores diferentes cada noche. Tras el primer día, el grupo sabrá que hay una Harpía, pero no podrá estar seguro de si alguien cree de verdad que otro es malvado o si lo dice por la locura que le impusiste. Tu Demonio podría pasar inadvertido o defenderse diciendo que una acusación contra él se debe a la Harpía."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se restaura la cautela: el primer objetivo muerto puede provocar la muerte del segundo vivo al romper la locura.",
+      "textEs": "Elige a un jugador muerto de confianza y haz que esté loco creyendo que un jugador vivo es malvado. Las opiniones de los muertos sobre a quién ejecutar suelen tener más peso, así que quizá consigas que ejecuten al segundo objetivo. El muerto no puede arriesgarse a romper la locura salvo que quiera que muera el jugador vivo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "vigormortis",
+        "fang-gu"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del Vigormortis y el Fang Gu, ausentes; se conserva la táctica general de elegir a un jugador muerto como segundo objetivo.",
+      "textEs": "Elige a un jugador muerto como segundo objetivo. Puede ser muy difícil que alguien convenza sinceramente al grupo de que un jugador muerto al principio era malvado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para variar entre objetivos buenos y malvados.",
+      "textEs": "Elegir jugadores malvados también puede ayudar a tu equipo. Si solo eliges buenos, el grupo quizá concluya que todos los elegidos son buenos y empiece a ejecutar a quienes nunca fueron elegidos por la Harpía."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para el tramo final y para evitar que ambos objetivos muertos rompan la locura sin riesgo.",
+      "textEs": "Normalmente no conviene elegir jugadores malvados al final, especialmente el último día. Suele ayudar más que un jugador bueno presione a otro bueno y distraiga del Demonio. El último día, elige al menos a un jugador vivo: si ambos objetivos están muertos, el primero puede romper la locura sin riesgo de morir."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para elegir al Demonio y el riesgo de una ruptura de locura.",
+      "textEs": "Elige a tu Demonio. Es poco probable que el Narrador use tu habilidad para matarlo, así que quizá salga indemne. Pero si es tu segundo objetivo, el primer jugador podría romper la locura y el grupo quizá se pregunte por qué el Demonio no murió por ello."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para acelerar la partida con la ayuda del Narrador.",
+      "textEs": "Si tu equipo necesita acelerar la partida, elígete a ti mismo y cuéntale el plan al Narrador. Si quieres que mate a los dos, avísale de antemano para que pueda ayudar a tu equipo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [
+        "saint"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Santo, ausente; se conserva la táctica general de fingir que la Harpía te eligió para explicar un comportamiento sospechoso.",
+      "textEs": "Miente y di que la Harpía te eligió para explicar por qué tus votos han parecido extraños."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-11",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para ocultar que hay una Harpía.",
+      "textEs": "Una buena forma de ocultar que hay una Harpía es elegirte a ti mismo. Solo una persona a la vez sabe que la habilidad la afecta; tú tienes la mejor oportunidad de mantener la locura con sutileza y hacer que quien diga haber sido elegido después parezca sospechoso."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-12",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para fingir una selección distinta y crear un conflicto.",
+      "textEs": "A veces conviene afirmar que la Harpía te eligió aunque en realidad eligieras a otra persona. Te enfrentarás directamente al primer jugador elegido y generarás dudas sobre quién fue seleccionado; si vuelves a elegir a esa persona, quizá también intente que maten a ambos objetivos."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "monk",
+        "engineer",
+        "investigator"
+      ],
+      "requiredCharacterIds": [
+        "monk",
+        "engineer"
+      ],
+      "decision": "omit",
+      "reason": "Aunque el Investigador esté en el guion, la causalidad depende del Monje y el Ingeniero, ausentes."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "oracle",
+        "alchemist"
+      ],
+      "requiredCharacterIds": [
+        "oracle",
+        "alchemist"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Oráculo y el Alquimista, ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "farmer"
+      ],
+      "requiredCharacterIds": [
+        "farmer"
+      ],
+      "decision": "keep",
+      "reason": "El Granjero aparece en el guion y el ejemplo es aplicable a la habilidad de la Harpía.",
+      "textEs": "La Harpía elige al Granjero. Como no tiene información propia que pueda usar para insinuar que el otro jugador es malvado, busca información que descarte a los demás jugadores vivos y deja al objetivo como último candidato a Demonio, implicando que es malvado."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se aclara que la Harpía, no el Narrador, elige los objetivos.",
+      "textEs": "Cada noche, despierta a la Harpía. La Harpía señala primero a un jugador y después a otro. Marca al primero con LOCO y al segundo con SEGUNDO. Vuelve a dormir a la Harpía. Despierta al jugador marcado LOCO, muéstrale la ficha ESTE PERSONAJE TE HA ELEGIDO y luego la ficha de Harpía; después señala al jugador marcado SEGUNDO y vuelve a dormir al primero."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Traducción completa de How to Run 2. Son muertes, no ejecuciones; no se añade terminar el día ni pasar a la noche.",
+      "textEs": "Al día siguiente, si el jugador marcado LOCO no está loco creyendo que el jugador marcado SEGUNDO es malvado, puedes matar a uno de los dos jugadores o a ambos."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "La Harpía crea discordia y desconfianza entre los jugadores buenos. Elige a los dos objetivos de uno en uno, no a la vez; la habilidad los afecta hasta su siguiente elección.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Si el Narrador decide matar mediante la habilidad de la Harpía, no tiene que matar a los dos. Puede matar solo a uno o a ninguno.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "La Harpía puede elegir a un jugador muerto. En ese caso, el Narrador puede matar solo al jugador vivo, porque los muertos no pueden morir otra vez.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      },
+      {
+        "textEs": "Si el orden importa, el Narrador puede elegir en qué orden ocurren las muertes causadas por la habilidad de la Harpía.",
+        "sourceUnits": [
+          "summary-6"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Puedes repetir ambos objetivos para desviar al equipo hacia sus disputas y quizá provocar muertes sin que sepan que fuiste tú. Repetir solo al primero mientras cambia la acusación puede restarle credibilidad, especialmente si nadie más dice estar afectado. O cambia ambos cada noche: sabrán que hay Harpía, pero dudarán de qué acusaciones son sinceras; el Demonio puede ocultarse o atribuir una acusación a la locura.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "Un muerto de confianza como primero puede influir más en la ejecución del vivo, pero romper la locura arriesga la muerte de ese vivo. Elegir al muerto como segundo dificulta argumentar sinceramente que alguien muerto al principio era malvado.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-5"
+        ]
+      },
+      {
+        "textEs": "Elegir algún malvado evita que crean buenos a todos los afectados y ejecuten al resto; al final suele ayudar más presionar a un bueno contra otro para distraer del Demonio. El último día elige al menos un vivo, pues dos muertos rompen locura sin riesgo. El Demonio probablemente no muera por tu habilidad, pero como segundo puede generar sospechas si el primero rompe locura y sobrevive. Para acelerar, elígete y comunica al Narrador si quieres que mate a ambos.",
+        "sourceUnits": [
+          "tips-6",
+          "tips-7",
+          "tips-8",
+          "tips-9"
+        ]
+      },
+      {
+        "textEs": "Puedes mentir que te eligió la Harpía para explicar votos raros. Elegirte realmente permite mantener una locura sutil y ocultar la habilidad, haciendo sospechosos a afectados posteriores. O reclama haber sido elegido cuando afectaste a otro: disputa quién fue seleccionado; repetirlo quizá lo anime a que mueran él y su objetivo.",
+        "sourceUnits": [
+          "tips-10",
+          "tips-11",
+          "tips-12"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "textEs": "La Harpía elige al Granjero. Como no tiene información propia que pueda usar para insinuar que el otro jugador es malvado, busca información que descarte a los demás jugadores vivos y deja al objetivo como último candidato a Demonio, implicando que es malvado.",
+        "sourceUnits": [
+          "examples-3"
+        ]
+      }
+    ],
+    "bluffing": [],
+    "howToRun": [
+      {
+        "textEs": "Cada noche, despierta a la Harpía. La Harpía señala primero a un jugador y después a otro. Marca al primero con LOCO y al segundo con SEGUNDO. Vuelve a dormir a la Harpía. Despierta al jugador marcado LOCO, muéstrale la ficha ESTE PERSONAJE TE HA ELEGIDO y luego la ficha de Harpía; después señala al jugador marcado SEGUNDO y vuelve a dormir al primero.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Al día siguiente, si el jugador marcado LOCO no está loco creyendo que el jugador marcado SEGUNDO es malvado, puedes matar a uno de los dos jugadores o a ambos.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

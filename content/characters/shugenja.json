@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "shugenja",
+  "nameOriginal": "Shugenja",
+  "nameEs": "Shugenja",
+  "abilityEs": "Empiezas sabiendo si el jugador malvado más cercano a ti está en sentido horario o antihorario. Si el más cercano está a la misma distancia en ambos sentidos, la información es arbitraria.",
+  "icon": "assets/images/characters/shugenja.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Shugenja",
+    "revision": "oldid=1942",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/1/11/Icon_shugenja.png"
+}

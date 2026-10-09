@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "flowergirl",
+  "nameOriginal": "Flowergirl",
+  "nameEs": "Florista",
+  "abilityEs": "Cada noche*, aprendes si hoy ha votado algún Demonio.",
+  "icon": "assets/images/characters/flowergirl.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Flowergirl",
+    "revision": "oldid=2907",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/a/ac/Icon_flowergirl.png"
+}

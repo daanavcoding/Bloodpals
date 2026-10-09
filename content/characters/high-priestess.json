@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "high-priestess",
+  "nameOriginal": "High Priestess",
+  "nameEs": "Suma Sacerdotisa",
+  "abilityEs": "Cada noche, aprendes con qué jugador cree el Narrador que más deberías hablar.",
+  "icon": "assets/images/characters/high-priestess.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/High_Priestess",
+    "revision": "oldid=1994",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/6/63/Icon_highpriestess.png"
+}

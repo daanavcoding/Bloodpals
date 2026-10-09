@@ -1,0 +1,340 @@
+{
+  "reviewStatus": "reviewed",
+  "slug": "anonymous-cult-dishonesty",
+  "title": "Anonymous Cult Dishonesty",
+  "author": "Gamepals",
+  "version": null,
+  "credit": "© Steven Medway, bloodontheclocktower.com",
+  "sourcePdf": "inputs/originals/Anonymous Cult Dishonesty.pdf",
+  "notes": [
+    "* Indica que la habilidad se activa todas las noches excepto la primera.",
+    "«Estar loco» por algo significa intentar convencer al grupo de que es verdad, aunque no lo sea; el Narrador decide si lo fingiste bien.",
+    "Ateo: sin personajes malvados.",
+    "Padrino: -1 o +1 Forastero."
+  ],
+  "playerCounts": {
+    "players": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15+"
+    ],
+    "rows": [
+      {
+        "label": "Aldeanos",
+        "values": [
+          3,
+          3,
+          5,
+          5,
+          5,
+          7,
+          7,
+          7,
+          9,
+          9,
+          9
+        ]
+      },
+      {
+        "label": "Forasteros",
+        "values": [
+          0,
+          1,
+          0,
+          1,
+          2,
+          0,
+          1,
+          2,
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "label": "Esbirros",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3
+        ]
+      },
+      {
+        "label": "Demonios",
+        "values": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  "nightSequence": {
+    "firstNight": [
+      {
+        "label": "Anochecer",
+        "text": "Inicia la Fase Nocturna."
+      },
+      {
+        "label": "Información de los Esbirros",
+        "text": "Si hay 7 o más jugadores, despierta a los Esbirros salvo la Marioneta. Muestra «ESTE ES EL DEMONIO» y señala al Demonio. Muestra «ESTOS SON TUS ESBIRROS» y señala a los demás Esbirros, sin revelar la Marioneta."
+      },
+      {
+        "label": "Información del Demonio",
+        "text": "Si hay 7 o más jugadores, despierta al Demonio. Muestra «ESTOS SON TUS ESBIRROS» y señala a todos los Esbirros. Muestra «ESTE PERSONAJE NO ESTÁ EN JUEGO» y enseña 3 fichas de personaje bueno que no estén en juego."
+      },
+      {
+        "label": "Marioneta",
+        "text": "Despierta al Demonio. Muestra las fichas «ESTE JUGADOR ES» y la de Marioneta. Señala a la Marioneta."
+      },
+      {
+        "label": "Lleech",
+        "text": "El Lleech elige a un jugador."
+      },
+      {
+        "label": "Padrino",
+        "text": "Muestra las fichas de personaje de todos los Forasteros en juego."
+      },
+      {
+        "label": "Cerenovus",
+        "text": "El Cerenovus elige a un jugador y un personaje Aldeano o Forastero. Duerme al Cerenovus. Despierta al objetivo y muestra «ESTE PERSONAJE TE HA ELEGIDO», Cerenovus y el personaje que debe fingir."
+      },
+      {
+        "label": "Harpía",
+        "text": "La Harpía elige a 2 jugadores. Duerme a la Harpía. Despierta al primer objetivo. Muestra «ESTE PERSONAJE TE HA ELEGIDO», la ficha de Harpía y luego señala al segundo objetivo."
+      },
+      {
+        "label": "Duende",
+        "text": "Muestra la ficha de personaje de Aldeano marcado LOCO."
+      },
+      {
+        "label": "Investigador",
+        "text": "Muestra la ficha de personaje Esbirro. Señala tanto al jugador ESBIRRO como al EQUIVOCADO."
+      },
+      {
+        "label": "Abuela",
+        "text": "Señala al jugador nieto y muestra su ficha de personaje."
+      },
+      {
+        "label": "Shugenja",
+        "text": "Apunta en sentido horario o antihorario."
+      },
+      {
+        "label": "Líder del Culto",
+        "text": "El Líder del Culto podría cambiar de alineamiento. Si es así, muestra la ficha de información TÚ ERES y haz una señal con el pulgar."
+      },
+      {
+        "label": "Ogro",
+        "text": "El Ogro elige a un jugador."
+      },
+      {
+        "label": "Suma Sacerdotisa",
+        "text": "Señala a un jugador."
+      },
+      {
+        "label": "Amanecer",
+        "text": "Espera unos segundos. Termina la Fase Nocturna."
+      }
+    ],
+    "otherNights": [
+      {
+        "label": "Anochecer",
+        "text": "Inicia la Fase Nocturna."
+      },
+      {
+        "label": "Cerenovus",
+        "text": "El Cerenovus elige a un jugador y un personaje Aldeano o Forastero. Duerme al Cerenovus. Despierta al objetivo y muestra «ESTE PERSONAJE TE HA ELEGIDO», Cerenovus y el personaje que debe fingir."
+      },
+      {
+        "label": "Harpía",
+        "text": "La Harpía elige a 2 jugadores. Duerme a la Harpía. Despierta al primer objetivo. Muestra «ESTE PERSONAJE TE HA SELECCIONADO A TI», la ficha de Harpía y luego señala al segundo objetivo."
+      },
+      {
+        "label": "Mujer Escarlata",
+        "text": "Si la Mujer Escarlata se convierte en Demonio hoy, muéstrale la ficha TÚ ERES y luego la ficha del Demonio."
+      },
+      {
+        "label": "Ojo",
+        "text": "El Ojo elige un personaje."
+      },
+      {
+        "label": "Lleech",
+        "text": "El Lleech elige a un jugador."
+      },
+      {
+        "label": "Padrino",
+        "text": "Si un Forastero muere hoy, el Padrino elige a un jugador."
+      },
+      {
+        "label": "Sombrerero",
+        "text": "Si el Sombrerero murió hoy o esta noche, despierta a los Esbirros y al Demonio. Cada uno puede conservar su personaje o elegir otro de su mismo tipo, sin duplicar personajes. Si cambian, muéstrales TÚ ERES y su nueva ficha. La Marioneta no despierta por esta habilidad."
+      },
+      {
+        "label": "Barbero",
+        "text": "Si el Barbero murió hoy o esta noche, muestra al Demonio las fichas «ESTE PERSONAJE TE HA ELEGIDO» y Barbero. Si el Demonio eligió a 2 jugadores, despiértalos uno a uno. Muestra TÚ ERES y su nueva ficha de personaje."
+      },
+      {
+        "label": "Adorable",
+        "text": "Si la Adorable muere, un jugador se emborracha inmediatamente. Si aún no lo has hecho, hazlo ahora."
+      },
+      {
+        "label": "Banshee",
+        "text": "Si el Demonio mató a la Banshee esta noche y su habilidad estaba activa, anuncia que se ha activado. Si no tenía su habilidad, no hagas el anuncio."
+      },
+      {
+        "label": "Granjero",
+        "text": "Si el Granjero murió esta noche, despierta a un jugador bueno vivo. Muestra la ficha de información TÚ ERES y una ficha de Granjero."
+      },
+      {
+        "label": "Abuela",
+        "text": "Si el nieto es asesinado por el Demonio, la Abuela también muere."
+      },
+      {
+        "label": "Enterrador",
+        "text": "Si un jugador murió por ejecución hoy, despierta al Enterrador y muéstrale la ficha del personaje que tenía."
+      },
+      {
+        "label": "Florista",
+        "text": "Asiente o niega con la cabeza."
+      },
+      {
+        "label": "Líder del Culto",
+        "text": "El Líder del Culto podría cambiar de alineamiento. Si es así, muestra la ficha de información TÚ ERES y haz una señal con el pulgar."
+      },
+      {
+        "label": "Suma Sacerdotisa",
+        "text": "Señala a un jugador."
+      },
+      {
+        "label": "Amanecer",
+        "text": "Espera unos segundos. Termina la Fase Nocturna."
+      }
+    ]
+  },
+  "characters": [
+    {
+      "id": "investigator",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "grandmother",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "shugenja",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "pixie",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "high-priestess",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "flowergirl",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "undertaker",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "savant",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "farmer",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "banshee",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "alsaahir",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "atheist",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "cult-leader",
+      "category": "Aldeanos"
+    },
+    {
+      "id": "ogre",
+      "category": "Forasteros"
+    },
+    {
+      "id": "sweetheart",
+      "category": "Forasteros"
+    },
+    {
+      "id": "drunk",
+      "category": "Forasteros"
+    },
+    {
+      "id": "barber",
+      "category": "Forasteros"
+    },
+    {
+      "id": "hatter",
+      "category": "Forasteros"
+    },
+    {
+      "id": "harpy",
+      "category": "Esbirros"
+    },
+    {
+      "id": "marionette",
+      "category": "Esbirros"
+    },
+    {
+      "id": "cerenovus",
+      "category": "Esbirros"
+    },
+    {
+      "id": "scarlet-woman",
+      "category": "Esbirros"
+    },
+    {
+      "id": "godfather",
+      "category": "Esbirros"
+    },
+    {
+      "id": "ojo",
+      "category": "Demonios"
+    },
+    {
+      "id": "lleech",
+      "category": "Demonios"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "savant",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Savant",
+    "revision": "oldid=2910",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Erudito recibe información extraordinaria, distinta cada día y cada partida, pero exactamente la mitad es falsa."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre quién elige la información.",
+      "textEs": "Cada día, el Narrador elige dos datos para comunicar al Erudito. Uno debe ser verdadero y otro falso; el Erudito no sabe cuál es cuál."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre la conversación con el Narrador.",
+      "textEs": "Es el Erudito quien debe acercarse al Narrador, no al revés. La conversación es privada y el grupo no puede escucharla."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "El personaje puede renunciar a recibir información ese día.",
+      "textEs": "El Erudito puede decidir no visitar al Narrador."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Efecto de borrachera o envenenamiento.",
+      "textEs": "Si está borracho o envenenado, el Erudito puede recibir dos datos verdaderos o dos falsos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [
+        "mutant"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Mutante, ausente; se conserva el consejo de escoger una afirmación y razonar a partir de ella como mejor hipótesis.",
+      "textEs": "Cada día recibirás un dato verdadero y otro falso. Una forma sencilla de usarlos es elegir cuál crees que es verdadero y razonar a partir de él. Puede que te equivoques, pero habrás hecho tu mejor conjetura."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se restaura el ejemplo aplicable completo de Tips 2, sin personajes concretos ausentes.",
+      "textEs": "Si demuestras que uno de tus datos es verdadero, el otro es falso; si demuestras que uno es falso, el otro debe ser verdadero. Por ejemplo, si aprendes que el Esbirro tiene el pelo rubio o que hay tres Forasteros, y todo indica que el Esbirro está muerto pero ningún muerto tiene el pelo rubio, puedes concluir que hay tres Forasteros."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se restaura la comprobación, condición y resultado del ejemplo genérico oficial de Tips 3.",
+      "textEs": "A veces puedes comprobar deliberadamente si un dato es verdadero o falso. Por ejemplo, recibes que el Demonio lleva una camisa con cuello o que todos los jugadores del sofá negro son buenos. Si ejecutas a todos los que llevan una camisa con cuello y el Demonio sigue matando de noche, sabes que el primer dato era falso y que los del sofá negro son buenos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [
+        "witch"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo de la Bruja, ausente del guion; se conserva la advertencia general de que la negación lógica de una afirmación falsa no siempre es verdadera.",
+      "textEs": "La información falsa también sirve si sabes que es falsa, pero ten cuidado al invertir una afirmación. Si un dato es falso, no siempre es correcto afirmar lo contrario: quizá la habilidad o el personaje mencionado no esté en juego o no haya actuado."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [
+        "snake-charmer",
+        "clockmaker"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de la Encantadora de Serpientes y el Relojero, ausentes; se conserva la estrategia de comparar información de distintos días.",
+      "textEs": "Cada día recibes dos datos, y aunque al principio sea difícil decidir cuál es verdadero, puedes comparar la información posterior con la anterior para llegar a conclusiones firmes."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se conservan las alternativas originales: buena memoria, anotación secreta o permiso del Narrador. No se convierte el permiso en condición de todas las alternativas.",
+      "textEs": "Cuenta al grupo tu información cada día para que te ayude a recordarla: puede ser difícil retener todo cuando avanzan los días. Otra opción es guardar silencio unos días y revelarlo todo junto, si tienes muy buena memoria o puedes apuntarlo en secreto, ya sea sin que el Narrador se entere o con su permiso."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [
+        "sage",
+        "clockmaker",
+        "seamstress",
+        "witch",
+        "cerenovus",
+        "mutant",
+        "evil-twin",
+        "vortox"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de personajes ausentes; se conserva la estrategia general de sobrevivir para reunir información y revelarla a tiempo.",
+      "textEs": "Para reunir tanta información como puedas, intenta sobrevivir varios días. Cuanto más vivas, más datos tendrás con los que razonar, pero no esperes demasiado: si la partida cambia deprisa, revela lo que sabes a tiempo para ayudar al equipo bueno."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se restauran los dos ejemplos lingüísticos oficiales, ambos aplicables sin personajes ausentes.",
+      "textEs": "Recuerda las palabras exactas del Narrador: pequeños cambios pueden tener grandes consecuencias. Debe darte información útil sin hacer la partida injusta para los malvados, así que suele elegir sus palabras con cuidado. «Todos los Esbirros están en el sofá azul» no significa «todos los del sofá azul son Esbirros». Tampoco es lo mismo «el Demonio lleva gafas» que «el Demonio es alguien que usa gafas»: puede quitárselas sin que lo veas."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre visitar al Narrador cada día y el riesgo de revelar el personaje.",
+      "textEs": "Visita al Narrador cada día para recibir tanta información como puedas. Cuantos más días lo hagas, más sabrás, pero también aumentará la probabilidad de que el Demonio te mate, incluso si no has revelado públicamente que eres el Erudito."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [
+        "investigator"
+      ],
+      "requiredCharacterIds": [
+        "investigator"
+      ],
+      "decision": "keep",
+      "reason": "El Investigador aparece en el guion y el ejemplo explica el valor de información más acotada al final.",
+      "textEs": "También puedes esperar unos días antes de visitar al Narrador. Recibirás menos información, pero quizá vivas más y lo que aprendas será más útil. Con solo tres, cuatro o cinco jugadores vivos, cada afirmación se refiere a menos personas; saber que uno de dos es un Esbirro resulta especialmente útil cuando quedan tres."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo basado en características de jugadores y no en personajes ajenos al guion.",
+      "textEs": "El Erudito aprende que «todos los jugadores con gafas son buenos» y que «un jugador sentado en el sofá negro es un Esbirro»."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "snake-charmer"
+      ],
+      "requiredCharacterIds": [
+        "snake-charmer"
+      ],
+      "decision": "omit",
+      "reason": "Una de las dos afirmaciones depende de la Encantadora de Serpientes, ausente del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo genérico sobre información de alineamiento y apariencia.",
+      "textEs": "El Erudito aprende que «el Demonio es una mujer» y que «Benjamin es malvado»."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Ejemplo genérico sobre alineamientos y recuento de Forasteros.",
+      "textEs": "El Erudito aprende que «Evin y Amy tienen el mismo alineamiento» y que «hay un Forastero en juego»."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [
+        "clockmaker"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Relojero, ausente; se conserva el consejo de que las afirmaciones sencillas son más fáciles de sostener.",
+      "textEs": "Mantén la información sencilla. Así será más fácil no contradecirte y también le resultará más fácil al equipo bueno seguir tu argumento, lo que te permite debilitarlo con más eficacia."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de saturar al grupo con afirmaciones difíciles de resolver.",
+      "textEs": "También puedes dar información compleja y confusa. Puede ser más difícil de manejar, pero enredar al equipo bueno mientras intenta descifrarla aparta su atención de los demás malvados."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre pedir orientación al Narrador.",
+      "textEs": "Pide al Narrador ideas sobre qué tipo de información daría. De todos modos tendrás que hablar con él cada día; cada Narrador tiene su propio estilo y puede sugerirte temas como personajes en juego, alineamientos o zonas de la sala."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [
+        "town-crier"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitó el ejemplo del Pregonero, ausente; se conserva la advertencia general de evitar afirmaciones demasiado específicas que puedan refutarse.",
+      "textEs": "No seas demasiado específico: las afirmaciones concretas se pueden refutar con facilidad y podrían obligarte a que tu otra afirmación sea verdadera cuando eso perjudique a tu equipo."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [
+        "no-dashii",
+        "oracle"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos del No Dashii y el Oráculo, ausentes; se conserva la estrategia general de ocultar la verdad entre dos afirmaciones.",
+      "textEs": "Puedes dar dos afirmaciones falsas o dos verdaderas. La información que sabes cierta sobre tu equipo no es algo que quieras revelar; puedes ocultarla mezclándola con algo que el grupo crea verdadero o sembrar sospechas con dos afirmaciones falsas sobre jugadores buenos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [
+        "dreamer",
+        "philosopher"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de la Soñadora y el Filósofo, ausentes; se conserva la táctica de enfrentar a jugadores buenos con afirmaciones incompatibles.",
+      "textEs": "Usa tu información para enfrentar a jugadores buenos entre sí. Puedes compartir afirmaciones que no puedan ser ciertas a la vez y sembrar dudas sobre sus historias; así proteges al equipo malvado y mantienes al grupo confundido."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para dirigir la conclusión sin revelar al Demonio.",
+      "textEs": "Da información que conduzca al resultado que te conviene. Puedes superponer dos afirmaciones para que, sea cual sea la que el grupo considere falsa, ambas eviten que sospechen del Demonio."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento de conversación privada diario.",
+      "textEs": "Una vez al día, si el Erudito pide hablar en privado contigo, llévalo fuera del círculo para que nadie pueda oírlo. Susúrrale dos datos: uno verdadero y otro falso. Si no se te ocurren enseguida, tómate un momento o pídele que vuelva dentro de unos minutos."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Orientación completa sobre la calidad y el alcance de la información.",
+      "textEs": "Procura que la información sea útil y esté relacionada con la partida. Evita decir exactamente quién es el Demonio, o la partida podría acabar demasiado pronto. Si necesitas ideas, ofrece información parecida a la que darían las habilidades de los Aldeanos."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "Cada día, el Narrador elige dos datos extraordinarios, distintos cada día y cada partida: uno debe ser verdadero y el otro falso, pero no sabes cuál es cuál. Debes acercarte tú al Narrador; la conversación es privada y el grupo no puede oírla. Puedes decidir no visitarlo.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3",
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Si está borracho o envenenado, el Erudito puede recibir dos datos verdaderos o dos falsos.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Puedes elegir cuál dato crees verdadero y razonar a partir de él, aunque te equivoques. Demostrar uno verdadero hace falso al otro, y viceversa; también puedes ponerlo a prueba. Si el Esbirro está muerto y ningún muerto es rubio, entre «el Esbirro es rubio» y «hay tres Forasteros» concluyes lo segundo. Si ejecutas a todos los de camisa con cuello y el Demonio sigue matando, entre «lleva esa camisa» y «todos los del sofá negro son buenos» concluyes lo segundo.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "Una falsedad conocida aporta tanto como una verdad, pero invertirla literalmente puede fallar: quizá el personaje o la habilidad mencionados no estén en juego o no hayan actuado. Comparar los dos datos diarios con los de días posteriores puede resolver dudas y dar conclusiones firmes.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-5"
+        ]
+      },
+      {
+        "textEs": "Cuenta al grupo tu información cada día para que te ayude a recordarla: puede ser difícil retener todo cuando avanzan los días. Otra opción es guardar silencio unos días y revelarlo todo junto, si tienes muy buena memoria o puedes apuntarlo en secreto, ya sea sin que el Narrador se entere o con su permiso.",
+        "sourceUnits": [
+          "tips-6"
+        ]
+      },
+      {
+        "textEs": "Sobrevive para reunir más datos, pero revélalos a tiempo si la partida cambia deprisa. Visitar al Narrador cada día aumenta la información y el riesgo de que el Demonio te ataque aunque no te hayas revelado. O espera unos días: tendrás menos datos, pero quizá vivas más y sean más concretos con tres, cuatro o cinco vivos; saber que uno de dos es Esbirro destaca especialmente entre los tres últimos.",
+        "sourceUnits": [
+          "tips-7",
+          "tips-9",
+          "tips-10"
+        ]
+      },
+      {
+        "textEs": "Recuerda las palabras exactas del Narrador: pequeños cambios pueden tener grandes consecuencias. Debe darte información útil sin hacer la partida injusta para los malvados, así que suele elegir sus palabras con cuidado. «Todos los Esbirros están en el sofá azul» no significa «todos los del sofá azul son Esbirros». Tampoco es lo mismo «el Demonio lleva gafas» que «el Demonio es alguien que usa gafas»: puede quitárselas sin que lo veas.",
+        "sourceUnits": [
+          "tips-8"
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "textEs": "El Erudito aprende que «todos los jugadores con gafas son buenos» y que «un jugador sentado en el sofá negro es un Esbirro».",
+        "sourceUnits": [
+          "examples-1"
+        ]
+      },
+      {
+        "textEs": "El Erudito aprende que «el Demonio es una mujer» y que «Benjamin es malvado».",
+        "sourceUnits": [
+          "examples-3"
+        ]
+      },
+      {
+        "textEs": "El Erudito aprende que «Evin y Amy tienen el mismo alineamiento» y que «hay un Forastero en juego».",
+        "sourceUnits": [
+          "examples-4"
+        ]
+      }
+    ],
+    "bluffing": [
+      {
+        "textEs": "Puedes dar información sencilla para mantener coherencia y que los buenos sigan tus argumentos, o compleja y confusa para ocuparlos descifrándola y apartarlos de los demás malvados, aunque sea más difícil de manejar.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2"
+        ]
+      },
+      {
+        "textEs": "Pide al Narrador ideas acordes a su estilo al hablar con él cada día, como personajes, alineamientos o zonas. Evita precisión fácil de refutar: podría obligarte a sostener otra afirmación perjudicial para tu equipo. Puedes dar dos datos falsos contra buenos o dos verdaderos, ocultando lo que sabes del equipo entre algo que el pueblo ya cree cierto.",
+        "sourceUnits": [
+          "bluffing-3",
+          "bluffing-4",
+          "bluffing-5"
+        ]
+      },
+      {
+        "textEs": "Da afirmaciones incompatibles para enfrentar a buenos, poner en duda sus historias y proteger a los malvados. O superpón datos que conduzcan al resultado buscado: sea cual sea el que crean falso, ambos pueden apartar sospechas del Demonio.",
+        "sourceUnits": [
+          "bluffing-6",
+          "bluffing-7"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Una vez al día, si el Erudito pide hablar en privado contigo, llévalo fuera del círculo para que nadie pueda oírlo. Susúrrale dos datos: uno verdadero y otro falso. Si no se te ocurren enseguida, tómate un momento o pídele que vuelva dentro de unos minutos.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Procura que la información sea útil y esté relacionada con la partida. Evita decir exactamente quién es el Demonio, o la partida podría acabar demasiado pronto. Si necesitas ideas, ofrece información parecida a la que darían las habilidades de los Aldeanos.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}

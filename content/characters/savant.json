@@ -1,0 +1,16 @@
+{
+  "reviewStatus": "reviewed",
+  "id": "savant",
+  "nameOriginal": "Savant",
+  "nameEs": "Erudito",
+  "abilityEs": "Cada día, puedes visitar al Narrador en privado para aprender dos cosas: una es cierta y la otra es falsa.",
+  "icon": "assets/images/characters/savant.webp",
+  "iconKind": "ai-generated",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Savant",
+    "revision": "oldid=2910",
+    "checkedAt": "2026-10-09",
+    "sourceUnit": "Summary ability"
+  },
+  "iconSource": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_savant.png"
+}

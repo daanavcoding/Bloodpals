@@ -1,0 +1,475 @@
+{
+  "reviewStatus": "reviewed",
+  "characterId": "pixie",
+  "source": {
+    "url": "https://wiki.bloodontheclocktower.com/Pixie",
+    "revision": "oldid=1955",
+    "checkedAt": "2026-10-09",
+    "sectionsPresent": [
+      "summary",
+      "howToRun",
+      "examples",
+      "tips",
+      "bluffing"
+    ]
+  },
+  "reviewUnits": [
+    {
+      "section": "summary",
+      "sourceUnit": "summary-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de Summary.",
+      "textEs": "El Duende finge ser el mismo personaje que otra persona."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Primer punto de Summary.",
+      "textEs": "La primera noche, el Duende aprende un Aldeano que está en juego. El Narrador elige cuál; el Duende no aprende qué jugador lo tiene."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Explicación de la locura y de cuándo se obtiene la habilidad.",
+      "textEs": "Si el Duende finge ser ese Aldeano, obtiene su habilidad cuando el Aldeano muere. Puede haber dicho en voz alta durante un día que era ese personaje, haberlo fingido cada día de la partida o haber acusado al verdadero Aldeano de mentir. El Narrador decide si convenció lo suficiente al grupo, es decir, si estaba «loco creyendo que era ese personaje»."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Aclaración sobre cuándo el Duende aprende que obtuvo la habilidad.",
+      "textEs": "Cuando muere el Aldeano, el Duende no recibe un aviso ni aprende que obtuvo una habilidad. Puede darse cuenta si empieza a despertar de noche para recibir información o si le piden que elija jugadores."
+    },
+    {
+      "section": "summary",
+      "sourceUnit": "summary-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Regla si cambia de personaje el Aldeano que el Duende había aprendido.",
+      "textEs": "Si el jugador que aprendió el Duende cambia de personaje y después muere, el Duende obtiene la habilidad del Aldeano que aprendió, no la del personaje nuevo."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para aprovechar la habilidad.",
+      "textEs": "Muéstrate lo más loco posible creyendo que eres el Aldeano que sabes que está en juego. Afirma ser ese personaje, comparte la información que tendría, di que usas su habilidad y acusa a menudo al otro jugador de mentir. Intenta que lo maten por cualquier medio; cuando muera, obtendrás su habilidad."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para mantener la locura a lo largo de la partida.",
+      "textEs": "Empieza a fingir ser el personaje duplicado desde el primer minuto del primer día y mantén la actuación cada día. Así será más fácil convencer al grupo y demostrar al Narrador que estabas loco."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre cuándo revelar la doble identidad.",
+      "textEs": "También puedes no decir nada durante unos días y mostrarte muy convencido de ser ese personaje el día que creas que puedes conseguir que lo ejecuten. Si el Narrador considera que llevabas tiempo fingiendo serlo y que tu actuación ayudó a que muriera, probablemente te conceda el beneficio de la locura y su habilidad."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo sobre revelar el personaje una vez obtenida su habilidad.",
+      "textEs": "Cuando hayas obtenido la habilidad del personaje duplicado, puedes revelar públicamente que eres el Duende. Ya tienes la nueva habilidad, así que úsala y cuenta que fingías ser ese personaje; quizá debas disculparte con el jugador bueno al que pusiste en aprietos."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Advertencia sobre romper la locura antes de obtener la habilidad.",
+      "textEs": "Si admites que eres el Duende antes de obtener la habilidad, dejarás de estar loco creyendo que eres el personaje duplicado y probablemente no la obtendrás. Mejor no lo digas."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo sobre hablar en privado y el riesgo de que el Narrador se entere.",
+      "textEs": "Si hablas en privado con el jugador duplicado y le dices que eres su Duende, quizá acepte que lo ejecuten. Pero, si el Narrador te oye decir que eres el Duende, dejarás de estar «loco» y no obtendrás su habilidad. Lo mismo ocurrirá si se lo cuentas a un jugador malvado y este se lo revela al Narrador."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-7",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre esforzarse activamente en la actuación.",
+      "textEs": "Esfuérzate activamente en mantener la locura. El Narrador quiere ver un intento sincero de convencer al grupo de que eres un personaje que no eres."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-8",
+      "mentionedCharacterIds": [
+        "investigator",
+        "undertaker",
+        "sage"
+      ],
+      "requiredCharacterIds": [
+        "investigator",
+        "undertaker"
+      ],
+      "decision": "partial",
+      "reason": "Se conservaron las estrategias para el Investigador y el Enterrador, presentes en el guion; se quitó la del Sabio, ausente.",
+      "textEs": "Adapta tu estrategia al personaje que te mostraron la primera noche. Si te mostraron al Investigador, intenta que muera pronto para que ambos podáis conocer información cuanto antes. Si te mostraron al Enterrador, espera a que haya aprendido al menos un personaje ejecutado para que podáis corroborar información y confiar el uno en el otro."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre lo que se puede deducir al morir el personaje duplicado.",
+      "textEs": "Sabes que cierto personaje está en juego, pero no qué jugador lo tiene. Cuando alguien muera, quizá puedas confirmar que era el personaje que decía ser. Si muere alguien y no obtienes la habilidad duplicada, esa persona no era el personaje que aprendiste: el personaje real sigue en juego."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-10",
+      "mentionedCharacterIds": [
+        "seamstress",
+        "librarian"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de la Costurera y la Bibliotecaria, ausentes del guion; se conservó la regla general sobre habilidades de un solo uso o información inicial ya utilizadas.",
+      "textEs": "Recuerda que algunos personajes de un solo uso y algunos que empiezan con información pueden haber usado ya su habilidad. Si consigues que ejecuten a uno de ellos cuando estabas loco creyendo ser ese personaje, confirmarás quién era y podrías obtener otra vez su habilidad y nueva información."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-11",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Se restaura la conclusión completa de la viñeta oficial: no solo desconocer la muerte, sino sospechar que no es Duende.",
+      "textEs": "Puedes probar al supuesto Duende si eres el personaje que dice duplicar y no te has revelado: calla y procura que te maten. Cuando mueras, debería obtener una habilidad y hablar de ella. Si no dice haberla obtenido, probablemente no sea Duende, porque no sabía que habías muerto."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-12",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general sobre los dobles reclamos cuando hay un Duende.",
+      "textEs": "Si el Duende aparece en el guion, no sospeches automáticamente de dos jugadores que afirman ser el mismo personaje: podrían ser dos buenos jugando bien sus papeles, aunque los malvados también pueden aprovechar el doble reclamo. A menudo conviene ejecutar a uno; quizá ejecutes a un malvado o a un jugador bueno que dé al Duende una habilidad extra."
+    },
+    {
+      "section": "tips",
+      "sourceUnit": "tips-13",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Consejo general para revelar pronto la información inicial sin buscar obtener otra habilidad.",
+      "textEs": "También puede servir decir pronto que eres el Duende y renunciar deliberadamente a obtener otra habilidad. Empiezas sabiendo que cierto Aldeano bueno está en juego, y revelarlo puede ayudar a confirmar que ese jugador es bueno. El grupo sabrá que eres el Duende, así que no tiene sentido fingir otro personaje durante esta partida."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-1",
+      "mentionedCharacterIds": [
+        "washerwoman",
+        "monk"
+      ],
+      "requiredCharacterIds": [
+        "washerwoman",
+        "monk"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende de la Lavandera y el Monje, ausentes del guion."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-2",
+      "mentionedCharacterIds": [
+        "drunk",
+        "lycanthrope"
+      ],
+      "requiredCharacterIds": [
+        "lycanthrope"
+      ],
+      "decision": "omit",
+      "reason": "Aunque el Borracho aparece en el guion, el ejemplo depende de la habilidad del Licántropo, ausente."
+    },
+    {
+      "section": "examples",
+      "sourceUnit": "examples-3",
+      "mentionedCharacterIds": [
+        "soldier"
+      ],
+      "requiredCharacterIds": [
+        "soldier"
+      ],
+      "decision": "omit",
+      "reason": "El ejemplo depende del Soldado, ausente del guion."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-1",
+      "mentionedCharacterIds": [
+        "tea-lady",
+        "grandmother"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Se quitaron los ejemplos de la Dama del Té y la Abuela, ausentes del guion; se conservó la estrategia aplicable a un doble reclamo.",
+      "textEs": "Si eres un Esbirro y has caído en un doble reclamo complicado, puedes hablar en privado con el otro jugador y decirle que eres su Duende. Quizá acepte tenerte como respaldo por si muere de forma inesperada; esto puede ayudarte a salir del apuro y mantener al equipo bueno con dudas."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para farolear como Duende desde el principio o como recurso de emergencia.",
+      "textEs": "El Duende es un buen recurso de última hora si te metes en un aprieto, pero también puedes planear ese farol desde el principio. Elige un Aldeano que sospeches que está en juego y mantén la actuación. Si lo está, quizá se ponga en contacto contigo; si no, puedes usar el farol para hacer creer que está en juego o respaldar la historia de un compañero malvado."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-3",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de doble reclamo para generar confianza.",
+      "textEs": "Elegir a un buen jugador fuerte para reclamar el mismo personaje puede hacer que los demás confíen tanto en él como en ti. Respaldar el farol de un jugador malvado también puede hacerlo parecer más fiable, aunque corréis el riesgo de parecer una pareja malvada si descubren a uno de los dos."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-4",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para convertir la sospecha en una alianza aparente.",
+      "textEs": "Si el pueblo desconfía de los Duendes traviesos, aprovecha esa idea y revela deliberadamente que eres uno para vincularte a otro jugador. Si el grupo sospecha de ti, el jugador al que señalas como cómplice podría parecer parte del plan."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-5",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general para ganar confianza revelando el farol en privado.",
+      "textEs": "Revela en secreto a otros jugadores que eres el Duende para ganar su confianza y alargar tu supervivencia. Como no eres realmente un Duende, no tienes que preocuparte por romper la locura."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-6",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general ante la aparición de un Duende real.",
+      "textEs": "Si faroleas como Duende y aparece uno real, no te alarmes. El doble reclamo plantea un dilema al equipo bueno: deben averiguar quién es el Duende y si sois una pareja malvada o si un jugador malvado está manipulando a uno bueno. Esa confusión puede apartar al pueblo del Demonio."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-7",
+      "mentionedCharacterIds": [
+        "fortune-teller"
+      ],
+      "requiredCharacterIds": [],
+      "decision": "partial",
+      "reason": "Las comillas de la fuente «Pixie» indican un farol; no se obtiene realmente la habilidad. Se conserva la excusa de romper la locura y el recuento de noches.",
+      "textEs": "Si muere el Aldeano que dices duplicar, tendrás que fingir que has obtenido su habilidad, salvo que hayas alegado romper la locura. Conoce cómo funciona y recuerda cuándo murió para explicar cuántas noches de información fingida llevas."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-8",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Farol genérico con tres posibilidades y sin dependencias de personajes concretos.",
+      "textEs": "Si el Demonio te dio el Duende como uno de sus tres faroles, tienes varias opciones: puedes usarlo para confirmar uno de los personajes en juego; combinarlo con otro farol y crear una falsa disputa con un compañero malvado que se resuelva cuando uno muera; o afirmar que aprendiste un personaje que no está en juego y obtener así un farol adicional."
+    },
+    {
+      "section": "bluffing",
+      "sourceUnit": "bluffing-9",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Estrategia general de farol frente a un Duende real que mantiene la locura.",
+      "textEs": "Si hay un Duende real en juego, es poco probable que revele pronto que lo es. Si averiguas quién es y consigues que sobrevivan tanto él como el personaje que aprendió, podrías afirmar que eres el Duende mientras el real permanece callado para no romper la locura. Cuando por fin se revele, tendrá que convencer al grupo de que tú no eres el auténtico."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-1",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Preparación y procedimiento completos de la primera noche.",
+      "textEs": "Durante la primera noche, marca con el recordatorio LOCO una ficha de personaje Aldeano. Despierta al Duende, muéstrale esa ficha y vuelve a dormirlo."
+    },
+    {
+      "section": "howToRun",
+      "sourceUnit": "howtorun-2",
+      "mentionedCharacterIds": [],
+      "requiredCharacterIds": [],
+      "decision": "keep",
+      "reason": "Procedimiento completo cuando muere el Aldeano y se concede su habilidad.",
+      "textEs": "Si muere el Aldeano marcado LOCO y consideras que el Duende estuvo lo bastante loco creyendo ser ese personaje, sustituye el recordatorio LOCO por el recordatorio TIENE LA HABILIDAD. Desde entonces, el Duende tiene la habilidad de ese Aldeano y despierta de noche cuando normalmente despertaría ese personaje."
+    }
+  ],
+  "displaySections": {
+    "summary": [
+      {
+        "textEs": "El Duende finge ser el mismo personaje que otra persona. La primera noche, el Narrador elige un Aldeano en juego y te muestra cuál es, pero no quién lo tiene. Cuando ese jugador muere, obtienes su habilidad si el Narrador considera que intentaste convencer al grupo de que eras ese Aldeano. Puede bastar una actuación convincente durante un día, una mantenida toda la partida o acusar al verdadero Aldeano de mentir.",
+        "sourceUnits": [
+          "summary-1",
+          "summary-2",
+          "summary-3"
+        ]
+      },
+      {
+        "textEs": "Cuando muere el Aldeano, el Duende no recibe un aviso ni aprende que obtuvo una habilidad. Puede darse cuenta si empieza a despertar de noche para recibir información o si le piden que elija jugadores.",
+        "sourceUnits": [
+          "summary-4"
+        ]
+      },
+      {
+        "textEs": "Si el jugador que aprendió el Duende cambia de personaje y después muere, el Duende obtiene la habilidad del Aldeano que aprendió, no la del personaje nuevo.",
+        "sourceUnits": [
+          "summary-5"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "textEs": "Afirma ser el Aldeano mostrado, comparte su supuesta información, di que usas su habilidad y acusa al verdadero jugador para conseguir su muerte. Puedes actuar desde el primer minuto todos los días, o guardar silencio unos días y convencer cuando creas posible su ejecución. Si el Narrador considera suficiente tu locura y que ayudó a matarlo, obtendrás la habilidad.",
+        "sourceUnits": [
+          "tips-1",
+          "tips-2",
+          "tips-3"
+        ]
+      },
+      {
+        "textEs": "Tras obtener la habilidad puedes revelar públicamente que eras Duende y usarla; quizá debas disculparte con el bueno al que perjudicaste. Revelarte antes rompe la locura y probablemente impida obtenerla. También puedes renunciar deliberadamente a ella y revelarte pronto para compartir el Aldeano que sabes en juego y ayudar a confirmarlo; ya no tendrá sentido fingir otro personaje.",
+        "sourceUnits": [
+          "tips-4",
+          "tips-5",
+          "tips-13"
+        ]
+      },
+      {
+        "textEs": "Decir en privado al duplicado que eres su Duende puede convencerlo de aceptar la ejecución. Si lo oye el Narrador, o se lo cuenta un malvado al que se lo dijiste, no obtendrás la habilidad. Mantén un esfuerzo sincero y activo para convencer al grupo.",
+        "sourceUnits": [
+          "tips-6",
+          "tips-7"
+        ]
+      },
+      {
+        "textEs": "Adapta el momento al personaje: mata pronto al Investigador para recibir ambos información, pero espera al menos una ejecución conocida por el Enterrador para corroborarla. La muerte puede confirmar al duplicado; no recibir su habilidad apunta a que sigue en juego el verdadero. Las habilidades iniciales o de un uso ya gastadas pueden darte un segundo uso si cumpliste la locura.",
+        "sourceUnits": [
+          "tips-8",
+          "tips-9",
+          "tips-10"
+        ]
+      },
+      {
+        "textEs": "El duplicado puede probar al supuesto Duende sin revelar su personaje: callarse, procurar morir y observar si reclama su nueva habilidad; si no, probablemente no sea Duende y desconociera su muerte. Un doble reclamo puede ser de dos buenos, uno Duende, o incluir un malvado. Ejecutar a uno puede eliminar a ese malvado o dar la habilidad al Duende.",
+        "sourceUnits": [
+          "tips-11",
+          "tips-12"
+        ]
+      }
+    ],
+    "examples": [],
+    "bluffing": [
+      {
+        "textEs": "El farol puede rescatar un doble reclamo de Esbirro hablando en privado con el otro jugador, que quizá te acepte como respaldo. O prepáralo desde el inicio con un Aldeano que sospeches en juego: puede contactarte, parecer en juego aunque no lo esté o respaldar a un compañero. Duplicar a un bueno fuerte da confianza a ambos; respaldar a un malvado arriesga parecer una pareja malvada si descubren a uno. Si desconfían de Duendes traviesos, revelarte puede vincular tus sospechas al duplicado.",
+        "sourceUnits": [
+          "bluffing-1",
+          "bluffing-2",
+          "bluffing-3",
+          "bluffing-4"
+        ]
+      },
+      {
+        "textEs": "Revelarte en secreto gana confianza y supervivencia sin riesgo real de romper locura. Si aparece un Duende auténtico, el doble reclamo enreda quién lo es y quién manipula a quién, apartando al grupo del Demonio. Si identificas al real y mantienes vivos a él y al duplicado, quizá deba callar para conservar la locura mientras tú pareces auténtico; después tendrá que desmentirte.",
+        "sourceUnits": [
+          "bluffing-5",
+          "bluffing-6",
+          "bluffing-9"
+        ]
+      },
+      {
+        "textEs": "Si muere el Aldeano que dices duplicar, tendrás que fingir que has obtenido su habilidad, salvo que hayas alegado romper la locura. Conoce cómo funciona y recuerda cuándo murió para explicar cuántas noches de información fingida llevas.",
+        "sourceUnits": [
+          "bluffing-7"
+        ]
+      },
+      {
+        "textEs": "Si el Demonio te dio el Duende como uno de sus tres faroles, tienes varias opciones: puedes usarlo para confirmar uno de los personajes en juego; combinarlo con otro farol y crear una falsa disputa con un compañero malvado que se resuelva cuando uno muera; o afirmar que aprendiste un personaje que no está en juego y obtener así un farol adicional.",
+        "sourceUnits": [
+          "bluffing-8"
+        ]
+      }
+    ],
+    "howToRun": [
+      {
+        "textEs": "Durante la primera noche, marca con el recordatorio LOCO una ficha de personaje Aldeano. Despierta al Duende, muéstrale esa ficha y vuelve a dormirlo.",
+        "sourceUnits": [
+          "howtorun-1"
+        ]
+      },
+      {
+        "textEs": "Si muere el Aldeano marcado LOCO y consideras que el Duende estuvo lo bastante loco creyendo ser ese personaje, sustituye el recordatorio LOCO por el recordatorio TIENE LA HABILIDAD. Desde entonces, el Duende tiene la habilidad de ese Aldeano y despierta de noche cuando normalmente despertaría ese personaje.",
+        "sourceUnits": [
+          "howtorun-2"
+        ]
+      }
+    ]
+  },
+  "synthesisReview": {
+    "summary": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "tips": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "examples": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    },
+    "bluffing": {
+      "reviewStatus": "reviewed",
+      "decision": "condensed",
+      "checkedAt": "2026-10-09",
+      "reason": "Síntesis editorial revisada desde las unidades traducidas y filtradas. Se acortan expresiones y se reúnen alternativas con sus motivos; cada opción, condición y cautela conserva una referencia."
+    },
+    "howToRun": {
+      "reviewStatus": "reviewed",
+      "decision": "unchanged",
+      "checkedAt": "2026-10-09",
+      "reason": "Sin cambios: texto ya conciso o sección protegida; no se parafrasea por obligación."
+    }
+  }
+}
