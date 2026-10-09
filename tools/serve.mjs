@@ -7,7 +7,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../site
 const types = { '.html':'text/html; charset=utf-8', '.css':'text/css', '.js':'text/javascript', '.svg':'image/svg+xml', '.png':'image/png', '.webp':'image/webp', '.woff2':'font/woff2' };
 const server = http.createServer(async (req, res) => {
   try {
-    let relative = decodeURIComponent(new URL(req.url, 'http://localhost').pathname).replace(/^\/+/, '');
+    let relative = decodeURIComponent(new URL(req.url, 'http://bloodpals.invalid').pathname).replace(/^\/+/, '');
     // Also exercise the exact repository-prefix behavior used by GitHub Pages.
     if (relative.startsWith('Bloodpals/')) relative = relative.slice('Bloodpals/'.length);
     let filename = path.resolve(root, relative);
@@ -22,4 +22,4 @@ const server = http.createServer(async (req, res) => {
   } catch { res.writeHead(400).end('Solicitud no válida'); }
 });
 const host = process.env.BLOODPALS_PREVIEW_HOST || '127.0.0.1';
-server.listen(5173, host, () => console.log('BLOODPALS: http://' + host + ':5173/'));
+server.listen(5173, host, () => console.log('BLOODPALS preview server started on port 5173.'));

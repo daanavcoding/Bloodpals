@@ -25,8 +25,6 @@ npm run build
 npm run preview
 ```
 
-Open [http://127.0.0.1:5173/](http://127.0.0.1:5173/).
-
 To run the complete content checks:
 
 ```sh
@@ -100,8 +98,6 @@ $env:PAGES_BASE_PATH = '/Bloodpals/'
 npm run build
 npm run preview
 ```
-
-The preview server also supports [http://127.0.0.1:5173/Bloodpals/](http://127.0.0.1:5173/Bloodpals/).
 
 ## Sources and attribution
 
