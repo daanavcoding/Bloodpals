@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
-  <image href="../background/bloodpals-plum-botanical.webp" width="1280" height="640" preserveAspectRatio="xMidYMid slice"/>
-  <rect width="1280" height="640" fill="#140b1b" opacity=".14"/>
-  <image href="bloodpals.svg" x="150" y="185" width="980" height="269"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <image href="../background/bloodpals-plum-botanical.webp" width="1200" height="630" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1200" height="630" fill="#140b1b" opacity=".14"/>
+  <!-- Keep the complete wordmark inside the central 630px square used by compact previews. -->
+  <image href="bloodpals.svg" x="320" y="238" width="560" height="154"/>
 </svg>

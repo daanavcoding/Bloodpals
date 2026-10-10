@@ -13,6 +13,7 @@ Choose a script, browse its characters, and open a guide during a game. BLOODPAL
 - An HTML reading fallback for browsing without JavaScript.
 - Responsive layouts, parchment panels, and locally hosted character artwork.
 - A fixed parchment palette in light and dark browser themes. Generated pages version the stylesheet by its content so updates do not reuse an older cached theme.
+- Share previews on the homepage and script pages, with the complete logo kept inside the image's central square for compact thumbnails.
 - Source references and editorial records for translations and summaries.
 
 The current library includes **Anonymous Cult Dishonesty**, a 25-character script by **Gamepals**, with its setup table and night instructions.
@@ -79,6 +80,8 @@ See [AGENTS.md](AGENTS.md) for the complete contributor workflow. The existing A
 | `node tools/build.mjs --demo` | Generate fictional development pages in `work/demo-site/` |
 
 The browser receives generated HTML, CSS, JavaScript, and images. Content preparation happens before generation. Reading a character guide uses content already included in its script page.
+
+The sharing image is `assets/images/brand/bloodpals-social-preview-v2.jpg` (1200 × 630), rendered from `bloodpals-social-preview.svg`. Keep the logo within the central 630 × 630 area when updating it. Both page templates include absolute image URLs and their own canonical URL. Character links use fragments within a script page and share that script's preview. A new image filename prevents reuse of the old image URL; messaging apps may still cache previews of previously shared page URLs.
 
 Automated checks verify structure, references, selected regressions, and equality of protected text. Editorial review verifies the meaning and completeness of translations and summaries.
 
