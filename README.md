@@ -81,6 +81,8 @@ See [AGENTS.md](AGENTS.md) for the complete contributor workflow. The existing A
 
 The browser receives generated HTML, CSS, JavaScript, and images. Content preparation happens before generation. Reading a character guide uses content already included in its script page.
 
+Both templates declare `color-scheme: only light` for browser themes and include the [official Dark Reader lock](https://github.com/darkreader/darkreader/blob/main/CONTRIBUTING.md#disabling-dark-reader-on-your-site) to preserve the authored palette and textures when that extension is active. These are separate protections: Dark Reader can replace styles despite the browser color-scheme declaration.
+
 The sharing image is `assets/images/brand/bloodpals-social-preview-v2.jpg` (1200 × 630), rendered from `bloodpals-social-preview.svg`. Keep the logo within the central 630 × 630 area when updating it. Both page templates include absolute image URLs and their own canonical URL. Character links use fragments within a script page and share that script's preview. A new image filename prevents reuse of the old image URL; messaging apps may still cache previews of previously shared page URLs.
 
 Automated checks verify structure, references, selected regressions, and equality of protected text. Editorial review verifies the meaning and completeness of translations and summaries.
