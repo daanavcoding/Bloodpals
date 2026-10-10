@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { loadProjectContent } from './content.mjs';
 
@@ -18,8 +19,13 @@ function escapeHtml(value) {
     .replaceAll("'", '&#39;');
 }
 
-function readTemplate(name) {
-  return fs.readFile(path.join(projectRoot, 'templates', name), 'utf8');
+const styleVersion = createHash('sha256')
+  .update(await fs.readFile(path.join(projectRoot, 'assets/css/site.css')))
+  .digest('hex').slice(0, 12);
+
+async function readTemplate(name) {
+  const template = await fs.readFile(path.join(projectRoot, 'templates', name), 'utf8');
+  return template.replaceAll('{{STYLE_VERSION}}', styleVersion);
 }
 
 function renderSection(unitGroup, title, sectionClass = '') {

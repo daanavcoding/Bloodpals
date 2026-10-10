@@ -12,6 +12,7 @@ Choose a script, browse its characters, and open a guide during a game. BLOODPAL
 - Accessible dialogs with keyboard navigation, browser history, and scroll restoration.
 - An HTML reading fallback for browsing without JavaScript.
 - Responsive layouts, parchment panels, and locally hosted character artwork.
+- A fixed parchment palette in light and dark browser themes. Generated pages version the stylesheet by its content so updates do not reuse an older cached theme.
 - Source references and editorial records for translations and summaries.
 
 The current library includes **Anonymous Cult Dishonesty**, a 25-character script by **Gamepals**, with its setup table and night instructions.

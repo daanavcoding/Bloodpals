@@ -15,6 +15,7 @@
 }
 
 :root {
+  /* Preserve the authored parchment palette independently of the browser theme. */
   color-scheme: only light;
   forced-color-adjust: none;
   --plum: #211329;
